@@ -1,0 +1,62 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Mint green palette – override before importing minima
+$background-color: #e0f2e9 !default;   // soft mint
+$text-color: #1a2e1a !default;         // dark green-grey for body text
+$brand-color: #0d5c45 !default;        // deep teal-green for links
+$grey-color: #5a6b5a !default;         // muted green-grey for meta, footer
+$grey-color-light: #c5ddc9 !default;   // light mint-grey for borders
+$grey-color-dark: #3d4d3d !default;    // darker accent
+
+@import "minima";
+
+// Extra overrides so header/footer and nav use the mint palette
+.site-header {
+  border-top-color: $grey-color-dark;
+  border-bottom-color: $grey-color-light;
+}
+
+// Banner image as site title
+.site-title {
+  display: block;
+  line-height: 0;
+  font-size: 0;
+}
+.site-title-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+.site-title:visited {
+  color: transparent;
+}
+
+.site-nav .page-link {
+  color: $text-color;
+}
+
+.site-footer {
+  border-top-color: $grey-color-light;
+}
+
+// Footer: first column left, second column right
+.site-footer .footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.site-footer .footer-col {
+  float: none;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    background-color: $background-color;
+    border-color: $grey-color-light;
+  }
+}
