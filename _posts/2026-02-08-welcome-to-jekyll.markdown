@@ -1,29 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2026-02-08 12:27:42 -0500
-categories: jekyll update
+title:  "Welcome to SocialMemoryComplex.Earth!"
+date:   2026-02-14
+categories: 
+  - site-news
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<!-- more -->
+The [Other Selves Working Group](https://otherselvesworking.group) is proud to announce that, as they reorganize, they are taking what they've learned so far and launching this site to share it as carefully as possible. Our mission is to help others achieve what we have: intimate seeking circles in which trust can be achieved, seeking can be genuinely shared, and magical power can be directed towards service-to-others ends.
+<!-- more -->
 
-Jekyll requires blog post files to be named according to the following format:
+Our first goal is the creation of an invite-only community platform for seeking. The goal is to have a discussion and sharing more informed by experience, knowledge of the philosophy, and congruency of vibration. **This is the first step, not the last.** In the long run, we hope to be able to provide a toolkit for seekers at any level to be able to start forming community with those with whom they resonate. In the short term, we are going to start where we resonate and then expand out once the center is solid.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I'm also envisioning this blog to be a platform for not only sharing interesting thoughts, insights into Confederation philosophy, and prompts for discussion but also as a way to _harvest interesting private conversations into pieces from which the public can benefit_. In creating a private space, we hope to be able to elevate the quality of information offered outside that space. We want to demonstrate what is possible or disprove it by trying!
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+If you want to get in touch, reach out. My name is Jeremy and you can email using that name `@` the domain of the working group linked in the first sentence (trying to avoid spam). Happy seeking!

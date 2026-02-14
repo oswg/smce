@@ -30,6 +30,8 @@ url: "https://socialmemorycomplex.earth" # the base hostname & protocol for your
 youtube_username: "@oswg"
 github_username: "oswg"
 tiktok_username: "otherselvesworkinggroup"
+excerpt_separator: <!-- more -->
+show_excerpts: true
 
 # Navigation (pages to show in header; order is respected)
 header_pages:
