@@ -4,8 +4,6 @@
 layout: home
 ---
 
-# Building spiritual community, one circle at a time
-
 [socialmemorycomplex.earth](https://socialmemorycomplex.earth) (SMCE) is a project launched by the [Other Selves Working Group](https://otherselvesworking.group) to help seekers in the [Law of One](https://lawofone.info) tradition build deep, spiritually resilient community that can work in tandem with the incoming fourth density energies as we reach harvest on Earth.
 
 ## Resources for Seekers
