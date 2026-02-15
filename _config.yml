@@ -32,6 +32,7 @@ github_username: "oswg"
 tiktok_username: "otherselvesworkinggroup"
 excerpt_separator: <!-- more -->
 show_excerpts: true
+permalink: /blog/:year/:month/:day/:title/
 
 # Navigation (pages to show in header; order is respected)
 header_pages:
