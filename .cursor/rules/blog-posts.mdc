@@ -1,0 +1,14 @@
+---
+description: How to behave when the user is writing or editing blog post bodies
+globs: _posts/**
+alwaysApply: false
+---
+
+# Blog post body editing
+
+When the user is writing or editing the **body** of a blog post (any file in `_posts/`):
+
+- **While they are writing:** Do not offer unsolicited suggestions, completions, or "you could also…" ideas. Only answer direct questions. Stay out of the way.
+- **After they are done:** Style ideas are welcome when they ask or indicate they're finished—e.g. formatting, blockquotes, headings, structure, tone, readability.
+
+This applies only to post content. For other files in the repo (layouts, config, assets, etc.), suggest freely as usual.
