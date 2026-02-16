@@ -64,3 +64,10 @@ $grey-color-dark: #3d4d3d !default;    // darker accent
 .subtitle {
   font-style: italic;
 }
+
+.post-read-more {
+  display: block;
+  margin-top: 0.5em;
+  font-style: italic;
+  text-align: right;
+}
