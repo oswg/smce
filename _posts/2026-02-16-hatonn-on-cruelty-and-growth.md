@@ -1,5 +1,5 @@
 ---
-title: Laitos on Cruelty and Growth
+title: Hatonn on Cruelty and Growth
 layout: post
 date: 2026-02-16
 categories:
