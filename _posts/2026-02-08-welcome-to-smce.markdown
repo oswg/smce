@@ -3,7 +3,8 @@ layout: post
 title:  "Welcome to SocialMemoryComplex.Earth!"
 date:   2026-02-14
 categories: 
-  - site-news
+  - Topic/SMCE
+  - Author/Jeremy
 ---
 The [Other Selves Working Group](https://otherselvesworking.group) is proud to announce that, as they reorganize, they are taking what they've learned so far and launching this site to share it as carefully as possible. Our mission is to help others achieve what we have: intimate seeking circles in which trust can be achieved, seeking can be genuinely shared, and magical power can be directed towards service-to-others ends.
 <!-- more -->

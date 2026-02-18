@@ -5,6 +5,7 @@ date: 2026-02-17
 categories:
     - Contact/Hatonn
     - Instrument/Carla
+    - Author/Jeremy
     - Topic/Mind-Body-Spirit Complex
     - Topic/Thought Forms
     - Topic/Peace

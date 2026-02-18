@@ -3,8 +3,9 @@ layout: post
 title: Hark! A new HARC
 date: 2026-02-14
 categories:
-    - HARC
-    - Channeling
+    - Topic/HARC
+    - Topic/Channeling
+    - Author/Jeremy
 excerpt: As our project gathers itself and gets started, we're looking forward to a world where channeling is not just occuring in Richmond, VA and Anchorage, KY. Other channeling circles following the protocols are coming online, and as they gain experience and improve the quality of contact, they will need a place to publish. We could set up a separate site for each circle, but this could eventually fracture the philosophy and possibly even promote competition between circles. What we need is not simply cooperation but a dialogue, vetting each other's messages for quality, accuracy, and polarity as we expand and deepen our understanding of the Confederation's philosophy.
 ---
 ![HARC banner]({{ "/assets/harc_fb_hq.png" | relative_url }})
