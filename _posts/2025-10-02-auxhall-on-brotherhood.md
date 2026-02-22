@@ -1,0 +1,39 @@
+---
+title: Auxhall on Brotherhood
+layout: post
+date: 2025-10-02
+categories:
+  - Meta/Legacy
+
+---
+
+Going back over the transcripts I read morning after morning for ten years has been wild. There's so many nuggets of beautiful insight that I glossed over just to take it all in, but maybe that is always what an initial read of an archive entails. In any case, here's one that I distinctly remember as absolutely pivotal both in capturing my heart and in my neglect of it afterwards, for its message could have been vital guidance in certain organizational conflicts in which I later engaged.
+
+This session has many high points and I'll probably write something about another passage in here later, but this to me is the most poignant, speaking directly to the kind of spiritual solidarity I've felt motivated by for some time. We typically think coming together in the name of our Creator is some sort of thing we arrange and negotiate with each other, and quite rightly so. It seems that the harmony we seek is something expressed in how our individual characteristics mingle, and that unless we attend to these dynamics carefully we are simply creating an untenable alliance. Auxhall is here to tell us, no: it is not for _our_ sake that we love and accept and withhold judgement from our brothers and sisters, because we don't consciously see far enough to even judge _ourselves_, let alone another.
+
+We come to each other _through_ the Creator, not directly with one another. This allows for us to release the judgement and strategy involved in normal organizing, because it's not _our_ organizing any longer, and it doesn't have to serve _our_ interests. And with this fear off the table (something expounded upon later by, I believe, Auxhall via Hal Price), we can simply be instruments instead of directors, conduits instead of centers, calling back to the more central center at every pass.
+
+The last passage is so key to me: this is not about _equality_, or rather, equality of ego personalities. At that level, there will always be strengths and weaknesses, and we don't perceive enough to see how these will mingle and augment or detract from each other, at least not ahead of time. This is about giving oneself to the Creator in your brother or sister, and thereby letting the Creator put these pieces together in the way It sees fit. It's a huge load off of the shoulders of those of us who have fancied ourselves "organizers," I can tell you that!
+
+> I am Oxal*. I greet each of you in the love and the light of our infinite Creator. We of the Brotherhood are, as always, most privileged to be with you. The Confederation of Planets in the Service of the Infinite Creator is indeed a brotherhood, my friends, and our purpose is one: to share with you our understanding of love. We are of one purpose, although we are quite different, one from the other.
+> 
+> But we have learned, my friends, in our travels what brotherhood is. If we could share with the peoples of your planet this understanding, those troubles which each of you has with your brothers would be no more.
+>
+> We ourselves know that we are not perfect beings, and that we cannot judge or be judged by any of our brothers. There is no way, my brothers, of judging yourself or others in a spiritual manner. You can never know precisely how you are doing along the spiritual path, for those things which signify to your eyes as being one way or the other, good or evil, positive or negative, may in the eyes of the Creator signify something quite different.
+>
+> It is a difficult thing to give up, that judging of yourself and of others. It is a difficult thing to love yourself and others in a totally trusting way. Yet this is precisely the key to understanding. If we could offer you this understanding of yourself as a being who is capable of many, many imperfect acts, yet whose heart is perfect, then we would have succeeded in a great thing.
+>
+> For you see, my brothers, brotherhood is only possible to be unified with your brothers through the Creator. You will never be one with your brothers on the level of man to man, or man to woman, for imperfections breed discontent, and misunderstandings always occur. Yet, by the grace of the Creator within you and within your brother, there is a link so strong and so perfect that it can make the most opposite and diverse personalities one. It can cause the most unsympathetic situation to come into harmony. And this transformation occurs when a brother stops seeking a brother in love, and seeks only to rejoice in the Creator who is in his brother, be he a friend or a foe.
+>
+> There is such a confusion among your peoples, such a terrible, noisy confusion, in which you speak incessantly of right and wrong, in which your peoples judge and accept judgments and spend endless, endless time in discussion. Yet harmony will never come on that level; right and wrong will never be discovered on that level. From the smallest relationship to the greatest of your nations’ relationships, brotherhood can never be achieved by reason, but only, as you would call it, by prayer and meditation.
+>
+> People are not alike, yet love has created them all. And the Creator within them is lovable, is love itself, and can speak to you of love in the face of the most inharmonious aspect on the outer plane. The spiritual path is not an easy one. You have known this, my friends, for some time. And when we say to you that our message is simple, we do not for a moment think that it is a simple thing to put into action. It has been written in your holy works that the master who teaches the consciousness of Christ brought not peace, but a sword. And this is the sword we ask you to accept in your lives, the sword of not judging, the sword of even willing to be foolish in another’s eyes. For when one does not judge, when one is willing to trust to the Creator, those around that person may think of him as foolish. Moreover, there is a great satisfaction on the love of a personality in, shall we say, vengeance or getting even. But what you are doing, my friends, when you answer those who judge you with an answering judgment, is collecting your karma, as you would call it, there on the spot. Yet your karma to them has not been collected, and you will answer for that karma. Far better that you allow the karma that has come to you to die, as you forgive, and in that forgiveness, the karma that is reflected from you is satisfied.
+>
+> Whatever one has done to you, let it end there, my brothers. Brotherhood is never an equal partnership, for each brother will give more than half; so it will seem to him, for this is the way of learning. You are your brother. Do not think of equality; think of [inaudible] finding more room in your heart for forgiving and understanding and compassion. You are not doing this for another. You are doing this for your brother, who is you.
+
+\- [Auxhall via Rueckert: October 17, 1976](https://www.llresearch.org/channeling/1976/1017)
+
+\* for the sake of fidelity to the transcript, I kept L/L Research's spelling here
+
+
+Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1nw3m15/auxhall_on_brotherhood/).

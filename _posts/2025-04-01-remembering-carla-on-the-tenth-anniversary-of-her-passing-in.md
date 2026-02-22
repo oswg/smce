@@ -1,0 +1,22 @@
+---
+title: Remembering Carla on the tenth anniversary of her passing into larger life
+layout: post
+date: 2025-04-01
+categories:
+  - Meta/Legacy
+
+---
+
+Ten years ago, I was in the midst of a tumultuous and life-changing transformation. In the middle of this storm of catalyst and galvanized seeking, I learned that the 20th century’s most talented and hardest working instrument for the Confederation, Carla Lisbeth Rueckert McCarty, had passed. The loss of Carla hit all of us in the larger L/L Research community hard; as much as we mourned her passing, little did we know how much her cheerful and wise counsel would be missed as we all attempted to navigate the 21st century’s chaos, both as a planet and as individual seekers.
+
+Nobody who knew Carla even moderately well could mistake her as anything but the heart and soul of the L/L Research project. She brought seemingly unlimited enthusiasm for the mystery of seeking, but she never abandoned her Christian roots, setting an example of how to live the exacting life of an instrument in substance, not by making a fancy celebrity of herself. Her role at the center of the project was one that gushed out of her spirit, not a lofty position she seized and protected politically. After all, she and Jim McCarty often kept L/L Research afloat through sheer faith and determination during the post-Ra contact years, and she knew its fragility well, not just materially but its tuning spiritually.
+
+It is in this example setting, perhaps, that Carla lived her Christian values most visibly to others. Much as her savior Jesus showed us what was possible in a human life by “showing, not telling,” Carla’s refusal to sacrifice her personal commitments, eccentricities, and tastes showed what service truly consists of: letting that light shine through the personality by making it clearer and more what it already is. Perhaps most starkly, her example of service arising from self-acceptance helped her do her life’s work in spite of significant, lifelong health challenges that contact with those of Ra had only exacerbated. It’s that passion I miss, because at the risk of sounding crass, her death made more sense than most things in her life given the unrelenting punishment her body endured; the miracle was that she survived and served as long as she did.
+
+It’s not the right time now to comment on events after her death, so I’ll just say that her presence is sorely missed, and L/L Research is just not the same place it used to be. Her funeral was a chance for many of the core seekers to meet again after much time apart, and some projects you may have heard of could be traced back to that mourning. If we can see Carla’s service to the Creator on its own terms and not simply as a piece of a non-profit’s history, I think we can understand that the flowering of seeking groups since her passing is a fitting tribute to that passion—that stubborn unwillingness to compromise the core tuning and message of which she was the honored messenger—that brought so many of us into her orbit. That idealistic, unwavering commitment to seeking demonstrated this philosophy not as an escape from the illusion so much as a way to pull the truth into the illusion, an example I continue to follow to this day.
+
+I will always be grateful for my “big sister of the open heart,” as she wrote in my copy of _A Wanderer’s Handbook_ I had her sign when I first met her in 2002. But that gratitude is coupled with a call to action: to reinvigorate my seeking ten years on, when it is perhaps at its weakest in quite a while. I look to her example to help me balance my life with my work, especially now when the illusion feels like molasses with everything going on in the world. She taught me that we get through these things as a family together with tenderness and vulnerability and courage, and I never took that to mean simply the family at L/L Research. I invite you to honor her memory by finding your family and asking the Creator how they and you might serve.
+
+I love you, Carla, and thank you for everything you gifted us at such great expense. May your memory live on in the work we do for the Creator.
+
+Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1jp0do1/remembering_carla_on_the_tenth_anniversary_of_her/).

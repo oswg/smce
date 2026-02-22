@@ -1,0 +1,26 @@
+---
+title: Laitos on Polarization (2024)
+layout: post
+date: 2025-03-04
+categories:
+  - Meta/Legacy
+
+---
+
+Here's an excerpt from a Richmond Meditation Circle session with Laitos offering some details about the function of polarity in excess of "working with a certain intensity of light" as Ra puts it. Polarization works with our ability to wield the metaphysical power of beingness of which manifest action in the third density illusion is merely the trailing after-effects. However, because of the solid, undeniable, clear (relative to other illusions) feedback that such after-effects entail, it provides inflection points for the development and honing of this power.
+
+I especially appreciate Laitos contrasting polarization with the polarity balance of the Creator at large; it's clear that the capacity for power we are developing is something built to _distinguish_ our experience from the total Creator's, and this would normally be an indicator of a gross tendency towards separation and illusion. Laitos makes clear therefore that the asymmetry of energetic balance we are seeking in third density is merely instrumental, and that in sixth density we shall have plenty of space to fine tune this -- perhaps through further wandering in third density planets (more on that [here](https://har.center/2023-06-18/7/quo-on-the-enduring-effect-of-the-choice)).
+
+> In this density of third, you are attempting to test yourself, you see. You have an important task at hand. And if you were to see the entire lay of the land, so to speak, it would diminish your concentration upon the studies for this test. The test is designed to focus you. It is designed so that you may learn how to focus yourselves in a very particular way. It is not a perfect test, and it is not without consequences that fail to lead to a perfect outcome immediately, any more than your current education leaves no stones unturned.3 No, some excel at some subjects better than others, but it is the ability to learn that must be honed or the education is for naught.
+>
+> Let us extend this metaphor to polarity. It is extremely important that you learn how to channel the Creator’s energy with a certain sincerity, with a certain vibratory frequency, because in fourth density, fifth density, and onwards the illusion is much more difficult to evolve within. You will not have the props of a solid, stable density of condensed matter such as you enjoy now. You will have access much more readily to the time/space illusion, and in this illusion you will enjoy a fluidity that will give you great freedom—so much freedom, in fact, that it will be difficult to always achieve the level of focus necessary to continue your studies, to extend your evolution into the unknown and the uncomfortable.
+>
+> So now you learn a very, very important skill, and it is to love without exception or stint in one of two ways, my brothers and sisters. In the first way, you learn what individuation is for: it is a conduit for the expression of the Creator’s energies out into the creation, so that new processes and new creations may obtain. This must be done in a generous and loving spirit in order for the efficiency to reach the peak of what is possible, and we call this polarity “service-to-others,” a very curious name, for it is impossible in a way not to serve others. So let us explain this in more depth by showing you its opposite, the other side of the pole.
+> 
+> On this other side is great intensity indeed; in some ways, even more intensity in the manner that you recognize it, and it has to do with a congruent intensity of energy channeling that is not primarily extended out of the self, but instead draws within the self and pulls creation into it. It is a way of understanding the Creator, for the Creator has this selfish, domineering aspect as well as the radiant, generous aspect. But the Creator has it in balance, and you in third density are in a way learning how to maintain a balance with the exception of this one pole of energy valence. Service-to-self is what we of the Confederation call this other, inward, ingressing flow of energy in which energy is mastered and controlled and then used as a way to exercise manipulation over the creation.
+>
+> In a functioning creation, both poles are as necessary as a heartbeat: in and out. But you must choose which direction your blood will pump at this level and learn the opposite once you have had this asymmetry push you through the lessons of fourth and fifth density into the sixth where, as our brothers and sisters of Ra have explained, these paradoxes are resolved; not because they change, but because you have that more holistic perspective that the act of polarization has given the motive power to aspire to. All is well in the end, but we speak of this closing of distance between your density and the next, such that you can see a self moving in that direction and continuing with the project of expressing and glorifying our One Infinite Creator.
+
+\- [Laitos via Weiland: May 4, 2024](https://har.center/2024-05-04/12/laitos-on-negotiating-the-open-heart)
+
+Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1j3lf3e/laitos_on_polarization_2024/).

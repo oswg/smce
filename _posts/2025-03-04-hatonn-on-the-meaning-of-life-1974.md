@@ -1,0 +1,28 @@
+---
+title: Hatonn on the Meaning of Life (1974)
+layout: post
+date: 2025-03-04
+categories:
+  - Meta/Legacy
+
+---
+
+What I find striking in this passage is Hatonn's careful description of what truth, once recognized and acknowledged, will _feel_ like -- not what it _is_. Words simply will not capture it. That's an important clue for those of us who overrely on the intellect; whenever we catch ourselves thinking about this stuff, we can safely be assured that we're not there yet. 
+
+It puts Pema Chödrön's technique for stilling thoughts in perspective, actually. She advises that when you notice a busy mind pulling you in the direction of discursive thought, just label that whole experience of thinking, "thinking." Just notice it and say to yourself, "that's thinking." It's the _via negativa_ of meditation: if it's thought, it's not what we're after, and it can be safely released.
+
+I would also point out the necessity that seems to be implied here of reinforcing this non-intellectual, felt truth with behavior in waking life. This increasingly strikes me as a core purpose of incarnation: to serve as a kind of resistance to higher order truth that bears out our will to surrender to it. Perhaps it is to evolution what weights are to workouts: purposeful resistance designed to build a strength. It seems to me that given the immense power at our fingertips in fourth density, where the distinctions between inner thought and external experience break down, some sort of power must need to be understood, practiced, and minimally mastered to allow us to thrive there, though I might just be taking this too linearly, certainly.
+
+> It is often said upon your planet that it is difficult to understand the meaning of life. However, my friends, it is not difficult to understand the meaning of life if you avail yourselves of this understanding through meditation. This meaning will not come to you in words, my friends. You will not be able to explain it in so many sentences or paragraphs. But you will begin to understand this meaning. You will begin to obtain an awareness of it. When this awareness has reached its fullness, you will then be with your Creator, the Creator of us all. And the understanding will be as [it] is, and you then will once more act as Creator. For this reason, my friends, meditation is of an extreme amount of importance. For this reason, my friends, meditation is actually the only real avenue to this understanding. For this understanding cannot be given by words. It can only be reached through knowing. And this knowing can only be reached through meditation.
+> 
+> Many upon your planet have been known as masters. Each of these men became aware of truth, aware of truth from the truth that was within them. [Each] perceived this awareness through the process of meditation. If an individual maintains his interest in things that are external, if he continues to use the intellect for analysis of each of his daily activities and for each of his confrontations as he progresses through his life, he will then be working in a very, very shallow way, with a very, very shallow objective and a very shallow opportunity to understand. It is necessary for him to avail himself of a truth that is not intellectual, a truth that cannot be explained in words, a truth that is only a feeling, a knowing, a truth that is. This may be done, my friends, through meditation. For this reason we seek to bring an understanding of the necessity for meditation.
+> 
+> All men in all places are taken to understanding the single truth that lies within them, the truth of the creation. For the truth of one thing is the truth of another. For all things are one and the same, impossible to separate. They have all been created by the same Thought. They are all made of the same substance and they are all related in the same way. Avail yourselves of this knowledge through meditation. Become aware of this. Become aware of it in such a way that it is the knowing within you that is not an intellectual knowing, but a knowing that transcends everything that you could think or do. A knowing that is. A knowing that is the love, the infinite wisdom of the Creator, the Creator of us all.
+> 
+> This is only available to you, my friends, through meditation. You cannot spell it out. You cannot set it down on paper. You cannot express it in words, for all of these things fall very short of this understanding. This understanding, my friends, is infinite. It is total wisdom, total love. It is within you when you learn to express it in every thought and every deed, in every move, in every breath. Regardless of what you do, regardless of what confronts you, when you are expressing this understanding you are then at one with the truth, at one as you were meant to be, meant to be as a result of the original Thought, the Thought of your Creator, the thought of our Creator.
+> 
+> Reach this understanding. Reach it through meditation. In reaching this understanding you will reach the only joy that there is, a joy that is so profound, so total, so far-reaching that you will not be able to express it. You will only experience it and then you will know it. This knowledge, my friends, is what you seek. It is available quite easily. All that is necessary is that you reach out. Reach out by going within, going within to all there is. For this is the direction to the infinite—infinite wisdom that is yours and your Creator’s.
+
+\- [Hatonn via Elkins: October 13, 1974](https://www.llresearch.org/channeling/1974/1013)
+
+Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1j3bbyd/hatonn_on_the_meaning_of_life_1974/).

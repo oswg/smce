@@ -1,0 +1,36 @@
+---
+title: Hatonn on Planetary Happiness and Desire
+layout: post
+date: 2026-01-10
+categories:
+  - Meta/Legacy
+
+---
+
+Happy 2026 other selves! Trying to get back in the rhythm of posting here. 
+
+This excerpt is not the most vital from the August 9, 1978 session. I encourage you to read [the one where polarity is first hinted at](https://www.reddit.com/r/lawofone/comments/qe7krt/the_question_of_good_and_evil/), almost three years before contact with those of Ra. It's a very poetic conception of polarity, and yet it also has a kind of "physics" to it that I find much more satisfying than anything Ra was able to provide. I've often remarked that polarity must consist of some underlying energetic configuration, and this excerpt gestures at a way to reconcile "evil" and "good" with the dynamics of illusory travel back to the Creator.
+
+The excerpt I'm going to share is closer to where my head is at now: the mystery of social memory, and how we might create some kind of anticipation of what it means to be a self when the boundaries between self and other self become far more porous than they now are. I'll admit that watching the TV show "Pluribus" has also contributed to this pondering, because it's such an exacting portrait of the severity of social memory. But in Gilligan's dramatic telling of this unified planetary mind, all the drama comes through the eyes of the handful of people who are witnessing it from without. That obscures the advantages witnessed within, which are meagerly hinted at.
+
+What Ra always provided us was a more cohesive and precise explanation of the ideas the Confederation had been sharing for over 30 years at that point. And in this case we see social memory described by those of Hatonn in much more easily apprehended terms than Ra --- if for no other reason than because Hatonn is only one density removed from ours. They still understand the leap their planet has made and why it was such an improvement: the unification of desire that allows for each individual's desire to feed into the planetary will. I think that's something Pluribus demonstrates: how many of our planetary issues go away completely once we're not snarling at each other to guarantee individual or sub-group survival, but just all pitch in for a greater idea, and idea that reaches out to heal others as one has been healed.
+
+And of course, where does it all begin? Say it with me: _meditation!_ This allows one to discover one's individual _true_ desire, and it is on the basis of this truth that we can unify that with others to form a planetary self.
+
+> We [hover] [inaudible] in a very large and well-appointed craft with our comforts taken care of, my friends, with all our needs satisfied, the vehicles that carry our spirits totally removed from a condition of want. This, my friends, allows our spirits a state of unlimited freedom. And as we travel without limitation from one level to another within the creation of the Father, we seek what we have always sought. 
+> 
+> We seek what you would term happiness. My friends, if happiness does not mean physical needs being satisfied, then it begins to mean something else and we, my friends, as a civilization, have traveled many more dimensions in thought than you can imagine in pursuit of that which is real and which satisfies our understandings. And we have found one understanding only that constitutes our happiness and that understanding, my friends, is very, very simple. The understanding that we are one, and that our oneness is that of love, is the complete and total message that we have come to give those of planet Earth.
+>
+> That you are one, my brothers and sisters, and that the nature of unity is love, is the truth as we understand it, that we come to share. For you see, my friends, if you are not distracted by the demands of your day-to-day struggle for existence within the physical plane, then you are free to examine your existence as a being in infinite time and space. Now, because you are a being, my friends, there is always a dynamic between that which you now understand and that which you desire to know. We are as intense in our desire to progress as are you. The only difference, my friends, is that we have discovered that we can progress most effectively as a species with our minds and our hearts linked in one desire.
+>
+> And what desire is it, my friends, that gives us happiness? It is the desire, my friends, to share our love with others, the desire to be of service to others. For we have found, since we have no need of the limitations of the physical dimensions, that in spirit “each of you are we” and “we are each of you.” My friends, we are one being. We are not two, we are not several. Whatever the difference is in our condition, those differences are an illusion. For we are all one being formed in love. Like rays of an infinite and everlasting light, we have shot out through the prisms of our hopes and our dreams, and we are each in a unique vibratory position, relative to that great central sun of being which we call the Creator.
+>
+> In meditation, my friends, you can begin to take the prism effect away. When a prism is removed from a light source, the many, many colors and shades of your rainbow become one white light. And so it is with each of you, my friends. It is as though as if you sat in love and contemplation together. Your vibrations shoot off into infinite space as a collection of harmonizing colors and yet, remove that understanding one dimension closer to the Creator, and one sees only the white light of all embracing love. Love, my friends, with a purpose. For nothing in creation exists without purpose. Each of you, my friends, has a purpose.
+>
+> In the past, your contemplations of tomorrow have brought about the present. Those things that you have desired at that time have come to fruition in this time. Yes, my friends, ask and you shall receive, and those things that you have asked for you have received. The future, my friends, as you call that illusion, is yours completely, at this moment. That which you desire will form and sculpture the harmony and the arrangements of your events to come in the future. Therefore, we ask you, desire carefully, my friends. And when you have considered your desire, prosecute it, intensify it, purify it and seek it with all your heart.
+>
+> In meditation, open your heart to your desire. Enter the love that is about you and is empowering you. We are not with you to inform you as to what your desire might be. We cannot suggest to your planet and to its peoples the content of their desires. Nor should you, as [you go among] your peoples, judge others on the content of their desires, so they be different than yours. But for yourself, attempt in love to seek that which you most truly desire. And the white light and love of the creation will be yours to use.
+
+\- [Hatonn via Rueckert: August 9, 1978](https://www.llresearch.org/channeling/1978/0809)
+
+Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1q9ityc/hatonn_on_planetary_happiness_and_desire/).

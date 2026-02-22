@@ -1,0 +1,20 @@
+---
+title: "Q'uo on Will and Desire"
+layout: post
+date: 2024-09-21
+categories:
+  - Meta/Legacy
+
+---
+
+> Selfhood now is to be understood as consciousness which knows itself to be such and seeks for—well, let us ask: for what does it seek? As it experiences itself in its first-found form, this seeking is only in the interrogative, “for what do I seek?” We find that it is the third density, the density of self-consciousness, where this question must not only be asked, but answered. When we say it must be answered, perhaps we overstate the matter, for surely there is much seeking that goes on beyond the third density. And yet, there is something decisive that happens in third density, and that is what we are referring to now in announcing the necessity of the answer. You will know this decisive moment as what we have called the choice. 
+>
+> It is the choice which comes to function as the ultimate and decisive organizing principle for the energies of the self registered at the level of third density. And the choice is to be understood first and foremost as an act of will; in a way, it is the first or inaugurating act of will. Now, to be sure, this inaugurating act of will that takes place within the inner reaches of self-consciousness is not necessarily, or in fact even frequently, self-conscious. And that gives rise to the realization that what you know as your self-consciousness in fact is a cloud of illumination, shall we say, a cloud of illuminated beingness, shall we say, that rides over a vast abyss of the unilluminated, the darksome, the unexplored domain of beingness where the seeds of desire have always sprouted. 
+>
+> So desire, as it is experienced by a being of self-consciousness, will, in contradistinction to will to which one may hold with clarity, come to the self with a certain measure of chaos attendant. Desire is in itself grounded in and the bearer of a kind of randomness, that it is the business of the conscious entity as it becomes self-conscious to organize into a sense of itself with an eye to the value or standard represented by the choice that has been made or that is being made. But for those who are living within the veiled condition, the manner in which this whole dynamic plays out is, by design, confused. So that where desire leaves off and will begins is never very clear, even as where consciousness becomes self-conscious or self-consciousness shades off into the unconscious is clearly demarcated. 
+> 
+> There are thrusts, if you will, of energy born in the unconscious that announce themselves as particular desires, and the being that has newly discovered it is in possession of the awesome capacities introduced by the factor of spirit and its coordinated function of will, for all that, the problem becomes one of assimilating to the higher that which announces itself from below. And in that process lies the whole issue of integration. The integration of which we speak must be ordered to a value, and as we have suggested, that value either can be that all the energies of the self shall be bent on the exaltation of that self or that all the energies of the self shall be bent on the radiant expression of the unifying power of the Creator, which is what we have called service-to-others.
+ 
+[Q'uo via Tyman: November 6, 2023 ](https://har.center/2023-11-06/6/quo-on-will-and-desire)
+
+Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1fm564b/quo_on_will_and_desire/).

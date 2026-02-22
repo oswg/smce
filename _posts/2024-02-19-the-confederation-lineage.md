@@ -1,0 +1,23 @@
+---
+title: The Confederation Lineage
+layout: post
+date: 2024-02-19
+categories:
+  - Meta/Legacy
+
+---
+In my work on my forthcoming book on the channelling of the Richmond Meditation Circle, I've been doing a lot of research into the lineage of UFO contacts. I've written this up as my current understanding of how we got where we are. I'd be interested in any feedback, especially critique. This is part of the README file for a new repository for channelling in this lineage, and so the question of what counts as belonging and what doesn't needs to be addressed.
+
+> The Confederation lineage begins roughly with works like Oahspe and the channelling of Mark Probert's Inner Circle Kethra E'Da Foundation. With the popularity of George Van Tassel's UFO inspired work, we reach a fork in the lineage. Robert Short led a breakaway channelling group that eventually became Thelma B. Terrill's "Ashtar Galactic Command" organization. As a matter of tuning and polarity, we consider the Ashtar Command branch of the UFO channelling too dominated by fear-based, apocalyptic messaging to be useful in applying the Law of One to one's life and thereby better participating in one's spiritual evolution.
+> 
+> Meanwhile, a Detroit scene inspired by Van Tassel's work spawned a second branch that emphasized a less military sounding organization called either the "Universal Confederation" or the "Confederation of Planets in Service to the One Infinite Creator". This Confederation branch of UFO channelling includes Clyde Trepanier's work with the Detroit circle of Walt Rogers, Hal Price, and others. This work would later consolidate under the Circle R aegis. There is also Detroit expatriate Richard T. Miller's Solar Cross Foundation who operated in California, as well as the Louisville group that Hal Price started with Don Elkins of L/L Research fame. These circles operated between the early 50s and late 80s. While there is certainly some fear-based messaging in their work, there is also a clear trajectory over time across the body of work generally towards a higher, more spiritual perspective.
+> 
+> This Confederation channelling tradition was inherited by the Louisville-based Eftspan Foundation founded by seekers including Carla Rueckert and Don Elkins. When those two broke from Eftspan and continued channelling work that eventually included Jim McCarty, we encounter the L/L Research organization and their fifty years of channelling work. Their prime achievement was the stabilization of Confederation philosophy through the information obtained via the narrow band trance contact with the sixth density social memory complex of Ra. Of equal importance was the continuation of the conscious channelling project with the Confederation through the principle of Q'uo.
+> 
+> ...
+> 
+> The Confederation lineage, in summary, can be viewed as a gradual refinement of rational, open-minded inquiry into the mysteries of the universe. It synthesizes two distinct models of what the wider mysteries entail and mean. The first model, the esoteric spiritual milieu stemming from free thought, spiritualism, theosophy, and other attempts to reach beyond standard religion, offered the concepts of planes of existence, ascended masters who teach, and the use of ritual to transcend the mundane. The second model, the UFO and extraterrestrial model, offered a seemingly competing model of inhabited planets sending visitors to help us advance past the crises of modernity.
+> 
+> These two models gradually converge in the channelled work of the 70s until reaching the pinnacle of synthesis in the Ra contact, which established this wider mystery as part of an ongoing process of evolution in consciousness, subsuming the spiritual and the scientific. With this ontological and teleological foundation, several channelling circles continue in making contact with Confederation social memory complexes in order to carefully explicate the objects of their seeking, which do vary in the details but are broadly aligned. The contact with the principle of Q'uo, a kind of proxy for Confederation complexes across fourth, fifth, and sixth densities, is the premier source of information going forward, as it purports to include the Ra complex.
+
+Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1auyobo/the_confederation_lineage/).

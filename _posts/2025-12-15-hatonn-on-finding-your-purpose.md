@@ -1,0 +1,30 @@
+---
+title: Hatonn on Finding Your Purpose
+layout: post
+date: 2025-12-15
+categories:
+  - Meta/Legacy
+
+---
+
+Here's another gem that hits several different interesting points, and if I mentioned them all this wouldn't be the bite-size excerpt survey kind of post that I like to do. I encourage you to read the whole thing, for it features early evidence of the planet's role in social memory as well as some good advice for those of us who sometimes roll our eyes at how other's interpret spiritual material.\
+
+This excerpt focuses on the means by which we are able to connect with the love in any moment, but it's not something we make happen solely in the moment. Meditation is how we gain the frame of mind to even _begin_ to notice it, and it is a long process of slowly acclimating yourself to the stillness at which this love operates.
+
+What kind of details come to mind when you are deep in meditation? And yet, is there any need for them? You've worked hard in your life to learn a language, a culture, a career, how to be in a relationship, etc. This is good programming for your personality. It is necessary to have a yellow-ray "ego" personality that can function as an adequate avatar on the common level of awareness most third density folks are at. 
+
+The point of being so immersed in this vibration such that it colors your personality is so you can allow that personality to handle the details, I'd argue. This frees your attention up for finding the love in the moment, if you are practiced in looking within for what your ego desperately wants to find out there. Once found, then your personality is simply a better or worse conductor of this love into the moment, through the details. All we have to do is call on it--as far as I can tell, friends, it's all calling for service and rendering service at every level up and down the chain of being.
+
+> We are aware, my friends, that in your daily lives you cannot see clearly that love is in everything. And without that truth the problem of finding [inaudible], of knowing friends in everyone, or finding enough supply of those things which are needed for physical existence, of finding mental stimulation which is satisfying, of finding that emotional stability which among your peoples is called happiness--all of these things, my friends, are anything but easy.
+>
+> But you see, my friends, you are not without a clear understanding of love. It is as though you were in a deep, underground prison to which you have the key, my friends. Your body is the prison. It is a dense, chemical [inaudible] which carries your spirit about. It is extremely useful, for in it you experience emotions and situations which act as a catalyst in order that the understanding of your basic spiritual self may become tempered and toughened, thus producing at the end of an experience in the physical body an intense understanding of love. It is as though, my friends, in our vibration we can never truly practice our understanding of love for we see it clearly. Anyone can see in the daylight, but you my friends, are in darkness. To see the light in the darkness is much, much more difficult.
+>
+> What is the key that unlocks the prison? It is a simple key, my friends. It is the key of meditation, or as this instrument has described, the activity of inner listening. Life and love do not come to you from us, from books, from on high. No, my friends, life and love come to you from within. For within each of you is the spark of the Creator. It is a matter of becoming conscious or aware of that spark which is already there and then allowing that light within to shine through to the outside experience and thus illuminating it, thus granting supply were there was lack, healing where there was pain, friendship, brotherhood and harmony where there were enemies, disagreement and disharmony. As you breathe in and as you breathe out, my friends, you use up this mortal life that you have taken on with courage and dedication at the outset to make use of as a time of learning and [inaudible] under adverse circumstances-—under the circumstance of forgetting what you knew as a spirit. Try to remember, my friends, what you already know: that all men are brothers, that love and consciousness dwell in everything, that all that is around you is alive and part of the creation which is love.
+>
+> We ask you, my friends, to have faith. Not in some dogmatic repetition, but in the basic concept that you are not here aimlessly but for a purpose. In meditation, my friends, ask that you may fulfill your purpose. You need not know to the last detail what that purpose is. You need only dedicate yourself to the intention and desire to fulfill your purpose. Spirits, my friends, have a purpose which is inevitable. And that is that they should love and share.
+>
+> The ideas among your people having to do with purpose are all accepted ambitions, and the ideas of greatness and dramatic accomplishment. But we say to you, my friends, that your purpose is to love and to share. The details matter not, but only the care and daily constancy of your willingness to manifest the love of the Creator. In this, my friends, you will surely fail if you attempt to do it yourself. For we are all, when cut off from love, unloving people, unloving beings, my friends, with very few resources. However, the Creator is an infinite and invisible flow of love. In meditation and in conscious thought, call upon that infinite supply.
+
+\- [Hatonn via Rueckert: July 3, 1978](https://www.llresearch.org/channeling/1978/0703)
+
+Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1pn9f8n/hatonn_on_finding_your_purpose/).

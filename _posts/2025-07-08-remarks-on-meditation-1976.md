@@ -1,0 +1,24 @@
+---
+title: Remarks on Meditation (1976)
+layout: post
+date: 2025-07-08
+categories:
+  - Meta/Legacy
+
+---
+
+Another session where the contact's name is not recorded, although we all know who it probably is. Since Ra is so loathe to share thoughts on proper meditation, I find it interesting when the conscious sources -- those who have the admixture of human instrument with Confederation contact -- weigh in, having some inkling of how crucial a question this is for many seekers. They place a great deal of significance on "how earnestly you are seeking," because this earnest desire drives the entire evolutionary process. And I can speak from personal experience that their approach is sound: reading inspirational material and meditating helps one coordinate one's conscious seeking with the mysterious personal dynamics beyond our attention or grasp.
+
+> _How can I meditate better?_
+>
+> My sister, it is my great pleasure to be able to speak with you. We are very pleased for the opportunity. For each person, as this instrument has said, there is a uniquely personal way to get past the difficulties of the conscious mind and settle into a more meditative or contemplative state. In your case, my sister, it is recommended that, for a period of five minutes or so, you take one of the works which personally has spiritual meaning for you, whether it be that which you know as the Holy Bible, or whether it be any other work which has meaning for you personally. Your mental discipline is such that you are accustomed to making good use in a physical sense of your time. Therefore, the main difficulty with your taking time for a meditation period is that it is a waste of time within the intellectual framework.
+>
+> The greatest bridge from the intellect to the spiritual is inspiration. Therefore, reading words of inspiration will at some point give you the inspiration and desire to pause and contemplate that which you have read. At this point, your own intellect will find it permissible to do so, for you will be learning. And truly this, although it is not meditation proper, is an extremely useful method of learning. It is a gateway into the spiritual. If you cannot go further than the contemplation of an inspirational thought, then this will be fine. At some point, as you do this daily, however, you will find that you have stopped thinking about that inspirational thought, and you have not yet thought of anything else. Perhaps that inspiration has led you to another inspiration, and then to another, and then you have a pause. My sister, if that pause lasts five seconds, within that five seconds you have made contact with the silence within, and within that silence is that which we have called the sun. Within that silence is the Creator. Five seconds with the Creator, my sister, is ample. Seek and ye shall find. This has been said over and over.
+>
+> Do not be disheartened if meditations remain short for some time. It is not how long your meditations last, but how earnestly you are seeking. If you knock at that door, it shall be opened. It will not be tomorrow that you are able to spend minutes, and then a quarter of an hour, in deep meditation, yet through the door of contemplation you will become comfortable with the meditation. You see, my sister, there are people who are, shall we say, less energetic, and therefore they do not require their time to be productive. Once you begin to see in your own consciousness the joy and the productive changes which are occurring as a result of your meditation, short as it is, you will no longer consider it as a waste of time. At that point, your being will relax and allow the silence its rightful place.
+>
+> The physical vehicle in all of those among your peoples has been trained to be very active, and even among those who are the least energetic you will find resistance to meditation, for the body itself is not comfortable doing nothing. This is unfortunate but true. It is much better to be totally inactive, and then to move with true purpose, than to be partially active at all tines and have no purpose of a lasting quality. Therefore, we wish you a very productive outcome to your seeking. We assure you that this will be so.
+
+\- [Unknown via Rueckert: February 1, 1976](https://www.llresearch.org/channeling/1976/0201_02)
+
+Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1lut5f8/remarks_on_meditation_1976/).

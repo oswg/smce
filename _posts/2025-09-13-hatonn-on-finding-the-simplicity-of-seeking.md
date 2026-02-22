@@ -1,0 +1,32 @@
+---
+title: Hatonn on Finding the Simplicity of Seeking
+layout: post
+date: 2025-09-13
+categories:
+  - Meta/Legacy
+
+---
+
+Here you can see Hatonn articulating a crude but anticipatory concept of our different complexes comprising ourselves, especially the body complex and spirit complex relating through mind. There's almost a contrast of sorts between this kind of structured beingness and the "angels" they describe, and our experience is one of complexity that obscures the simplicity of love. And this complexity they locate, once again calling to Ra's message, in a choice.
+
+It _is_ a pain to examine the self carefully. We are a tightly choreographed production, my other selves; as Mr. C says in _Twin Peaks: The Return_ to Phyllis Hastings, "you follow human nature perfectly." Oh we do, even in our faults and failings. We are immersed in a crash course in being a flesh and blood human, and to go to the trouble to look closely at it can be confusing at best, painful at worst.
+
+So the thing I take away from this sympathetic relating to the difficulty of our work is that we don't just do it for ourselves, and we don't just do it for some Creator in the sky. All of our learning prepares us to serve other selves and help them along. "Anything you may do for others must first spring from your understanding of yourself." And what exactly is it we do in life that doesn't contribute to that understanding?
+
+So live your life and let the fruits pour out, whether encountering the self in meditation, in prayer, or in the outer world. This places the negative aspects of what we locate within this mental inventory of thoughts in a new light, at least for me.
+
+> Our message to you has always been simple, and yet because, my friends, your spirits are encased in flesh, our message is never understood in a simple manner, for it filters into your ears in such a way that the simplicity is lost. We tell you that all things are love, that you are love, and that your entire existence is a process whereby your whole purpose is to become aware of your true nature; that is, to become aware of the oneness of all things and of the nature of that one thing as love. It is a simple message.
+>
+> Yet it is only truly simple if you are not encumbered, shall we say, by that which you call flesh, or that which you call the physical plane. It is said in your holy works that you were created a little lower than the angels. And yet, my friends, this is so, this is your particular place in the order of things. Below you is the rest of the natural creation that you can see, animals and plants as you call them, their consciousness being totally within that which you call the physical plane. They are contented and very aware within that plane, and because they are not distracted by dreams and abstractions, they are more aware within that plane than are you.
+>
+> Those beings that you call angels, and we ourselves, no longer encased in physical bodies, need no longer be distracted or amazed or delighted with the various experiences of your flesh, and before us always, clear enough that we can always see it, is the Father’s wish for us, so that we at all times do not have to choose between right and wrong, as you do, for always before us we see the will of the Father, because that which you would call “thought” and “wish” is visible to us, and nothing is hidden. You have a difficult way to go, my brothers. You are neither flesh nor spirit, but you are both, and it is your particular task to learn how to let your spirit rule your flesh. It is necessary for you to choose, with both choices available, before you go on into the sphere where you are spirit alone. For the Father gives free will to His children, and each of us chose at one time whether we wished to go on into the realms of spirit.
+>
+> If we moved into the realms of spirit before we had chosen to leave behind both the troubles and the glory of the physical plane, then our free will would have been taken from us. This is the reason, my friends, of all of the difficulties and pleasures of the physical plane. They are there for you to enjoy and to learn from. They are there for you to be able to make a choice between seeing the world as if you were an animal, knowing only those things which you could see and feel, and seeing the world as spirits, so that all things have a religious or spiritual significance.
+>
+> And so there is a choice that you make, in action and in words, which is based on your desire to seek the Creator and to be of help to all your brothers. Now the message does not seem simple any more, does it? Now it seems to become complicated, as you would call it, a metaphysical task in which all of your thoughts have to be hauled out into the open, and you must judge each of your thoughts, and you must judge each day, and it begins to seem like more trouble than it’s worth!
+>
+> Let us go back to the simplicity of our original statement: all things are one. All things are love. To try to describe in your daily life, so that you can see the connection between your life and love—--that becomes complicated, and so we tell you to meditate, to find the simplicity within the complication. We are aware of your conversation, and we wish to say that a statement that was made is indeed true, and that statement was that you are here for one purpose only, and that is to gain knowledge, to gain understanding. This is not a selfish purpose. This is not an egoistic search. This is, indeed, your whole reason for being here. You did not create yourself in the human sense. The Creator that created you desired that each one of His children learn, of his own free will, to love Him and to [serve] each of his brothers. As each of you goes about your daily existence, the very nature within you cries out for learning and for understanding. This is your birthright, and far from being selfish, it is the whole purpose of your existence. Anything you may do for others must first spring from your understanding of yourself.
+
+\- [Hatonn via Rueckert: October 3, 1976](https://www.llresearch.org/channeling/1976/1003)
+
+Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1nfwohj/hatonn_on_finding_the_simplicity_of_seeking/).
