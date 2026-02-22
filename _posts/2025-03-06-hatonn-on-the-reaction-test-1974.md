@@ -9,7 +9,7 @@ categories:
 
 In this session Hatonn addresses the purpose of the illusion: to test our reactions to each aspect of the Creator streaming through It's many guises. Rather than life being a process of avoiding that which knocks us off our center, life is _catalyzed_ by this refusal to avoid, to simply locate the Creator/self in what we experience and greet it with love. As this reaction becomes more automatic, we free ourselves to be more genuinely creative in the moment, identify opportunities that did not previously disclose themselves, and serve more fully.
 
-Now you might respond that this sounds like an intellectual model imposed upon experience, a way to make things theoretical and abstract and distance ourselves from the true affective work here. And that is, in a way, true. But this gets into the purpose of the intellect, as I see it: to provide focus. It need not divorce us from the immediacy of the primal emotions we feel, but it can provide a framing, a context, that allows us to have self-created experiences that ride along with other-self-created experiences. 
+Now you might respond that this sounds like an intellectual model imposed upon experience, a way to make things theoretical and abstract and distance ourselves from the true affective work here. And that is, in a way, true. But this gets into the purpose of the intellect, as I see it: to provide focus. It need not divorce us from the immediacy of the primal emotions we feel, but it can provide a framing, a context, that allows us to have self-created experiences that ride along with other-self-created experiences.
 
 <!-- more -->
 

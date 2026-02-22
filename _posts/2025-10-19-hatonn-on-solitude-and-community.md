@@ -7,7 +7,7 @@ categories:
 
 ---
 
-Here's another clip from the same session as yesterday, building upon the theme of self-knowledge but using the lens of solitude/community to illustrate it. Not a lot to add here, but notice how each experience _both_ reinforces the other _and_ highlights the absurdity of each position. These are all experiences of unity and love in various limiting contexts so we can see a richness that full transcendence cannot impart or at least appreciate. 
+Here's another clip from the same session as yesterday, building upon the theme of self-knowledge but using the lens of solitude/community to illustrate it. Not a lot to add here, but notice how each experience _both_ reinforces the other _and_ highlights the absurdity of each position. These are all experiences of unity and love in various limiting contexts so we can see a richness that full transcendence cannot impart or at least appreciate.
 
 <!-- more -->
 

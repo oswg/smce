@@ -8,7 +8,9 @@ layout: home
 
 ## Resources for Seekers
 
-- **SMCE Forum**: an invite-only community for studying and applying the Law of One to our lives
+- **[The Life Instrumental](/blog)**: A blog focusing on Confederation philsophy, especially classic messages before contact with Ra
+- **SMCE Forum**: an invite-only community for studying and applying the Law of One as a means to forming community
+- **[_(inaudible)_ podcast](https://inaudible.show)**: A podcast about the applying the Law of One to our lives
+- (coming soon) **Orbiter**: a video chat app for timed group meditations online, following the way Carla Rueckert ran meditations at L/L Research headquarters
 - **[Organizing Seekers](https://www.youtube.com/watch?v=lCN-UKCBY3M)**: a presentation on building spiritual community at multiple levels
-- **[The Council for Social Memory](https://councilforsocialmemory.org)**: part of the mission of SMCE is to organize a legal non-profit to help resource spiritual communities and their projects
 - **One-on-one chats with seekers**: studying this philosophy can feel isolating at first. If you need a fellow seeker to talk to, we're here.

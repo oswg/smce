@@ -9,7 +9,7 @@ categories:
 
 Throughout the LLR channeling archives that are a handful of contacts who make a very small number of appearances. Telonn comes to mind, as does Oorkas (Orcas) and Orkan. Makai makes one single appearance at the end of a '79 session. The content is not interesting; I'm just sharing a novel appearance.
 
-EDIT: One thing actually stands out. In the Solar Cross contacts that are contemporary to these LLR contacts, complexes such as Monka and Soltec speak in similar terms: being assigned to posts, or talking to a tribunal, etc. These are all concepts that I sense have an official, organized, even political or military overtone to them. However, it's very, very difficult for me to imagine social memory complexes thinking of _themselves_ this way. I rather think this is the overlay of instruments steeped in WW2/Cold War ideas of what UFOs and their civilizations would be like from our point of view. 
+EDIT: One thing actually stands out. In the Solar Cross contacts that are contemporary to these LLR contacts, complexes such as Monka and Soltec speak in similar terms: being assigned to posts, or talking to a tribunal, etc. These are all concepts that I sense have an official, organized, even political or military overtone to them. However, it's very, very difficult for me to imagine social memory complexes thinking of _themselves_ this way. I rather think this is the overlay of instruments steeped in WW2/Cold War ideas of what UFOs and their civilizations would be like from our point of view.
 
 <!-- more -->
 

@@ -9,7 +9,7 @@ categories:
 
 Once again, I think this 1976 session is pretty self-explanatory. Only one thing I'd comment on: their juxtaposition of this UFO mission of awakening interest in infinity with the central role of love. 
 
-It may seem at times, if we consider ourselves to be wanderers or at least attempting to serve others, that either we must have this (for all intents and purposes in consensus reality) dubious affiliation with aliens **or** we must focus solely on loving by more directly  relating to people on their own terms. But this little excerpt shows that we execute on the fancy mission _through_ being more loving in our mundane daily lives. 
+It may seem at times, if we consider ourselves to be wanderers or at least attempting to serve others, that either we must have this (for all intents and purposes in consensus reality) dubious affiliation with aliens **or** we must focus solely on loving by more directly  relating to people on their own terms. But this little excerpt shows that we execute on the fancy mission _through_ being more loving in our mundane daily lives.
 
 <!-- more -->
 

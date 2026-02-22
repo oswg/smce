@@ -9,7 +9,7 @@ categories:
 
 This is a session that made a big impression on me as I was formulating my own personal style of applying Confederation information to my life. There's really a lot here, and for this post we're going to focus on Hatonn's opening points. I'll probably post other excerpts from this session as they're nice and self-contained.
 
-Probably the biggest idea to clock is this one of service not representing simply the will of the individual to respond to need, but service as a means by which the universe regulates itself and evolves. There are passages in the early transcripts--particularly those channeled by Don--that really nail this: all portions of the Creator serve all other portions. The natural systems, cycles, and processes we observe are simply _service rendered at different levels of awareness_. 
+Probably the biggest idea to clock is this one of service not representing simply the will of the individual to respond to need, but service as a means by which the universe regulates itself and evolves. There are passages in the early transcripts--particularly those channeled by Don--that really nail this: all portions of the Creator serve all other portions. The natural systems, cycles, and processes we observe are simply _service rendered at different levels of awareness_.
 
 <!-- more -->
 

@@ -9,7 +9,7 @@ categories:
 
 Don't let the policy wonkish title fool you. Hatonn in this excerpt addresses the conundrum of education at scale, where unique individuals are fed a one-size-fits-all curriculum but where individual instruction simply doesn't scale. The real solution is the dissolution of the veil and the ability to see the fullness of an other self, but that's of no help to our institutions presently! And I'd wager this question might be informed by the Louisville folks paying attention to the work of Richard T. Miller and the Solar Cross Foundation, who posed many questions to Monka about how things like this work in higher densities. I hope to share more excerpts from their work this year.
 
-I would just point out before I log off that Hatonn really does pose this conundrum to the reader as a choice more generally. Is it better to serve in the way you can right now, the way that makes sense given your read of the problem? Or is it better to dive in and help as one can, recognizing the dangers of one's imperfect understanding of the others' need? This is the old problem of service in front of the veil once again, rearing its head in the educational variety of service. 
+I would just point out before I log off that Hatonn really does pose this conundrum to the reader as a choice more generally. Is it better to serve in the way you can right now, the way that makes sense given your read of the problem? Or is it better to dive in and help as one can, recognizing the dangers of one's imperfect understanding of the others' need? This is the old problem of service in front of the veil once again, rearing its head in the educational variety of service.
 
 <!-- more -->
 

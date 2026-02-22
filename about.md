@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About SMCE"
+title: About us
 permalink: /about/
 ---
 

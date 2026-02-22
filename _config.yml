@@ -38,6 +38,7 @@ permalink: /blog/:year/:month/:day/:title/
 header_pages:
   - blog.md
   - about.md
+  - contact.html
 
 # Build settings
 theme: minima
