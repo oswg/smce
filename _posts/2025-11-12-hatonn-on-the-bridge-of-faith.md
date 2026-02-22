@@ -3,11 +3,15 @@ title: Hatonn on the Bridge of Faith
 layout: post
 date: 2025-11-12
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Well, as we jump forward from April to August (I have no idea whether this gap represents missing material or a lack of channeling), here's another great example of a session that presages Ra's messages, for those of Hatonn discuss the higher self earlier in this session as well as the impending harvest. Time and time again one discovers the majority of concepts explicated by Ra plainly in material prior to their arrival. It seems clear to me that the flower of narrow band contact grew out of the well churned and fertilized soil that constitutes the earlier conscious work. I simply do not see how one can grasp the full message of the Confederation by concentrating solely on Ra's words, but that's for the reader to decide I suppose.
 
 However, the excerpt is going to focus on Hatonn's point about faith bridging between the intellect and the intuition. I want to highlight the remark about "privately convincing ways" in which faith operates. It strikes me that the operation of the intellect goes far beyond theory or principles that we articulate to each other in our conversations. Much of what the intellect usefully provides are almost like mental and emotional heuristics that help us identify and seat our intuitions. Even imagination plays a role here.
+
+<!-- more -->
 
 Imagine the mind as not simply spitting out thoughts but in its thinking creating the preconditions for certain future thoughts and ruling out other thoughts. Our patterns of thinking dip in and out of intuition and intellect all the time, situating our seeking in creative ways. With faith, we have a level of observation that transcends the left and right sides of the mind, so to speak, and if this sounds similar to how I've described the spirit complex making self-awareness possible in the past, I don't think that's a coincidence. All of this makes possible the magic of our focused thought that brings everything we experience into manifestation.
 

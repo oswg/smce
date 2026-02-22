@@ -3,11 +3,15 @@ title: Laitos and Hatonn on the Conditioning Wave (1974)
 layout: post
 date: 2025-03-22
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 There's something [mentioned](https://www.lawofone.info/results.php?q=conditioning&amp;st=phrase) during contact with Ra that isn't explained very well. It's a relatively important topic when considering the nuances and mechanics of the Confedeartion tradition of contact, however, and it links Ra with the fourth and fifth density contacts in the 70s: the concept of the _conditioning wave_. 
 
 Here Laitos gives an explanation of the conditioning wave they send. It is an experience that all of the new instruments with whom I've worked have noticed -- in fact, especially at the last intensive I noticed the new folks were a little freaked out by it. I was able to show them how standard it was for all instruments in our tradition, and I think it was as great a comfort to them as it was to me. Sadly, this topic wasn't mentioned in my training with L/L Research even though it holds a high degree of prominence in the archives -- probably because the last living connection with these earlier experiences passed with Carla.
+
+<!-- more -->
 
 From what I've seen, it's usually some sort of subjectively significant feeling of energy or force: for me, in my first contact with Q'uo, it was like a piledriver into my forehead (along with Q'uo via the preceding instrument in the round robin channeling telling me exactly what I was feeling at the time!). But it's different for everybody, and it's designed to give you an indication that, whatever the phenomenon of contact consists of, it is real and present.
 

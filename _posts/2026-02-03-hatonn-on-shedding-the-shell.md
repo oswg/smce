@@ -3,11 +3,15 @@ title: Hatonn on Shedding the Shell
 layout: post
 date: 2026-02-03
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Hatonn today provides us a nice, tight excerpt speaking to an important but discomfiting experience in our evolution. The mind complex, as I see it, is very much a complex of multiple faculties, but one crucial facet it brings to consciousness is its knack for introducing and instantiating _constraining concepts_. It is in the mind complex that we appreciate those thoughts that, unlike more abstract and less discrete ideas like justice and peace closer to the sublimity of the spirit complex, are more concrete and bound. The thought _form_ is an example of how mind creates a kind of container for thinking that allows the thought to be circumscribed and worked with. 
 
 So Hatonn's contention that our thinking conforms to a shell that demarcates the range of possibilities of which we can conceive seems very reasonable to me at least, and it is the seeking towards spirit in particular that begins to expose these limits and gesture towards what it might be like to exceed them. This is dangerous, however, because without these constraints we cannot have identity and traction in a familiar environment as we expect. It makes sense that as we sit with finite thoughts and reach haltingly towards the infinite, we would need to redefine that environment and accept the formerly unfamiliar as the new boundaries of our conscious agency.
+
+<!-- more -->
 
 As Hatonn explains, one day we will be able to blend with all (and they have spoken quite recently of this blending activity) and will have no need of a separate identity. We can therefore think of meditation as a way to sit with the terror of the unlimited; contemplation as a way to consider new boundaries of selfhood. Perhaps we just need to do these "reps" enough to build the courage and strength to be truly fluid, to truly become capacious as the Creator once we have understood ourselves as unlimited and accepted the consequences of that.
 

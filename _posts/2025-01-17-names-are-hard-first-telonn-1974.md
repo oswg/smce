@@ -3,11 +3,15 @@ title: Names are hard! (First Telonn, 1974)
 layout: post
 date: 2025-01-17
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 I encourage dedicated scholars of this material to take a moment to review the first appearance of each contact in the archive. There's often some interesting notes about how the name is prounounced. In this session, we see Carla struggling a bit with this name -- in the archive it's considered contact with "Telonn" but only in retrospect. Look at the first Q'uo in 1986, too -- there's direction on how it is _truly_ pronounced and also intimations that, at least at that time, Q'uo's composite nature was not really perceived.
 
 But the more interesting item in this session is the first mention of _purified emotions_. I addressed this subject at length [on my podcast](https://inaudible.show/episode-11/) but it's interesting how already you can see a link between emotion and the archetypal mind as well as the continuum with thought.
+
+<!-- more -->
 
 Enjoy!
 
@@ -21,6 +25,5 @@ Each expression which you feel may be purified to its complete end or final form
 > It has been a great privilege to meet you. I am hopeful that I will be able to speak with you again. I hope that in some small way I have been able to share a thought which may be helpful with you. My blessings upon each of you. I will leave you now. I am Teronn. Farewell and love, my brothers.
 
 \- [Telonn via Rueckert: June 22, 1974](https://www.llresearch.org/channeling/1974/0622)
-
 
 Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1i3ila6/names_are_hard_first_telonn_1974/).

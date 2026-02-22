@@ -3,11 +3,15 @@ title: Hatonn on Service and Polarity (1974)
 layout: post
 date: 2025-01-22
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 The title should give away the reason this is interesting to me: this is Hatonn in 1974 talking about "polarization", "service to others" and "service to oneself." The point being that these ideas were being worked out in conscious channeling already over five years before contact with those of Ra occurred. These are actually in my view some pretty sophisticated and novel concepts being articulated before Ra gave these terms their precision and full scope of meaning. We take this stuff as granted now; it was still being worked out in the 70s.
 
 This is part of ther reason why I always encourage people to read Confederation channeling prior to Ra. It's important to see the role Ra plays in the development of this philosophy: not one of origination so much as focus, precision, and orientation. There were hundreds of monologues with fourth and fifth density contacts before sixth density contact was available, and sessions like this show how that groundwork was laid. It also helps us better see exactly what the sixth density brings in that is above and beyond lower density messages; we can start to see the real vibration involved in contrast.
+
+<!-- more -->
 
 > **I am Hatonn.** I am now with this instrument. As I saying, we request that you attempt at all times [to] concentrate your energy on those positive forces within your thinking in order that as you attempt to perform your service to the Creator, you may perform a true service and avoid infringing upon that very service by negativity. It is to be remembered, my friends, that service to others is service to oneself. Notice that we do not say that service to others is like unto service to oneself. There is no similarity between others and ourselves—there is identity. There is completion and unity. Therefore, that which is felt of a negative nature towards a sheep of the flock is felt towards oneself, and is felt towards the Creator. This enters the service which you [are] attempting to give to yourself and to the Creator through service to another and causes a blot or a stain upon the perfect service you would have performed. It must be remembered that each person is a completely free entity whose independence must in no way be shaken and yet whose identity remains one with you.
 > 

@@ -3,11 +3,15 @@ title: Hatonn on Freedom and Limitation (1974)
 layout: post
 date: 2025-03-17
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 This is a crucial nuance to the information coming through Carla and Don's circle in the early days. Notice how they say that they emphasize the real beauty of Creation to beginning seekers, but over time they seek to become an agitator, an annoyance that keeps us from being satisfied with the current limitations under which we labor. This is all in service to waking us up (something Ra has explained they cannot _make_ happen, but I suppose they can help happen if it's already desired sufficiently), but we are not waking up to a freedom of no responsibilities and no stakes. Instead we are waking up to a more demanding version of the same life we know, with an added level of responsibility concomitant with our status as the Creator.
 
 This is what it means to be the Creator, apparently: the freedom to create, and the responsibility that entails inside of the illusion. To be free, we must be _responsive_ to reality and its feedback through the guise of the illusion instead of blissfully ignorant. This responsiveness is in its way love, but you can start to see the focusing, artfully chosen limitations as a creeping wisdom coming into play.
+
+<!-- more -->
 
 > I am Hatonn. I greet you, my friends, in the love and the light of our infinite Creator. I am here, my friends, that I may aid you. And yet I am here to sting you and to stimulate you, as a gadfly. I am not here to give you comfort, in that I do not wish to put you to sleep, but to awaken you.
 > 

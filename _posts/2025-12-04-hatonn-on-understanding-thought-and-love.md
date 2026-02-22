@@ -3,11 +3,15 @@ title: Hatonn on Understanding, Thought, and Love
 layout: post
 date: 2025-12-04
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 We come once again to one of these elusive terms in the philosophy of the Confederation: _understanding_, that state which those of Ra [claim](https://www.lawofone.info/s/16#39) is not part of our third density experience. And yet they also [say](https://www.lawofone.info/s/40#3) a density involves "primarily its [corresponding color] ray plus the attractions of the following ray pulling it forward in evolution and to some extent coloring or shading the chief color of that density." So while understanding in total is not our lot in this incarnation, we are attracted to it, pulled towards it, and therefore perhaps it is reasonable to say that understanding is the draw of the next density on our third density experience.
 
 In any case, those of Hatonn address understanding in this 1978 session, and I'm going to share two excerpts that show how two experienced instruments can inflect a concept differently yet harmoniously. First is "H" (likely Hal Price, the one who introduced the Louisville circle to the Confederation channeling technique over half a century ago) speaking of the simplicity of understanding and how counter-intellectual it truly is (using, of course, an intellectual example at first) but how crucial it is to develop. It's not to be developed simply to benefit us, but also to help us discipline and safely control this power within us as co-Creators. This is the area the Richmond circle is exploring through its investigation of thought forms: ways to help us discipline thought and understand ourselves and the planet's destiny.
+
+<!-- more -->
 
 > Consider, if you will, when all of you attended your educational processes. In the subject that you call mathematics you are often given a problem. And for that problem you must arrive at [an] answer. Consider, if you will, to know the answer is only a portion of solving the problem. For you must understand the problem and the means by which to derive the answer. Therefore, in this situation, knowledge and understanding are two separate factors which commune together and assist you in solving the problem before you.
 >

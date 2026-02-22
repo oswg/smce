@@ -3,9 +3,13 @@ title: Latuii on Working With the Intellect
 layout: post
 date: 2026-02-08
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 This is a good, longer session covering many different points. Today I'm focusing on Latuii's ideas about the intellect and going beyond it. The questioner asks about an article he read and asks for Latuii to comment on its accuracy. Latuii challenges the entire concept that words are very effective at getting at the deeper questions intellect seeks to make plain and bare. It's about finding a balance between one's intuitive apprehension of an aspect and the focus that an intellectual penetration of an aspect brings to bear.
+
+<!-- more -->
 
 > The key in all things is balance. Your intellect is a tool. Yours in balance with the proper amount of meditation and the contemplation of your, shall we say, emotional being in day-to-day and moment-to-moment actions—ah, there is perfection. Without such balance, the intellectual machinery will not feed you correct information, due to the fact that your intellect cannot synthesize information but only analyze. The activity of intuition must be sought out within a different type of mental activity which is below the conscious level. You may choose to do this while you are doing some familiar chore. You may choose to meditate. It does not matter how you achieve this state of unquestioning being in which you are listening for that within yourself which is below the conscious level.
 >

@@ -3,11 +3,15 @@ title: Hatonn on the Singularity of Love
 layout: post
 date: 2025-09-12
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 It's funny because really you could call every Hatonn session in the archive, "Hatonn on Love". They truly excel at teasing apart all the component characteristics of this all-encompassing force. Even in [their latest contact with the Richmond circle](https://har.center/2025-08-15/1/hatonn-on-blending-energies) they speak rather philosophically about the ontological tensions involved in the illusion of separation, yet what is the blending of energies they speak of but yet another manifestation of the reality of this drawing force of love?
 
 That makes this a fitting complement to that message last month. So what's love _this_ time, Hatonn? Well, it's as if love gives us the true map of what is worth seeking in our lives. And in this sense it seems to have a lot to do with attention, because that is what is going to direct our consciousness to the next unlikely example of love. Just as Hatonn recently spoke of the figment involved in dicing up unity into separate objects and then grappling with cause and effect, here they talk about the necessity of both that which yields and that which arrests, that which constrains and that which frees. In other words, though we often fret about our polarity in terms of fourth density harvest, the real truth is that both the negative and positive are needed in order for us to move spiritually.
+
+<!-- more -->
 
 In the midst of this duality is love, I'm increasingly convinced that love really does not have an opposite; it is merely distinguished in its different forms by the object of that attention. It has no inverse because it cannot be inverted, only directed. It is simply perhaps that, because we have such a human or cultural understanding of that sentimental variety of love we usually think of, it is easier for us to turn love into a present/absent kind of phenomenon---in order to be able to entertain experience.
 

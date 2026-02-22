@@ -3,11 +3,15 @@ title: Hatonn on Love and the Mission of Contact
 layout: post
 date: 2025-07-16
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Once again, I think this 1976 session is pretty self-explanatory. Only one thing I'd comment on: their juxtaposition of this UFO mission of awakening interest in infinity with the central role of love. 
 
 It may seem at times, if we consider ourselves to be wanderers or at least attempting to serve others, that either we must have this (for all intents and purposes in consensus reality) dubious affiliation with aliens **or** we must focus solely on loving by more directly  relating to people on their own terms. But this little excerpt shows that we execute on the fancy mission _through_ being more loving in our mundane daily lives. 
+
+<!-- more -->
 
 Not only that, recognizing and being able to transmute the quotidian fear of life into moments of sublime love strips this UFO narrative of its more dangerous elements, namely the fear that it can evoke. It is in the striking of this balance between the impersonal narrative of cosmic evolution and the personal narrative of love that we find the ability to bob and weave with the needs of those who request our service.
 

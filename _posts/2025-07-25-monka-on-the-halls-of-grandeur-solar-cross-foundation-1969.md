@@ -3,11 +3,15 @@ title: Monka on the Halls of Grandeur (Solar Cross Foundation, 1969)
 layout: post
 date: 2025-07-25
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Normally I excerpt channeled sessions because I'm well aware of the attention span of Reddit, and I can link to this session elsewhere. However, in this case there is nowhere to point you except to a book that is hard to find: _Star Wards (1979, Solar Cross Foundation)_ which catalogs the Confederation channeling of Richard Miller, originally part of the Detroit group who moved to California and started his own group which became the Solar Cross Foundation. I'm hoping over the long run to get more of this material available online, but for now the best available are recordings of the original sessions from [this archive](https://innersites.com/issa/) as well as my friend Eric's [YouTube channel](https://www.youtube.com/@ixcalix148) (not sure if he wants me to reference him more specifically, but I owe him a debt for introducing me to this chapter of the Confederation's contact with us).
 
 The first documented contacts between Miller's circle and the Confederation begin in 1955. After a couple of dozen messages from "Mon-Ka," "Hatonn," "Soltec," and others there was a decade of no contact from 1959 to 1969, as best I can gather. This message from Monka is one of the first if not the first of the batch that would continue through the 1970s. While some of the messages from the 50s are claimed to have come through exotic forms of transmission such as short-wave radio and light wave transmission, this message and those following are done exclusively telepathically.
+
+<!-- more -->
 
 The content of the message is a pretty straightforward explanation of humanity's progress and trajectory in the future. Notice how right around the time Carla and Don are beginning to bring through more spiritual, less UFO-centric information (for much of Don's 1960s channeling is very transient), the Solar Cross folks are doing the same. Mankind's development is one that seems physical, cultural, scientific, but all of that is a vehicle for the awareness they anticipate. And their posture remains the same in 1955 as it does in 2025: one of supporting our free will choice to develop this awareness so that we may join them in serving Our Infinite, Radiant One.
 

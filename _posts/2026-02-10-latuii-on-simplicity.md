@@ -3,12 +3,13 @@ title: Latuii on Simplicity
 layout: post
 date: 2026-02-10
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+---
 
 This was a hard session to excerpt, because it hit interesting topics all over the map. They talk about the meaning of their name; they talk about disharmony in seeking groups ("Never be disheartened by apparent disharmony, for there must be friction before something can move"), they talk about discovering the unknown and its relationship to love, and more. They even have an instrument pronounce their name differently. The topic I want to single out is that of simplicity as recounted by a social memory complex in the density of light or wisdom.
 
 The experience of a life full to bursting with different details -- some urgent, some trivial; some hidden, some screaming at you -- has always perplexed me as a seeker. It seems like we have to constantly make our lives more complex to be adults apprehending the world soberly, and what is the seeking life but yet another layer of duty and attention to be plopped on top of a stack of distractions, chores, worries, etc.? This is why we meditate: to reconnect with the simplicity of existence, if for just a moment. To my way of thinking it is crucial to learn how, as we discussed in an earlier session, to remove the details -- as crucial as it is to re-assume the duty of honoring them in waking life. As we learn to simplify and relax, we can learn to not only have a productive relationship with the chaos of life and love but also to begin reevaluating the relative import of these details.
-
+<!-- more -->
 Toward the end Latuii discusses the freedom we grant ourselves when we recognize that, just as we have chosen our patterns of life, others have chosen theirs. It doesn't mean we do not attempt to serve. It means that we honor the goodness, no matter how it looks to us, of where we are. Our service then becomes not some crisis-laden rescue mission but the extension of an opportunity to another, same as healing is an offer to the other to heal themselves, not an imposition of healing in spite of the other's free will. Remember that service is not about _you as a personality_ serving, and it's not really about the other personality receiving some aid; it's about participating in a creation that is genuinely one. Service is just the nature of that relating between parts of the one.
 
 > As we look upon the peoples of your planet we see them multiplying the details of their lives in much the same way it has been written in your holy work known as the Bible. When they were in the temple, money changers sold many items that could be bought for sacrifice. Imagine, my friends, the noise of the trading and the bleating, the chirping of the sacrificial birds, the clinking of coins as they passed from hand to hand, the confused penitence of those who came to the temple seeking to find in themselves something that they had lost, something from which they were separated, seeking to find love and wholeness in the knowledge that they were one with the Creator who loved them.

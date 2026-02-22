@@ -10,6 +10,8 @@ Here's another gem that hits several different interesting points, and if I ment
 
 This excerpt focuses on the means by which we are able to connect with the love in any moment, but it's not something we make happen solely in the moment. Meditation is how we gain the frame of mind to even _begin_ to notice it, and it is a long process of slowly acclimating yourself to the stillness at which this love operates.
 
+<!-- more -->
+
 What kind of details come to mind when you are deep in meditation? And yet, is there any need for them? You've worked hard in your life to learn a language, a culture, a career, how to be in a relationship, etc. This is good programming for your personality. It is necessary to have a yellow-ray "ego" personality that can function as an adequate avatar on the common level of awareness most third density folks are at. 
 
 The point of being so immersed in this vibration such that it colors your personality is so you can allow that personality to handle the details, I'd argue. This frees your attention up for finding the love in the moment, if you are practiced in looking within for what your ego desperately wants to find out there. Once found, then your personality is simply a better or worse conductor of this love into the moment, through the details. All we have to do is call on it--as far as I can tell, friends, it's all calling for service and rendering service at every level up and down the chain of being.

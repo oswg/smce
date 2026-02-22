@@ -3,11 +3,15 @@ title: Makai says hi
 layout: post
 date: 2026-02-11
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Throughout the LLR channeling archives that are a handful of contacts who make a very small number of appearances. Telonn comes to mind, as does Oorkas (Orcas) and Orkan. Makai makes one single appearance at the end of a '79 session. The content is not interesting; I'm just sharing a novel appearance.
 
 EDIT: One thing actually stands out. In the Solar Cross contacts that are contemporary to these LLR contacts, complexes such as Monka and Soltec speak in similar terms: being assigned to posts, or talking to a tribunal, etc. These are all concepts that I sense have an official, organized, even political or military overtone to them. However, it's very, very difficult for me to imagine social memory complexes thinking of _themselves_ this way. I rather think this is the overlay of instruments steeped in WW2/Cold War ideas of what UFOs and their civilizations would be like from our point of view. 
+
+<!-- more -->
 
 In other words: part of the profit in surveying older Confederation material is to see how the expressions of the ideas change, how they are contemporary to the instruments and their level of imagination. As that imagination expands and the framing changes, we can tune into what has been constant. This helps us tune into our present contacts and filter out what is merely a clumsy metaphor and what is the real love. This will be especially interesting as I've gotten into '71 in the Solar Cross archives, where the Tensor Concepts will be explicated. I imagine this will be a big part of my posting in 2026 as I attempt to grapple with how useful -- or how ridiculous -- this information was. Really hoping for the former, but with Richard T. Miller there's always a bit more Barnum &amp; Bailey to his approach, and he was accused of hoaxes quite a bit. My discriminating mind will have to suffice for sorting it out; it's already been too valuable to just chuck out as a whole.
 

@@ -3,11 +3,15 @@ title: Hatonn on the Function of Meditation
 layout: post
 date: 2025-10-06
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 These remarks on meditation are sublime, and I'd like to offer some thoughts on some things they indicate. First, it's about identity and its ability to be shifted. All of the cares and worries of our incarnation exist within a context of a specific identity; in other words, they aren't just cares and worries floating freely but only in relation to a _self_ in a certain _awareness_. So we never have to unplug from that awareness per se --- that's the impulse to live the hermit life and just avoid all the catalyst that accrues to the incarnate personality. Instead, we just take a moment to "zoom out" from that identity to a bigger, more expansive "self."
 
 When we are able to do this "extrasociation" on the fly in a controlled way, we get a better glimpse of the functional pieces of the illusion's catalyst, because we've moved from a position of being directly subjected to it to indirectly subjected to it. We then have the opportunity to see it working, to see our waking personalities from a position of remove in which we aren't simply reacting to the incoming stimuli. Hatonn ties this all up with remarks on our spirit's purpose in incarnation and an allegory by which we can understand painful things.
+
+<!-- more -->
 
 It's never about totally and completely avoiding the pain and discomfort, but it _is_ about understanding the limited domain of that uncomfortable, painful experience. We don't escape it; we offer it to higher and higher portions of our awareness so we don't concentrate it in the waking consciousness where it can _only_ be worked serially and karmically. This is how we redistribute pain across our individual mind/body/spirit complex, I'd argue, so we can learn to do it communally as a planetary social memory complex. This is something Latuii [brought up recently](https://har.center/2025-08-16/2/latuii-on-working-with-pain).
 

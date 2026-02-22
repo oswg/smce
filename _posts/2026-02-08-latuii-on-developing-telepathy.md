@@ -3,9 +3,13 @@ title: Latuii on Developing Telepathy
 layout: post
 date: 2026-02-08
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Here's a shorter excerpt from the same session as yesterday that illustrates that utter vulnerability and openness that makes telepathy so commonplace in fourth density. Latuii explains that we can get there on a person-to-person basis with a simple exercise.
+
+<!-- more -->
 
 > We suggest to you that one good exercise in achieving rapport with your fellow human beings is to gently place yourself face-to-face with them and look at them for a period of time. Most of your beings cannot do this, for it reveals too much of their true identity. However, there is a very loving link between those who can gaze upon each other for a period of time. This may help you to develop in compassion with your brothers and thus encourage that which you seek in telepathy.
 >

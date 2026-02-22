@@ -3,9 +3,13 @@ title: Auxhall on Experience and Instrumentality
 layout: post
 date: 2025-10-03
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Here's another excerpt from the same transcript I shared from yesterday, building upon Auxhall's ideas about brotherhood. Carla's part focused on how to serve our other selves, but H's (likely Hal Price, but I can't be certain) section delves more into serving the Creator, the nature of instrumentality, and how individual experience and service are aggregated into the Creator's learning. And it is through the very limitations we press against that we offer this learning to the Creator. If we can trust in the Creator and realizing It's will, the architecture of transmission of this light and experience can benefit us, no matter which level of "us" we're thinking of.
+
+<!-- more -->
 
 > I am Oxal*. I am now with this instrument. We speak often of brotherhoods and of love. We speak often of many things, yet it is most often that we speak of the need for personal, shall we say, progression through the proper utilization of your experiences, and through the advocations towards your meditations. It is for you to realize that you progress not only for yourself but for the benefit of the universe, for the fulfillment of the Creator’s will. For as you have learned, and as we speak of it, all things are indeed one with each other, and one cell, shall we say, cannot live without reflecting that growth upon the others. The universe is forever expanding, and it becomes more illumined, as do you. You, my friends, are the reflectors of the light of the Creator, and as your capacity for reflection becomes greater, that reflection of light throughout the universe is enhanced, in order that it may spread to the farthest reaches in order that it may be shared by your brothers.
 > 

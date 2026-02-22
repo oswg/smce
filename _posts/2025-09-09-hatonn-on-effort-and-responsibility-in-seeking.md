@@ -3,11 +3,15 @@ title: Hatonn on Effort and Responsibility in Seeking
 layout: post
 date: 2025-09-09
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 This entire session is fantastic, including H's opening (likely Hal Price through whom Hatonn is talking about harvest in 1976) as well as B's closing. I'm also omitting Carla picking up on an unanswered question which I considered making the focus instead of this excerpt, but I think this is more valuable to the seeker if I have to choose. You don't have to choose -- go read it!
 
 What I found notable about this session was the connection between effort and fruition, something I've often considered not only from a Confederation point of view but also through other spiritual works. The message amongst the best of them is very similar: that there is a time for exertion, for stretching and striving, and a time for being and listening and receiving. Learning how to oscillate between these two states is natural but not trivial, and Hatonn places a great deal of emphasis on the cultural and social impediments to thinking in the proper way (the proper manner of thought is something H discusses).
+
+<!-- more -->
 
 So when we ascribe to ourselves the responsibility for our own seeking, we are not doing so because we are in charge of the conditions that can frustrate or sour it. It is merely that we are responsible for understanding how our point of view is a choice, a choice that we make continually and can always revise. That's how we can look at a very broken world full of heartache and hurt and see that as something that can teach us and not something that threatens our true beingness. That's how we can be a light reaching out to serve instead of a hermit in the sinkhole, dulling our senses and minds with distractions.
 

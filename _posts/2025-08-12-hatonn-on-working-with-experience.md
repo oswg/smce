@@ -3,9 +3,13 @@ title: Hatonn on Working with Experience
 layout: post
 date: 2025-08-12
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 In this session, Hatonn speaks about "progression," which they describe earlier through "B" as akin to "walking the path" of spiritual seeking (there's an interesting mention of "swaying side to side" on the path that sounds similar to [Ra's description of the transformation of mind archetype](https://www.lawofone.info/s/100#6), but that's not particularly germane at the moment). The message that follows B's speaks of how to tie that progression to the day-to-day reflection on experience. There's also a great point about what service relevant to analyzing experience, and how it is by yielding to the Creator, not coming up with our own plan or waiting for the world to change, that we find our path to service and growth towards the upward spiraling light.
+
+<!-- more -->
 
 > We speak to you about progression, for we know that you will progress, for that is inevitable, as all things progress. The only question open is the direction of that progression. There is a quality to experience which greatly aids progression, and ignoring this quality in your experiences will cause your progress to be minimal. Moreover, this quality of experience is one which is often ignored by your peoples, for they do not understand the need for rapid progression nor the technique for obtaining this rapidity.
 >

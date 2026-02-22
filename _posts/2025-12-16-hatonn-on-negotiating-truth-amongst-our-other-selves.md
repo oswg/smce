@@ -3,11 +3,15 @@ title: Hatonn on Negotiating Truth Amongst Our Other Selves
 layout: post
 date: 2025-12-16
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 I've been meditating on this passage quite a bit because of personal distortions I have towards other seekers. They really are a reflection of my own embarrassment; others' shallow interpretations (in my view) force me to face my own past shallow interpretations and suggest I may not have the deepest approach now. This material is so meaningful to me that it bugs the hell out of me how flippant folks can be in reading the material (if they read it at all!).
 
 It was only when I started earnestly applying the philosophy to my own life that I saw its true value. That value does not lie in Ra's ability to express concepts with precision and erudition. It does not lie in the story they tell. It lies with the ability it may or may not hold to transform your life, to transform that person doing the interpreting. It's only working with _your_ material, and deeper study of this philosophy cannot but ride shotgun with the main purpose of studying yourself.
+
+<!-- more -->
 
 Even if you accept this mantle, so what? You're still going to face the same, untransformed self in other selves. Acceptance, forgiveness, love: these are not one-time events but ongoing processes of life like cell mitosis and heartbeats. With meditation and inner inquiry you land on the shores of a vast continent whose shelf has served as the floor of your identity since time immemorial. It's not even the beginning of the journey: it's simply waking up to the journey you forgot, and no matter how distorted things seem, you are well positioned to exploit the opportunity and serve the Creator.
 

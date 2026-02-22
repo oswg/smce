@@ -3,11 +3,15 @@ title: Hatonn on Service and Self-Knowledge
 layout: post
 date: 2025-10-18
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 This was a difficult one to clip, because the point when on for a while. Notice however how Hatonn connects service with self-knowledge. There's a secret here about the purpose of incarnation: that it's not about simply doing good, STO-style service to each we encounter. It is *through service* that we discover ourselves, our true identity and nature. Because our nature is never totally understood, our service will never end. We simply offer the love we can, send it out into the world, and learn about the self "out there" that teaches us something about the self "in here."
 
 It's a great reminder that service is not something we are merely commanded from on high to do. It is the crucial means of growth, and since we cannot help but serve, it is more like a wind blowing through us. Our actions then reflect and demonstrate how we have modulated that wind and allow us the feedback we need to dial it in. And if you think of the feedback solely as being a matter of us "doing right" or "being punished," you lose the sublimity of the Creator's process and how perfectly your life serves Its agenda.
+
+<!-- more -->
 
 Also a reminder that "knowing yourself" is the first step in [the tripartite discipline of the personality](https://www.lawofone.info/s/74#11) those of Ra articulate. So all of this service is almost like the platform for the true journey: the acceptance and transcendence of our every thought and action.
 

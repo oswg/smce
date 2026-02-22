@@ -3,11 +3,15 @@ title: Hatonn on Chosen Challenges in Life
 layout: post
 date: 2025-10-04
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Once again I'm forced to choose between Carla's portion and H's portion in a 1976 session. Carla's instrument is just so much more lyrical and inspiring! This is good advice for those who rightly and rationally look at the suffering and hardship in their lives and question a beneficent Creator. Not only is it beyond our ability to emotionally ground the authorship and purpose of these experiences, but it would undermine the very purpose of the testing this catalyst effects to know that! This is why meditation, patience, and love are keys not simply to happiness and equanimity, but to _penetrating the illusion_. 
 
 What is it about the illusion that is the most illusory? The separation of objects? The rippling and shimmering changes before our eyes that time unfurls? Or the emotional and psychological weight of living in the seeming cage of the body, looking out into a hall of mirrors, none of which look like what you've decided you are?
+
+<!-- more -->
 
 Even though I've chosen this excerpt, I really, really recommend reading the prelude that came through H. I just don't think there's any point doing posts that take more than 5 minutes to read, because you can read the damn archive yourself if you want that (and I very, very much want that for you, too!).
 

@@ -3,11 +3,15 @@ title: Hatonn on Thought Projections
 layout: post
 date: 2025-11-08
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Maybe it's just me and [my recent fixation on thought forms](https://www.youtube.com/watch?v=3_BOWeM_LUA), but I found this passage from Hatonn quite challenging because I've been proceeding on the theory that sub-sub-logoi are more than just thought forms. Hatonn here suggests that we, or at least our individuality, are projections of the Creator's thought. It's not a direct contradiction of [Auxhall's claims](https://har.center/2025-08-16/3/auxhall-on-thought-forms-and-service) a few months ago, but it does muddy the waters of what thought is and how we go about relating ourselves to the Original Thought and our own thoughts.
 
 However, that's just a nerdy metaphysical detail, one that perhaps we are not positioned to intellectually authenticate. The greater idea of the need to discipline our thoughts stands. Here those of Hatonn point out that the Creator works _through_ us because It is _in_ us. This divine spark that manifests Its presence might be seen as the key thing separating us from mere thought projections, as we are ourselves co-Creators. But we also create _on the Creator's behalf_, because our nature is inherently the same as the Creator's. 
+
+<!-- more -->
 
 In fact, they go a step further: that the Creator works _through_ us. It is a duty we have not just to ourselves and each other but the planet itself, and indeed we've had some [thoughts](https://har.center/category/topics/thought-forms) from the Confederation not too long ago speaking to this directly. We don't create the entire creation as individuals as such, but we do create our portion of the Creator's experience of that creation. This is why I often claim that our most Creator-like quality is our thinking, our attitude towards the aspects of the Creator we encounter in our illusion.
 

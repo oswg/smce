@@ -3,11 +3,15 @@ title: Hatonn on Bands of Energy (1974)
 layout: post
 date: 2025-03-02
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 As a chaser for that last session where Hatonn said "don't think about densities," Hatonn here essentially bring densities all up again, at least in the sense of those sub-densities Ra [mentioned](https://www.lawofone.info/s/17#39). It is, I suppose, a good way of roughly locating particular kinds of desire in the spectrum of humanity out there, as well as a means by which one can, perhaps in retrospect, see one's location oneself. It's interesting as well to see graduation through these subdensities as in part about exhausting the lower energy to make room for the higher.
 
 To me what is key here is the universal thread of desire that runs through all of this, especially how that maps to the movement of the "universal mind" both in promoting transmutation of energy as well as arresting it. One way of viewing incarnation is the recognition of all of these different sides of the Original Desire. Therefore, as in past sessions, Hatonn makes a kind of equivalence between the fruits of experience and the fruits of meditation that cannot possibly be considered too exactingly.
+
+<!-- more -->
 
 > We were speaking, my friends, of the many, many inhabitants of planet Earth whom we cannot serve at this time for they do not wish our service. Why is this, my friends? What is it that has brought you to this meeting and has left others with no desire to seek and to know the truth? What is the great choice-maker? My friends, it is not an easy concept to understand, the concept which answers these questions, however, it is an extremely simple concept. What you know of as energy or consciousness or love is extremely wider spread in its definition than you can imagine. The vibration level which forms the density which you now enjoy, has a lower and an upper limit. There are infinite varieties of vibration within this finite vibration level. And those who are at present upon this planet are existing within many, many of these various vibratory levels.
 >

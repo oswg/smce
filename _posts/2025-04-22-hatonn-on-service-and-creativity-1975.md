@@ -3,11 +3,15 @@ title: Hatonn on Service and Creativity (1975)
 layout: post
 date: 2025-04-22
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 First, I'll get the headline out of the way: all the people who prefer "service-to-all" over "service-to-others"? Here's your ammunition.
 
 But the more subtle point is the one about how service expresses our nature as the One Infinite Creator in microcosm. Service is the dynamic connection between all the parts of the Creator that realizes their inherent unity. And when we contribute actively to that unity, we are both _serving_ as an other self and _creating_ as the Creator.
+
+<!-- more -->
 
 > Our purpose is simple, as is our desire. We of the Confederation wish to serve the people upon planet Earth, and nothing else. We have no motive other than to increase your own knowledge and understanding by sharing with you our knowledge and understanding.
 >

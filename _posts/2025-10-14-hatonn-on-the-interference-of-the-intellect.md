@@ -3,11 +3,15 @@ title: Hatonn on the Interference of the Intellect
 layout: post
 date: 2025-10-14
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 The core takeaway from this passage is to understand the counter-intellectual nature of the Confederation's message, I believe. When we begin to make a relationship to this philosophy from our waking personality, we're in serious trouble, because we are forming a partnership that cannot reliably benefit the personality. Meditation is a way that we key into the deeper nature of our identity and form the relationship at _that level_, with the waking personality slowly and delicately trained to be a servant of that alliance in which it has no obvious and direct interest. Like the fool archetype, the personality must make a completely illogical and ridiculously stupid leap of faith in a sacrifice to that which is greater than it. Only then does the personality, thusly disciplined and refined, begin to catch some glimmers of the underlying process of spiritual evolution that cannot _possibly_ make sense to it.
 
 To me, part of the story of spiritual evolution in third density is learning how we're living multiple lives at once at different levels of awareness. We're living in (a) metaphysical world(s) _and_ a physical world. Through one life we're having effects in multiple planes. 
+
+<!-- more -->
 
 To dissociate is to block out one tunnel of reality for another; I'm suggesting a kind of "holosociation" where we are embracing multiple levels of agency within a single stream of conscious agency. We're in the workaday world, symbolically demonstrating the reality of a deeper understanding that cannot ground itself in our experience without our investment. This is how we provide a beachhead for the dawning fourth density consciousness: by living the metaphysical, philosophical principles more fully in this world in spite of it not necessarily being reinforced in this world. We are paying attention to a feedback loop coming from without, a feedback loop in which the spirit complex participates more and more.
 

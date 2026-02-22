@@ -3,11 +3,15 @@ title: Latuii on Working Within for Peace in the World
 layout: post
 date: 2026-02-05
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 We've reached 1979, but it's difficult to remember encountering a more timely message for our current situation. Here those of Latuii speak of how the healing of our planet, our society, and our culture begins with healing ourselves. This message doesn't need much expansion, but I do think it's worth giving an explanation of their monitoring activities they lay out at the beginning.
 
 Hatonn and Latuii frequently mention monitoring tense political situations on our planet during the 70s channeling. Usually they're only observing and sending undifferentiated love/light, so there's no hint of intervention per se. If I'm not mistaken, when these reports of their earthly monitoring began, it was usually prompted by a questioner asking about some geopolitical situation. From what I can tell it grew into a frequent mention as perhaps a force of habit that eventually died off, and it skated on the boundary of transient information as many of the group's (especially Don's) questions did at that time.
+
+<!-- more -->
 
 There is a similar but more innocent pattern that formed as we head into the 80s with Latuii in particular. They describe at some point being scientists studying the color patterns of our planet's energy. In the early 80s Carla tends to channel the main conscious message and leave question and answers to Jim's channeling, and he usually served as an instrument for Latuii. Carla got into a habit of checking in with Latuii about which colors they were studying, and I see it as a similar point of conversation as this, just a tad bit less flirting with infringement.
 

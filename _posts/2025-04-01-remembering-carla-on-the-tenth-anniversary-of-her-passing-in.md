@@ -3,11 +3,15 @@ title: Remembering Carla on the tenth anniversary of her passing into larger lif
 layout: post
 date: 2025-04-01
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Ten years ago, I was in the midst of a tumultuous and life-changing transformation. In the middle of this storm of catalyst and galvanized seeking, I learned that the 20th century’s most talented and hardest working instrument for the Confederation, Carla Lisbeth Rueckert McCarty, had passed. The loss of Carla hit all of us in the larger L/L Research community hard; as much as we mourned her passing, little did we know how much her cheerful and wise counsel would be missed as we all attempted to navigate the 21st century’s chaos, both as a planet and as individual seekers.
 
 Nobody who knew Carla even moderately well could mistake her as anything but the heart and soul of the L/L Research project. She brought seemingly unlimited enthusiasm for the mystery of seeking, but she never abandoned her Christian roots, setting an example of how to live the exacting life of an instrument in substance, not by making a fancy celebrity of herself. Her role at the center of the project was one that gushed out of her spirit, not a lofty position she seized and protected politically. After all, she and Jim McCarty often kept L/L Research afloat through sheer faith and determination during the post-Ra contact years, and she knew its fragility well, not just materially but its tuning spiritually.
+
+<!-- more -->
 
 It is in this example setting, perhaps, that Carla lived her Christian values most visibly to others. Much as her savior Jesus showed us what was possible in a human life by “showing, not telling,” Carla’s refusal to sacrifice her personal commitments, eccentricities, and tastes showed what service truly consists of: letting that light shine through the personality by making it clearer and more what it already is. Perhaps most starkly, her example of service arising from self-acceptance helped her do her life’s work in spite of significant, lifelong health challenges that contact with those of Ra had only exacerbated. It’s that passion I miss, because at the risk of sounding crass, her death made more sense than most things in her life given the unrelenting punishment her body endured; the miracle was that she survived and served as long as she did.
 

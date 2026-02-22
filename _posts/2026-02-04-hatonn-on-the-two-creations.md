@@ -3,11 +3,15 @@ title: Hatonn on the Two Creations
 layout: post
 date: 2026-02-04
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 When I began reading the archive from the beginning a decade ago, I remember running into concepts of "the creation of the Father" and "the creation of man" frequently, and it definitely seeped into my suite of concepts. It had an archaic ring to it that reminded me of this lineage's heritage in the channeling of Edgar Cayce (who after all was the first to use the term "Law of One" as far as I'm aware). As I started studying becoming an instrument, these messages from the 70s and early 80s rode shotgun with my practice contacts, and I found Laitos referencing the two creations even in [messages I brought through](https://www.llresearch.org/channeling/2017/0429). This is all to say that the term and the idea to which it refers has a long history not only within the tradition but with me personally as well. 
 
 Its influence continues to this day in the work of the Richmond Meditation Circle, where we have done many sessions exploring the differences between the two creations and the redemption of one in the other. To put it succinctly, the creation of man reflects sub-sub-logoic or man-made thought forms, whereas the creation of the Father reflects sub-logoic or nature-made thought forms. The difference in the vibrations of the two environs stems from this position in the logoic chain, we are theorizing, and as a result we plan to conduct more meditations and other workings in natural, unspoiled environments in 2026. It is a way in which self-conscious, third density entities learn to become co-Creators _specifically_ in the sense of being agents of nature. As [Monka puts it](https://har.center/2025-07-19/17/monka-on-tuning-to-the-planet), "you can slow down and wait to offer this fast-paced and energetically intense place upon your Mother Earth the complementary waveform, the balance to its own kind of vibrancy. What nature meets over the long run, you can meet in the moment in a much more immediate way."
+
+<!-- more -->
 
 To me, the important thing to understand about this imbalance in our human creations is that it is no one individual's fault, and we don't gain freedom from its pollution simply by seceding from society. We instead have to begin to take personal responsibilty for the thought forms we entertain —— an incredibly weighty duty at first —— and learn how to meet what is in front of us not with opposition or surrender but with the complementary vibration that balances it. But this is not an intellectual task; it forces us to recognize and reflect that cosmic, natural love that infuses the entire affair so that we can intuitively, and then collectively, reorient towards our Mother Earth, tuning to her needs as a people.
 

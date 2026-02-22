@@ -3,9 +3,13 @@ title: The Pattern of Reflection
 layout: post
 date: 2024-12-18
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 In session 22, those of Ra [state](https://www.lawofone.info/s/22#6) in response to a question about the shortening lifespans of humans as earth's third density continued into the second and third major cycles:
+
+<!-- more -->
 
 > Thus the shortened life span is due to the necessity for removing an entity from the intensity of experience which ensues **when wisdom and love are, having been rejected, reflected back into the consciousness of the Creator** without being accepted as part of the self, this then causing the entity to have the need for healing and for much evaluation of the incarnation.
 

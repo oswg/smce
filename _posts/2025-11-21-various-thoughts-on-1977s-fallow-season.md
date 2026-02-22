@@ -3,11 +3,15 @@ title: "Various thoughts on 1977's fallow season"
 layout: post
 date: 2025-11-21
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 To be honest, the last few days of reading in the 1977 archive haven't provided much in the way of interesting excerpts. Particularly in the last half of the year Louisville's recording game seems to have been downright awful, with much being lost and the old "(inaudible)" tag featuring heavily. On [this morning's session](https://www.llresearch.org/channeling/1977/1102), the editor even writes, "The transcription is only to give an idea of the contents and should not be considered accurate." 
 
 Such a weak apology brings to mind the effusive interstitial notes with which Red Cord Channeling peppers their transcripts. Either there's a message here or not, but feelings and fragments are not a message! I might write more about this, because there's a real misunderstanding out there about the role of the emotions felt by an instrument or the subjective experiences encountered in a channeling even by batteries. It's understandable, but it's what happens when you are not trained within a tradition but instead decide to just figure it out on your own. Of course without any guidance to help you deal with your experiences, every single thing that happens to you during contact feels vitally important to report! But if it's not the message, what's the point of reporting it other than to glorify the instrument?
+
+<!-- more -->
 
 And I'd conceded that's not obvious; it's something I needed to learn as well. The upshot is that it really calls into immediate questioning what it is about service as an instrument that is actually valuable. I'm not trying to attack anybody as much as point out how even two decades in Elkins and company were still "figuring it out." I'd like to think we can learn from that rather than reinvent the wheel for the sake of a contrived sense of authenticity.
 

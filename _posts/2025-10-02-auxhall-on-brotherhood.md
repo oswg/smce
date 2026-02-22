@@ -3,11 +3,15 @@ title: Auxhall on Brotherhood
 layout: post
 date: 2025-10-02
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Going back over the transcripts I read morning after morning for ten years has been wild. There's so many nuggets of beautiful insight that I glossed over just to take it all in, but maybe that is always what an initial read of an archive entails. In any case, here's one that I distinctly remember as absolutely pivotal both in capturing my heart and in my neglect of it afterwards, for its message could have been vital guidance in certain organizational conflicts in which I later engaged.
 
 This session has many high points and I'll probably write something about another passage in here later, but this to me is the most poignant, speaking directly to the kind of spiritual solidarity I've felt motivated by for some time. We typically think coming together in the name of our Creator is some sort of thing we arrange and negotiate with each other, and quite rightly so. It seems that the harmony we seek is something expressed in how our individual characteristics mingle, and that unless we attend to these dynamics carefully we are simply creating an untenable alliance. Auxhall is here to tell us, no: it is not for _our_ sake that we love and accept and withhold judgement from our brothers and sisters, because we don't consciously see far enough to even judge _ourselves_, let alone another.
+
+<!-- more -->
 
 We come to each other _through_ the Creator, not directly with one another. This allows for us to release the judgement and strategy involved in normal organizing, because it's not _our_ organizing any longer, and it doesn't have to serve _our_ interests. And with this fear off the table (something expounded upon later by, I believe, Auxhall via Hal Price), we can simply be instruments instead of directors, conduits instead of centers, calling back to the more central center at every pass.
 
@@ -32,6 +36,5 @@ The last passage is so key to me: this is not about _equality_, or rather, equal
 \- [Auxhall via Rueckert: October 17, 1976](https://www.llresearch.org/channeling/1976/1017)
 
 \* for the sake of fidelity to the transcript, I kept L/L Research's spelling here
-
 
 Originally posted on [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/comments/1nw3m15/auxhall_on_brotherhood/).

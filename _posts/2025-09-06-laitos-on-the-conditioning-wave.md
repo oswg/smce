@@ -3,11 +3,15 @@ title: Laitos on the Conditioning Wave
 layout: post
 date: 2025-09-06
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 The conditioning wave was previously discussed in [this 1974 session](https://www.llresearch.org/channeling/1974/1110) which we [addressed](https://www.reddit.com/r/lawofone_philosophy/comments/1jh77rs/laitos_and_hatonn_on_the_conditioning_wave_1974/) about six months ago. This wave is typically dealt with in our philosophy as a subjective signal of contact to an instrument. However, it's worth mentioning that those of Laitos see it as a much broader transmission of helpful love that can occur completely outside the channeling context. 
 
 In fact, they even go one step further than, essentially implying that _meditation's ultimate goal is contact with one's higher self_. Think about that: does that not place all channeled contact in a very interesting context, especially given that we know all contact with outer planes complexes occurs through the higher self? For those of you interested in making contact, I hope you'll consider that a group isn't necessary: only the seeking in meditation.
+
+<!-- more -->
 
 > I am Laitos. I greet you in the love and the light of our infinite Creator. I wish to speak briefly with you, my friends, about the energy that we do send to you. Each of us in the Confederation of Planets in the Service of the Infinite Creator is here for one reason only, and that is to send you our love. We do this in many ways: we speak with you intellectually through channels, we send to your planet as a whole our vibrations of love, and to specific groups and individuals, when they request it, we send a type of energy which has sometimes been called the conditioning vibration or wave.
 >

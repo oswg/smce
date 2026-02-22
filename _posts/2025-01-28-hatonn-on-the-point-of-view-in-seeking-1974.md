@@ -3,11 +3,15 @@ title: Hatonn on the Point of View in Seeking (1974)
 layout: post
 date: 2025-01-28
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 I don't have a lot to say about this. I will say that this idea that "we don't live our own life" is very fruitful contemplation. It's very much in line with the other spiritual reading I've been doing, especially the work of Peter Kingsley and the profoundly, scarily transformative potentials involved in really paying attention.
 
 And in my experience, it's the discovery of these different qualities of the ground of our seeking, new elements of subjectivity that help us turn the crystal of consciousness to see another facet, that help deepen our faith and curiosity in a stultifying and enervating third density yellow ray social complex where we all have to make our coin.
+
+<!-- more -->
 
 > **I am Hatonn**. I greet you in the love and in the light of our infinite Creator. I greet you in fire, in wind, and with the forces of your planet which also greet you. I am at this time not too far from you. I am far above you, and yet I greet you within your heart. For I am all things and I am you. It is my privilege to speak with you this evening. I am aware that you are seeking the truth.
 > 

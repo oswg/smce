@@ -3,10 +3,14 @@ title: The value of happiness
 layout: post
 date: 2024-12-16
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 I mentioned this session in passing in a thread, but it deserves top billing:
 
 The presumption of the seeker is that all parameters are to be understood and searched out and that there is trail of wisdom to the stars, a series of questions that will lead one to infinite wisdom. This is not so. Wisdom is born of suffering, dilemma, contradiction and pain. The so-called happy times that you experience within the illusion are useful as randomly as are the difficult times, and the intrinsic value of happiness is quite low.
+
+<!-- more -->
 
 Indeed, no experience has a great deal of value except as a part of a very large base of information from which the deeper mind may begin to draw intuitive conclusions about the way things are not. Each of you considers the self a fairly long-term, consistent and stable personality. Seekers tend to view the self as a kind of business to be managed—so much of this, so much of that, the proper conditions for growth, and behold: a well-managed and prosperous-looking metaphysical path. We realize that we are not speaking to those who are seeking reasons to commit themselves to the spiritual path, but rather that we are speaking to those who will live life within third density to its end, incarnationally speaking, moving as closely in accordance with metaphysical principles as intuition and reason permit.
 

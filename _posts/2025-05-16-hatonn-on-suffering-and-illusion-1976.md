@@ -3,11 +3,15 @@ title: Hatonn on Suffering and Illusion (1976)
 layout: post
 date: 2025-05-16
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 I thought this session was a decent shorter one, focusing on a topic that perplexes us all: the justice of suffering. We want justice within the illusion -- for suffering to be a thing that is never _undeserved_ -- but this undermines its very purpose of refining us as we truly exist in reality. For it to do so, it must _seem_ real but _be_ illusory.
 
 There's also a hint of something I've been very interested in exploring: the way we consciously can push the limit of the "simulation" to the maximum. If I'm understanding the ancient Greek's ideas on oneness and the illusion, they feel that reality is deep inside the illusion, not something we achieve by rejecting it. We penetrate it by committing ourselves fully to it, while not being _of_ the illusion. To adopt its challenges without adopting its identity seems to be something of the skill or _mêtis_ needed to fully unlock our potential.
+
+<!-- more -->
 
 The key, I think, is to recognize the illusory nature of our very personalities. They are not us. They are to be used, just like the rest of the illusion, to (paraphrasing Mao) highten the contradictions, expose the illusory nature of the illusion, and thereby call to what is real to manifest more and more purely.
 

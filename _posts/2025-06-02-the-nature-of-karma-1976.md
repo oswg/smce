@@ -3,11 +3,15 @@ title: The Nature of Karma (1976)
 layout: post
 date: 2025-06-02
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Welp, this is a rare one: an unidentified contact. Since Carla is channeling here, it's almost certainly Hatonn. This entire session is extremely packed with good information on channeling, but I wanted to call out this exchange on karma because it gets to a topic my circle has been thinking about.
 
 There's no doubt that Confederation philosophy considers outward, phenomenal reality to be the instrument by which we learn about ourselves, providing opportunities for catalyst and transformation. However, part of this learning seems to involve _applying the learning back into the illusion_. I understand the function of a quiz in education, but normally that's designed to prove to an authority that we learned what they taught. It's not designed for us to prove anything _to ourselves_ as students.
+
+<!-- more -->
 
 There's something about our willingness to live according to the lessons we learn that certifies them as truly learnt. Up to now, statements such as this one from Monka have been my understanding:
 

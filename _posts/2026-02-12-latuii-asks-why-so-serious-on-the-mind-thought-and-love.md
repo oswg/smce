@@ -3,11 +3,15 @@ title: "Latuii asks: why so serious? On the mind, thought, and love."
 layout: post
 date: 2026-02-12
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Another Latuii banger drops some 47 years ago, this one focusing on thought and intellect and its proper use. We already know we need them to be in balance with the heart and intuition; now we need to also calm the F down and stop being so serious and solemn. There's a place for that, but not when it arises from a fear -- least of all of God!
 
 One of the most crucial passages here is instruction on "finding love in the moment" that is so murkily [described by Ra two years later](https://www.lawofone.info/s/10#14). "If you cannot find it, let it go;" it seems like a cop-out, right? But it's better than tying yourself in knots! This seems like sage advice: to look for love, and in the looking solidify the intention. To engage the self, and to forgive when the engagement does not yield fruit. To direct the intellect and thought, but to not let it direct _you_, for you are something more than mere thinking, though your personality? That might just be made up, yeah.
+
+<!-- more -->
 
 Two more things: First, at the beginning of the excerpt, notice the admonition delivered to _even Carla_ about overthinking and worrying as a result of trying to make good contact. If you are practicing being an instrument, take this to heart. The preliminary steps to contact are really built in the daily practice; by the time you're actually doing channeling, it should be muscle memory and should not require a great deal of intense thought. _But_ daily practice might be an exercise in achieving focus, and that's certainly how I experience it. I allow myself to think when the stakes are low, because a single unrecorded practice contact is disposable. Worst case scenario is I abandon the attempt, for its better not to practice the wrong approach and get into bad habits.
 
@@ -15,7 +19,9 @@ Second, something contacts in 2025 stressed to me: the words will be imperfect. 
 
 > I am Oorkas. I am grateful that you have had patience with this instrument and with our planet’s message, for it has not arrived without distortion, we must confess. Look to the center of the message, not the words. Connect with the center of yourselves and then connect with the message, and you will be able to separate the wheat from the chaff and take the true hope that we convey as we convey it and as we mean it. And this is, again, a skill you are learning with great advantage to all who cross your paths.
 
-This seems similar to what Latuii describes when they say "We offer these foolish sentences in the hope that you will see what is behind them…" With all my love: please take that to heart as we all learn how to relate to these friends.---
+This seems similar to what Latuii describes when they say "We offer these foolish sentences in the hope that you will see what is behind them…" With all my love: please take that to heart as we all learn how to relate to these friends.
+
+---
 
 > My friends, this instrument has been deep in prayer in the last two minutes, for she fears, as always, that she will not speak the words that we give her. We think that this is a perfect example of what makes us laugh at the people of your planet. You are so serious, my friend; you are so sure that you will be able to tell the truth by the use of your intellect.
 >

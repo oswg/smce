@@ -3,9 +3,13 @@ title: Group work
 layout: post
 date: 2023-08-22
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 In [69.17](https://www.lawofone.info/s/69#17), those of Ra are answering Don's questions about the danger of misplacing a mind/body/spirit complex into a time/space oppositely polarized to the complex's native polarization. After discussing the nature of free will and why confusion can contribute to such a tragic outcome, they continue (emphasis mine):
+
+<!-- more -->
 
 > Secondly, that which we and you do in workings such as this carries a magical charge, if you would use this much misunderstood term. Perhaps we may say a metaphysical power. Those who do work of power are available for communication to and from entities of roughly similar power. It is fortunate that the Orion entity does not have the native power of this group. However, it is quite disciplined whereas this group lacks the finesse equivalent to its power. Each is working in consciousness but **the group has not begun a work as a group**. The individual work is helpful, for the group is mutually an aid, one to another.
 

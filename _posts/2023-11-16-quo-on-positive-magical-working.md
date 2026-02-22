@@ -2,11 +2,15 @@
 title: "Q'uo on Positive Magical Working"
 layout: post
 date: 2023-11-16
-categories:---
+categories:
+
+---
 
 The High Altitude Receiving Center has begun releasing transcripts and recordings of the fifth channeling intensive sessions, and I've spent the last week going over this material and trying to get clear on its import. In that work I really think [this session](https://harc.otherselvesworking.group/2023-11-05/3/quo-on-positive-magical-working) is particularly interesting because it threads the needle between more specific information, general principles of magical working, and warnings to seekers.
 
 I wanted to share some excerpts, but the entirety is worth reading.
+
+<!-- more -->
 
 > We would point out that the ambient energy, which we have called prana, which is drawn into the mind/body/spirit complex through the red ray and upward to the orange and yellow and green and so forth, increases in its potential as it rises through the spectrum of the energy centers. And by the time this energy has undergone the transformative effects of passing through balanced energy centers which themselves have become crystallized, the amount of power that reaches the indigo ray center is nothing short of awe-inspiring. 
 

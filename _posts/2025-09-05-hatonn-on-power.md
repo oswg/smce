@@ -3,11 +3,15 @@ title: Hatonn on Power
 layout: post
 date: 2025-09-05
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Just realized this excerpt is from exactly 49 years ago today! Pretty cool it was my reading this morning.
 
 A few things to point out about this excerpt. I could have included the opening remarks channeled by B, but it would have been too long. Note that B's message almost seemed to be going in a direction that indicated the accumulation of knowledge, while an infinite task, was itself the project. Then the connection fizzled out, and Carla's message dialed it in. I've definitely seen this happen with multi-instrument channeling sessions more than once, and this is a good example of the phenomenon. What one instrument picks up on may not have the full intention attached to it, but it triggers the appropriate context in the next instrument. This is how a contact can play the circle's instruments like an orchestra, using the tuba when appropriate and the piccolo when that's the right sound. The point is the communication of the information and inspiration, not necessarily the performance of a given instrument. Just goes to show you that even in distortion we serve.
+
+<!-- more -->
 
 Note also the connection between the concept of _power_ and the concept of _knowledge_. Understanding is not part of this; understanding is a more complete awareness of things, not the piecemeal, structured nexus of different facts and knowledge. Meditation is the antidote, it seems, to the need to master the illusion; with a connection to our higher selves and the spirit complex made "straight" and regular through inward work, we become capable of intelligence that isn't a result of our self-directed accumulation of knowledge and wisdom. We put our mind/body/spirit complexes in order, and the rest tends to work itself out.
 

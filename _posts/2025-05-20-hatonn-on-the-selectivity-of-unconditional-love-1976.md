@@ -3,11 +3,15 @@ title: Hatonn on the Selectivity of Unconditional Love (1976)
 layout: post
 date: 2025-05-20
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 What a curious, provocative title, huh? Well I'm nothing if not a hype man for the Confederation. I think it's accurate, because what Hatonn discusses here is what is actually capable of being loved in that cosmic, total, unconditional manner. It's not our personalities or the details of our lives. All that stuff is a wash, and it does not partake of the purity that calls back to the Creator at all. That is all illusion, and you cannot love something _fake_.
 
 What you can do, and what I find so fascinating and compelling, is to reach _into the illusion_ to find the reality behind it. This is something that Q'uo mentioned recently at the sixth channeling intensive (especially in [this](https://har.center/2024-11-04/19/quo-on-witnessing-planetary-sorrow) session) where the illusion can be leaned into more to find the truth. Instead of trying to block out that which is false and distorted, backing away from it in an escape manuever, one commits even more to it and through doing so find the solid ground of love and faith and unity under the flimsy and insubstantial illusion.
+
+<!-- more -->
 
 This is the use of the illusion itself on its own terms to bear out its inconsistencies, its contradictions, and thereby testing it so it allows one to narrow down to the reality behind it. And this isn't a matter simply of exertion and skill; it's a matter of a love so full, so unconditioned, so broadly shone upon the screen of the illusion, so _foolish_ that it exposes the underlying reality, the hidden import and value of life itself. And nowhere will this reality be more poignant and readily apparent than when directed at an other self, a reflection of the Creator in whom you can recognize your own individuality and theirs while seeing the unbroken continuity that binds it all together.
 

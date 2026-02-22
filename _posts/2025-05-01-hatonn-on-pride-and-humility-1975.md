@@ -3,11 +3,15 @@ title: Hatonn on Pride and Humility (1975)
 layout: post
 date: 2025-05-01
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 The last recorded session of 1975 is a real treat, one of those sessions where you find something right at the outset that's worth sharing here, and reading further only gives you better and better excerpts. I feel like the point of these little posts on reddit is to give as encapsulated a bite of inspiration and teaching as possible; I could post the whole thing, but you can already find that yourself!
 
 Anyway, Carla often stated spiritual pride was her biggest hangup. To label humility as itself a stumbling block must have struck her conscious mind as curious at best. This is where we see the cosmic outlook of the Confederation tugging at Carla's Christianity, coaxing her to see things in a more nuanced manner. In truth, her personality -- everybody's personality -- is not a fixed thing, but a dynamic tension between opposing qualities. 
+
+<!-- more -->
 
 Life is a tightrope, and balancing act between being the instrument in the world and the Creator using the instrument. The only way to stay on top of the rope is to let go of what is making you fall. Errors are only irredeemable if the personality that fashioned them is more permanent than the soul using that personality.
 

@@ -3,11 +3,15 @@ title: Hatonn on Relying upon the Creator
 layout: post
 date: 2025-09-30
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 This is a longer session for 70's Hatonn and there's a few different gold nuggets in here among the more transient questions. However, I think this part right at the outset is the most useful to the seeker. When we reflect upon our conduct and our service, we sometimes wish we had done this instead of that, said this instead of that, and this is good catalyst for our future growth. But Hatonn reminds us that there really is only one choice: to _connect with the Creator within us_ or to try to eek it out ourselves. Our human beingness as understood in the illusion simply does not have the resources to meet the moment reliably, and so castigating ourselves for doing the wrong thing---rather than listening to the wrong voice---is a distortion of the true lesson at hand. Good food for thought.
 
 Also see the Q&amp;A for very interesting discussions on the nature of channeling, the different ET contacts' densities of origin, and especially an interesting comment about the arguable godfather of Confederation contact, George Van Tassel.
+
+<!-- more -->
 
 > We share with you the thought that through others you may see the Creator, and others may see the Creator through you. Yet of yourselves, you cannot give or receive the love of the Creator. It is only through the consciousness of the Creator Itself that you and your brother are one. Of yourself, you cannot do what you wish to do. You cannot depend upon your own resources. Yet you have infinity behind you, the storehouse of talents and power and ability so great that you can never exhaust it. Your cup may always run over with all that you need, if you can but remember whence love comes.
 >

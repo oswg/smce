@@ -3,11 +3,15 @@ title: Hatonn on Love as Sacrifice (1976)
 layout: post
 date: 2025-06-30
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 When I dig into the L/L Research Conscious Channeling Archives, I'm not just trying to find diamonds in the rough. What I find particularly interesting are the thru lines between this earlier work and what Ra ends up articulating. That's helping me construct a kind of genealogy of contact where I can make sense of work that follows and precedes Ra, understanding the concepts as evolved by increasingly tuned contact as the principles of stable practice are better understood over the course of the 20th century.
 
 But then there are times where the sheer poetry and exuberance of conscious contacts seems to overwhelm Ra's dry and terse delivery. This is the Confederation in something much closer to "preacher" mode, giving their testimony on the ideas that move the needle of seeking. This topic of love, the generosity it engenders, and the sacrifice that this entails seems to be just one of these moments. It's a subject that Ra deals with [a couple of times](https://www.lawofone.info/results.php?q=sacrifice) making nearly the same point, but it is in the words of Hatonn that I find the inspiration to live this and not simply apply a program from on high.
+
+<!-- more -->
 
 > I am with you, my brothers. I am Hatonn. It is a joy to me to see that my words have meaning to you. Your vibrations are known to us. The vibrations of all your peoples are known to us. Your thoughts and your desires are known to us. Your free will is completely preserved, yet you are known to us. It is this knowledge that allows us to be with each of you as you desire us. We feel the desire that quickens within you to know love. There have been many who have dedicated their lives to a love of one kind or another, and for this love a man may sacrifice years and years in a position which he may hate, in order that he may take care of those that he loves. A woman may sacrifice many, many desires in order to nurture her mate and her children. Love seems always to offer sacrifice. Have you pierced the veil of this truth of love, my friends? It is written that the master known as Jesus said, “In order to love Him, we must pick up a cross.”
 >

@@ -3,11 +3,15 @@ title: Hatonn on Planetary Happiness and Desire
 layout: post
 date: 2026-01-10
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Happy 2026 other selves! Trying to get back in the rhythm of posting here. 
 
 This excerpt is not the most vital from the August 9, 1978 session. I encourage you to read [the one where polarity is first hinted at](https://www.reddit.com/r/lawofone/comments/qe7krt/the_question_of_good_and_evil/), almost three years before contact with those of Ra. It's a very poetic conception of polarity, and yet it also has a kind of "physics" to it that I find much more satisfying than anything Ra was able to provide. I've often remarked that polarity must consist of some underlying energetic configuration, and this excerpt gestures at a way to reconcile "evil" and "good" with the dynamics of illusory travel back to the Creator.
+
+<!-- more -->
 
 The excerpt I'm going to share is closer to where my head is at now: the mystery of social memory, and how we might create some kind of anticipation of what it means to be a self when the boundaries between self and other self become far more porous than they now are. I'll admit that watching the TV show "Pluribus" has also contributed to this pondering, because it's such an exacting portrait of the severity of social memory. But in Gilligan's dramatic telling of this unified planetary mind, all the drama comes through the eyes of the handful of people who are witnessing it from without. That obscures the advantages witnessed within, which are meagerly hinted at.
 

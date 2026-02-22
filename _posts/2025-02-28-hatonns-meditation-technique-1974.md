@@ -3,12 +3,15 @@ title: "Hatonn's Meditation Technique (1974)"
 layout: post
 date: 2025-02-28
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 In [49.7](https://www.lawofone.info/s/49#7) Ra refuses to provide Don with a meditation technique. However, their student Hatonn did this a couple of years prior, and I find it very simple and streamlined. If meditation is something that has eluded you because it's simply so unstructured -- and let me be clear, there is great, great value in unstructured, "pure" meditation without object or goal -- this technique of Hatonn's may be something you can work with. I'm thinking I may do an _inaudible_ episode on this just because it's very clean while also offering opportunities for reflection on what meditation actually entails, its meaning in our lives and seeking. 
 
 Do yourself a favor and read [the whole session](https://www.lawofone.info/s/49#7), it's great and a fantastic example of the kind of seeking that led that group to make sixth density contact eventually.
 
+<!-- more -->
 
 > First, my friends, let us clear our minds as best we possibly can of all thoughts that you may have concerning your daily lives. My friends, let these thoughts of your daily lives drift away, for these are very transient thoughts. These thoughts will be gone in a few days. Let them go now. Let the influence that your material environment has upon your thinking, leave you. Let your mind be clear. Let it be as a child. Do not attempt to understand, do not attempt to understand, my friends, and then you will know. For you cannot understand by a process of trying. You must understand by a process of knowing. Do not try to come to a conclusion. Do not try to analyze. Do not try to utilize past experiences. Simply allow your mind to become clear.
 > 

@@ -3,14 +3,18 @@ title: Hatonn on the Reaction Test (1974)
 layout: post
 date: 2025-03-06
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 In this session Hatonn addresses the purpose of the illusion: to test our reactions to each aspect of the Creator streaming through It's many guises. Rather than life being a process of avoiding that which knocks us off our center, life is _catalyzed_ by this refusal to avoid, to simply locate the Creator/self in what we experience and greet it with love. As this reaction becomes more automatic, we free ourselves to be more genuinely creative in the moment, identify opportunities that did not previously disclose themselves, and serve more fully.
 
 Now you might respond that this sounds like an intellectual model imposed upon experience, a way to make things theoretical and abstract and distance ourselves from the true affective work here. And that is, in a way, true. But this gets into the purpose of the intellect, as I see it: to provide focus. It need not divorce us from the immediacy of the primal emotions we feel, but it can provide a framing, a context, that allows us to have self-created experiences that ride along with other-self-created experiences. 
 
-What happens to us is often out of our control; how we respond is in our control, but there is a vast gap there. But bridging that gap is what unites us with everybody else on the planet, and the only benefit to consciously understanding this is that we can notice how we focus and give ourselves that option to direct it in novel ways. 
+<!-- more -->
 
+What happens to us is often out of our control; how we respond is in our control, but there is a vast gap there. But bridging that gap is what unites us with everybody else on the planet, and the only benefit to consciously understanding this is that we can notice how we focus and give ourselves that option to direct it in novel ways. 
+<!--  more -->
 I encourage you to read the entire transcript, as it builds subtly on the information I've included here.
 
 > It is difficult for many of your peoples to understand why it is necessary for such an experience to take place to reach an awareness that seemingly should be reachable any place, at any time. My friends, it is within reach any place, at any time. But it is also very difficult to test the total understanding of this realization in any experience. It is most easily tested in the experience in which you now find yourselves.

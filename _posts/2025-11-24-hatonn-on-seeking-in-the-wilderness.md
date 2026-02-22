@@ -3,11 +3,15 @@ title: Hatonn on Seeking in the Wilderness
 layout: post
 date: 2025-11-24
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 We're kicking off [1978](https://www.llresearch.org/channeling/1978/), another year of sparse records of channeling. I rather think this indicates a lack of recording rather than a lack of channeling, because it's hard for me to see sporadic practice leading to narrow band contact in less than three years, but who knows. I really doubt anybody with first hand knowledge of this is still alive, and in any case Ra showed up when they showed up.
 
 Hatonn admits this message is more advanced than usual at the end, and while this comment ostensibly addresses their advice to S in the Q+A section, I think it applies to the monologue as well since it addresses some of Carla's doubts. Hatonn is speaking of the ambiguity inherent in the preincarnative programming. We wander in the wilderness, seeking what is authentic in ourselves through the illusion, and returning to the source within when this illusion has exhausted us. In fact, polarization might be said in many cases intimately tied up in exhausting our appetite for distraction, for having it both ways (seem the Transformation of Mind archetype).
+
+<!-- more -->
 
 Meanwhile, we have our program available in its original poignance and purity within ourselves, and meditation is our entrance to this resource. Rarely do we understand intellectually what it offers, and in this confusion we have our freedom. In this murky wilderness, we serve as an all-in, blind gamble on the hand of love we hold. Whether this precipitates into public awareness or not, we are operating on the level of faith---faith that the program is good, that we will learn by hook or crook, that the real work is always within regardless of what the world notices, that any seeming choice we make is but the descendant of the single actual choice available to us.
 

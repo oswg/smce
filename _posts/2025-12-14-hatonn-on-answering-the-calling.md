@@ -3,11 +3,15 @@ title: Hatonn on Answering the Calling
 layout: post
 date: 2025-12-14
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 This is a session that made a big impression on me as I was formulating my own personal style of applying Confederation information to my life. There's really a lot here, and for this post we're going to focus on Hatonn's opening points. I'll probably post other excerpts from this session as they're nice and self-contained.
 
 Probably the biggest idea to clock is this one of service not representing simply the will of the individual to respond to need, but service as a means by which the universe regulates itself and evolves. There are passages in the early transcripts--particularly those channeled by Don--that really nail this: all portions of the Creator serve all other portions. The natural systems, cycles, and processes we observe are simply _service rendered at different levels of awareness_. 
+
+<!-- more -->
 
 This is why there is an intelligibility to all of these tiny slivers of the Creator's whole. The same intelligence we use to see patterns in nature is operating at the level of physics, biology, geology, etc. The only difference is the level of awareness observing and participating. After all, we know well there are higher density phenomena percolating into our third density awareness, but since we don't meet that level of intelligence in our present awareness, it passes our notice. As a side note, this is an area where the Richmond circle is focusing lately, as earth healing seems to involve some kind of intuitive tapping into higher and lower levels of awareness to shuttle the energies through these levels smoothly. All of our focus on thought forms arises originally from Oorkas's suggestions on how we may help with "planetary survival;" e.g. the survival of a planet and the collective unconscious it represents _along with_ the collective conscious to be realized by the social memory complex the individual humans will form. 
 

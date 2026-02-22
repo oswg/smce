@@ -3,11 +3,15 @@ title: Hatonn on the Nakedness of Meditation
 layout: post
 date: 2025-11-18
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 A little bit of a longer one, but incredibly helpful to me so I thought I'd share. Hatonn encourages meditation not simply as a way to boost our spiritual evolution, but as a _refuge_ from our waking lives of acting, fronting, and lying to each other. It's not that it's bad that we do this necessarily --- we all have to be where we are in a society and culture in which we play roles and cannot express our truth perfectly --- but that it gets so exhausting to reconcile our spiritual beingness with what everybody expects of us. It makes us bitter, jaded, depressed. OK, it makes _me_ bitter, jaded, and depressed, and to the extent that you feel this too, know there's at least one other soul on this planet right there with you.
 
 I've had a lot of success literally imagining removing my personality signifiers in meditation as if they were layers of clothing. One can identify each fake aspect of oneself that one clings to in waking life, bless and thank it, and simply put it aside for a few moments as you sit and take everything in, as you dilate your awareness to recognize how much you block out to be the "you" others expect.
+
+<!-- more -->
 
 In some ways I find the assurances that we are love and light, that we are perfect and whole deep down, a bit besides the point. Hatonn says these things to support us, but deep down they want us to _find out for ourselves_, not to take their mere word for it. And that is the final nakedness of inward attention: to have the glory and the burden of taking the knowledge of our infinite perfection into this illusion and going through the motions of being a human being for one more day.
 

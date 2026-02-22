@@ -3,11 +3,15 @@ title: Hatonn on Healing our Society
 layout: post
 date: 2025-12-05
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 These are the messages that really intrigue me because of how much of a political theory guy I am. It's what made me fall in love with the complex of Monka: the idea that our social problems are a result of very simple barriers in our hearts, not puzzles we've failed to solve with our brains. This analogy to the body, then, is incredibly instructive.
 
 We are like the first cellular organisms naturalistically discovering how to cooperate sufficient to create a multicellular organism as a result of the upward spiraling light. However, instead of this spiraling effecting body complex formation as a result of the deterministic bumping of molecules and processes of chemical reaction, another complex -- a more _social_ one -- is forming. The nature of this process relies more on refined and abstract mental and interpersonal dynamics, but (this is extremely important) _it is precisely as naturalistic a process_, just one occurring at the level  of mind, spirit, and logoic will instead carbon and hydrogen.
+
+<!-- more -->
 
 If we looked at the way we relate to one another as that of a cells relating to a body, it would be easy to see our social ills as disease and even, perhaps, recognize what it might take to heal, not as a matter of seizing control of the brain so much as yielding to the instinct of the society to address issues at the level we encounter them, much as a white blood cell doesn't try to take over the body but just kills pathogens as it bumps into them. If this seems politically simplistic, then one wonders what kind of monstrous, Cronenberg-style organism we've created that requires black ops, economic exploitation and manipulation, and an underclass of rotting appendages we call the homeless and the poor designed to scare the rest of the body's cells into submission. Hope that analogy is coherent enough to follow!
 

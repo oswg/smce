@@ -3,11 +3,15 @@ title: Hatonn on reform
 layout: post
 date: 2026-02-02
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 I thought this was a good excerpt to pull for the conditions in which the world finds itself right now, where there is plenty of social and political turmoil. None of us can identify a concrete program to follow individually that can cut through the propaganda and agendas. It is easy to despair, and yet Hatonn poses the critical question: why *are* we here, in fact? This must be the guiding principle we follow as seekers; we cannot possibly know how to heal this intellectually or through some strategy. Only by learning how to be cleaner and cleaner windows for love to pass through and guide us can we hope to help, how to bring the Creator's cosmic love to bear.
 
 Hatonn reminds us that we cannot manifest this love in and of ourselves. This is why we meditate and balance; so that it's not up to our personalities to get every detail right and consciously see the path from where we are to where we wish to be. As [Q'uo once put it so eloquently](https://www.llresearch.org/channeling/2007/0731): we're not here to fix it; we are here to love it. And as we learn to free that love that created us and shapes us and issues from us, we free ourselves to simply be agents of a greater agenda than any ideology or policy can contain. We have power, yes -- but only as supplicants of our Creator, Who crafts our judgment and intelligence to perfection if we can simply yield to It and put aside our craving for certainty in worldly conditions. It's frightening, but isn't real love bound up in what is at stake?
+
+<!-- more -->
 
 >Our information is simple, my friends. A very, very simple truth we bring to you, the highest truth that we know, although we know that there is a higher truth, for we are not perfect. And that highest truth, my friends, is that we are all one. The universe has been made up of one substance and that, my friends, is love. How can I say to you, each a beautiful being that sits within your dwelling place at this time in meditation, that you are one being, one with us, one with each other and one with your beautiful planet. It is difficult, is it not, my friends, to see the truth. For you dwell in a dense physical illusion, as we would call it, in which energy seems to you to be mass. In which emotions, as they are, are habitually masked by your peoples, so that they speak falsely. And that falseness is believed as truth. And the separation goes on and on, my friends, among your peoples.  
 >  

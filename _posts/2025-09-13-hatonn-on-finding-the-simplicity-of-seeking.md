@@ -3,11 +3,15 @@ title: Hatonn on Finding the Simplicity of Seeking
 layout: post
 date: 2025-09-13
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Here you can see Hatonn articulating a crude but anticipatory concept of our different complexes comprising ourselves, especially the body complex and spirit complex relating through mind. There's almost a contrast of sorts between this kind of structured beingness and the "angels" they describe, and our experience is one of complexity that obscures the simplicity of love. And this complexity they locate, once again calling to Ra's message, in a choice.
 
 It _is_ a pain to examine the self carefully. We are a tightly choreographed production, my other selves; as Mr. C says in _Twin Peaks: The Return_ to Phyllis Hastings, "you follow human nature perfectly." Oh we do, even in our faults and failings. We are immersed in a crash course in being a flesh and blood human, and to go to the trouble to look closely at it can be confusing at best, painful at worst.
+
+<!-- more -->
 
 So the thing I take away from this sympathetic relating to the difficulty of our work is that we don't just do it for ourselves, and we don't just do it for some Creator in the sky. All of our learning prepares us to serve other selves and help them along. "Anything you may do for others must first spring from your understanding of yourself." And what exactly is it we do in life that doesn't contribute to that understanding?
 

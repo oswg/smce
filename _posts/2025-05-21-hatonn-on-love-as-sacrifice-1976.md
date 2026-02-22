@@ -3,9 +3,13 @@ title: Hatonn on Love as Sacrifice (1976)
 layout: post
 date: 2025-05-21
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Not a lot for me to add here, except that there's some very interesting comments through a different instrument this session comparing the conditioning wave to the wave of love. Then they expand upon the nature of love as one of a perpetual giving, a constant releasing, a service that never ends but only reflects the temporary nature of separation and the timeless nature of unity.
+
+<!-- more -->
 
 > I am with you, my brothers. I am Hatonn. It is a joy to me to see that my words have meaning to you. Your vibrations are known to us. The vibrations of all your peoples are known to us. Your thoughts and your desires are known to us. Your free will is completely preserved, yet you are known to us. It is this knowledge that allows us to be with each of you as you desire us. We feel the desire that quickens within you to know love. There have been many who have dedicated their lives to a love of one kind or another, and for this love a man may sacrifice years and years in a position which he may hate, in order that he may take care of those that he loves. A woman may sacrifice many, many desires in order to nurture her mate and her children. Love seems always to offer sacrifice. Have you pierced the veil of this truth of love, my friends? It is written that the master known as Jesus said, “In order to love Him, we must pick up a cross.”
 > 

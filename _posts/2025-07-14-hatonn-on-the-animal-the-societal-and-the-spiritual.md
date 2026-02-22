@@ -3,11 +3,15 @@ title: Hatonn on the Animal, the Societal, and the Spiritual
 layout: post
 date: 2025-07-14
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 Everything seems to be falling apart, and it seems clear now that, regardless of what political or social outcomes obtain, we are in a moment of decline. As somebody who has spent (wasted) many brain cycles contemplating the state of politics, I cannot ignore the fear inherent in all of this. As things constantly escalate, as indignities and outrages pile one upon another, it strikes deep to my core and shakes up the sense of self I once had.
 
 For Hatonn, this is normal; this is as it should be. Those who across incarnations have been used to a more harmonious, or at least more functional, society -- be that on other planets or historic civilizations here -- are caught in a real puzzle now. We are going to have to reach deep down within and channel capacities of ourselves without the typical feedback to which we are used. So this will be stressful for all of us, no matter how "spiritual" we are.
+
+<!-- more -->
 
 Yet I also observe that new currents in society always emerge from collapse and decay. This will, however, never be the currents that seem most plausible in the moment; it will always seem more workable to retreat to the past and reenergize what has been. Yet that has led us here. Hatonn speaks of three natures of humans that are involved in this process that has led here, and each of them plays a role. Without the animal, we cannot maintain our anchor in this world in order to help it. Without the societal, our help does not make its way into the mental matrix of possibilities. And without the spiritual, we have no ability to reposition the anchor, to move it as these current change, because we have no vantage point from outside of the self-referential world mind.
 

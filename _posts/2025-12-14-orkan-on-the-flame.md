@@ -3,11 +3,15 @@ title: Orkan on the Flame
 layout: post
 date: 2025-12-14
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 This is the only appearance of Orkan in the archives. Since there's a superficial similarity between their appellation and Orcas's ("Oorkas" in our material) it's possible there's a connection, but I find it unwise to dwell on these things too much. The names are much much more important to us than they are to these contacts.
 
 Not a lot I want to add to this message; really the thing that sticks out to me is the "discipline to seek the flame" part. It seems like an alternative rendering of "finding the love in the moment," but one that perhaps improves slightly on Ra's phrasing to the extent that they are able to speak much more broadly about love using this metaphor of the flame. I find that the true scope of cosmic love--a love encompassing destruction and creation--is better captured here. Passages like these show the power of which these contacts are capable, especially relative to the other contacts in the session.
+
+<!-- more -->
 
 > I am Orkan. And I speak to you this evening for the first time. It is an infinite pleasure to me and I greet you in the love and the light of the One Who is the Creator of us all.
 >

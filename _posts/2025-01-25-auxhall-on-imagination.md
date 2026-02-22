@@ -3,9 +3,13 @@ title: Auxhall on Imagination
 layout: post
 date: 2025-01-25
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 I rediscovered in this some of the first hints the Confederation gave our circle about the nature of projection as a fundamental dynamic of consciousness, an ideal that the phenomena of physical radiation and light merely distort. One can see why imagination properly focused with sufficient attention is so powerful: it bridges between the noumenal and the phenomenal which then provides that crucial element out of which all catalysis arises: feedback. That time limits its fruitfulness must comprise at least some of its value and much of its effective power, conveying into the matrix of existence the raw potential lying behind it. It is for just that reason that this is a good example, perhaps, of what spirit complex introduces to the mind/body complex: the ability to use mind not simply to respond to stimuli but to channel intelligent infinity into new forms. This constitutes the double feedback loop of the mind/body/spirit complex: a loop between body and mind, matter and thought, and a loop between spirit and mind, intelligent infinity and the concept of free will/separation that allows for the collapsing of that infinity.
+
+<!-- more -->
 
 > You must understand, as our brothers and sisters of Monka spoke of last session, the projective nature of consciousness in the illusion. Mediated by time, thought proceeds in an expansive and contractive manner, bringing events into existence that create transformation. Imagination is a kind of projection of consciousness that can provide a translation between the ideal, the potential, the unconstrained expression of the Creation and the constraints of manifestation.
 > 

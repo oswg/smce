@@ -3,11 +3,15 @@ title: Hatonn on Spiritual Materialism (1974)
 layout: post
 date: 2025-02-28
 categories:
-  - Meta/Legacy---
+  - Meta/Legacy
+
+---
 
 I just ran into this session, and I think it has a fantastic counterpoint to much of the nature of the seeking we engage in. To the extent that such seeking draws us closer to the mystery of unity, it's all great, of course, but there is friction in the intellectual elements that we consider part of the philosophy. Because these details draw concentration and attention, they influence awareness, holding the danger of distraction and dogmatization. Remember [what Ra said](https://www.lawofone.info/s/52#11): "Always begin and end in the Creator, not in technique."
 
 Now, I don't think this means that all focus on technique is necessarily bad or negative; it's simply a matter of emphasis, much like [their advice on transient information](https://www.lawofone.info/s/26#36). For between the beginning in the Creator and the ending in the Creator, there is a _lot_ of space, and this space is explored as an art that perhaps requires the concentration of awareness on the mundane technique at times. I suppose the main point is to not forget the why of it all, huh?
+
+<!-- more -->
 
 (Just a note: while the instrument here is unknown, it strikes me as almost certainly Carla. First, there's not a lot of female instruments, ever. Second, it just sounds like her!)
 
