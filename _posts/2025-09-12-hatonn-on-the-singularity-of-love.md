@@ -3,9 +3,7 @@ title: Hatonn on the Singularity of Love
 layout: post
 date: 2025-09-12
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 It's funny because really you could call every Hatonn session in the archive, "Hatonn on Love". They truly excel at teasing apart all the component characteristics of this all-encompassing force. Even in [their latest contact with the Richmond circle](https://har.center/2025-08-15/1/hatonn-on-blending-energies) they speak rather philosophically about the ontological tensions involved in the illusion of separation, yet what is the blending of energies they speak of but yet another manifestation of the reality of this drawing force of love?
 

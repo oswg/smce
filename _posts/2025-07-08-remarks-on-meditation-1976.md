@@ -3,9 +3,7 @@ title: Remarks on Meditation (1976)
 layout: post
 date: 2025-07-08
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Another session where the contact's name is not recorded, although we all know who it probably is. Since Ra is so loathe to share thoughts on proper meditation, I find it interesting when the conscious sources -- those who have the admixture of human instrument with Confederation contact -- weigh in, having some inkling of how crucial a question this is for many seekers. They place a great deal of significance on "how earnestly you are seeking," because this earnest desire drives the entire evolutionary process. And I can speak from personal experience that their approach is sound: reading inspirational material and meditating helps one coordinate one's conscious seeking with the mysterious personal dynamics beyond our attention or grasp.
 

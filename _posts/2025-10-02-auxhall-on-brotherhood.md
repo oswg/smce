@@ -3,9 +3,7 @@ title: Auxhall on Brotherhood
 layout: post
 date: 2025-10-02
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Going back over the transcripts I read morning after morning for ten years has been wild. There's so many nuggets of beautiful insight that I glossed over just to take it all in, but maybe that is always what an initial read of an archive entails. In any case, here's one that I distinctly remember as absolutely pivotal both in capturing my heart and in my neglect of it afterwards, for its message could have been vital guidance in certain organizational conflicts in which I later engaged.
 

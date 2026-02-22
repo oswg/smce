@@ -3,9 +3,7 @@ title: Hatonn on Relying upon the Creator
 layout: post
 date: 2025-09-30
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This is a longer session for 70's Hatonn and there's a few different gold nuggets in here among the more transient questions. However, I think this part right at the outset is the most useful to the seeker. When we reflect upon our conduct and our service, we sometimes wish we had done this instead of that, said this instead of that, and this is good catalyst for our future growth. But Hatonn reminds us that there really is only one choice: to _connect with the Creator within us_ or to try to eek it out ourselves. Our human beingness as understood in the illusion simply does not have the resources to meet the moment reliably, and so castigating ourselves for doing the wrong thing---rather than listening to the wrong voice---is a distortion of the true lesson at hand. Good food for thought.
 

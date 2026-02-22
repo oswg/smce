@@ -4,12 +4,13 @@ layout: post
 date: 2025-07-17
 categories:
   - Meta/Legacy
-
 ---
 
 File under "Ra doesn't suggest meditation techniques -- but Hatonn does!"
 
 I even appreciate some of the more philosophical implications of their technique. First: the idea of recognizing the body as the divine self's dip into duality and materiality correlates very well with [what Q'uo explained to us regarding the Significator of Body archetype](https://har.center/2024-11-03/15/quo-on-the-significator-of-body). We are in this world of polarity and separation, but Hatonn urges us to not think of ourselves as _of_ this world. 
+
+<!-- more -->
 
 Indeed, I really like the idea that polarity calls to the middle point in some way; it is the existence of extremes that implies the balance. And remember that [a center is always inherent in an infinite creation](https://www.lawofone.info/s/82#7).
 

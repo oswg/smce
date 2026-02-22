@@ -3,9 +3,7 @@ title: Hatonn on Service and Creativity (1975)
 layout: post
 date: 2025-04-22
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 First, I'll get the headline out of the way: all the people who prefer "service-to-all" over "service-to-others"? Here's your ammunition.
 

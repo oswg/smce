@@ -3,9 +3,7 @@ title: The Confederation Lineage
 layout: post
 date: 2024-02-19
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 In my work on my forthcoming book on the channelling of the Richmond Meditation Circle, I've been doing a lot of research into the lineage of UFO contacts. I've written this up as my current understanding of how we got where we are. I'd be interested in any feedback, especially critique. This is part of the README file for a new repository for channelling in this lineage, and so the question of what counts as belonging and what doesn't needs to be addressed.
 
 > The Confederation lineage begins roughly with works like Oahspe and the channelling of Mark Probert's Inner Circle Kethra E'Da Foundation. With the popularity of George Van Tassel's UFO inspired work, we reach a fork in the lineage. Robert Short led a breakaway channelling group that eventually became Thelma B. Terrill's "Ashtar Galactic Command" organization. As a matter of tuning and polarity, we consider the Ashtar Command branch of the UFO channelling too dominated by fear-based, apocalyptic messaging to be useful in applying the Law of One to one's life and thereby better participating in one's spiritual evolution.

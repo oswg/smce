@@ -3,9 +3,7 @@ title: Peter Kingsley on Free Will
 layout: post
 date: 2025-07-19
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 I'm not usually one to bring in outside philosophies into this sub, but sometimes I find that other teachers can explain things in ways that augment Ra's words. In the same way that I've often held that the conscious channeling is more valuable than Ra's channeling because it grounds the philosophy in human experience, certain teachers can shed light on our philosophy through the alternative vantage point they occupy. I've shared Pema Chödrön's thoughts before (and am working through her explanations on "refraining" for a future post) because she's so good at explicating the nature of meditation and spiritual practice in everyday language. Now I'd like to share a bit of an excerpt from a book called [_Reality_](https://peterkingsley.org/product/reality/) by Peter Kingsley.
 

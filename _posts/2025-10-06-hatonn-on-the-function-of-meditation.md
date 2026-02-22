@@ -3,9 +3,7 @@ title: Hatonn on the Function of Meditation
 layout: post
 date: 2025-10-06
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 These remarks on meditation are sublime, and I'd like to offer some thoughts on some things they indicate. First, it's about identity and its ability to be shifted. All of the cares and worries of our incarnation exist within a context of a specific identity; in other words, they aren't just cares and worries floating freely but only in relation to a _self_ in a certain _awareness_. So we never have to unplug from that awareness per se --- that's the impulse to live the hermit life and just avoid all the catalyst that accrues to the incarnate personality. Instead, we just take a moment to "zoom out" from that identity to a bigger, more expansive "self."
 

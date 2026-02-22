@@ -3,9 +3,7 @@ title: Mind/body complex totality
 layout: post
 date: 2025-04-29
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This is a weird thing I just discovered in session 34:
 

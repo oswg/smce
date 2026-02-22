@@ -3,9 +3,7 @@ title: "Q'uo on Faith and Solidarity"
 layout: post
 date: 2024-08-30
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 > It is faith that is the candle you light in this dark canyon. It will not go out; once lit, it will always smolder in some way, no matter if you turn from it. So there is no challenge that can distract you completely, once you have opened your eyes and left slumber behind, as all in this gathering have done. Keep your mind ready through the practices that all of you have been exposed to. That is all that is required. And then, when it becomes too much, learn to reach out to those you trust, and learn to be there for those who trust you. We cannot give you a perfectly balanced equation for the problem of suffering, but we do know that it is your brothers and sisters who will check your work, so to say, and point out with the most precision where you erred in your reckoning. And then, you begin to appreciate what the mystery of the individual is designed to expose to the Creator. And that, my friends, makes the act of acceptance a little easier and a little better of a lesson that doesn’t get forgotten so easily.
 > 

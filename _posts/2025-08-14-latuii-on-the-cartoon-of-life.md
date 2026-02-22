@@ -3,9 +3,7 @@ title: Latuii on the Cartoon of Life
 layout: post
 date: 2025-08-14
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This is one of the first appearances of the fifth density social memory complex Latuii, here identified as "Lattoo" by Carla. There are several notable passages in their answers to group questions that presage future messages from Ra: the concept of wanderers (or "apple" to use an archaic term in the Confederation lineage), the graduation from second to third density sans any mention of "densities," and a discussion of anomalous zones like the Bermuda Triangle. The final question from the group asks about how to rest and recover one's strength, and it is here that I take my excerpt. It shows a glimmer of the humor that Latuii will be bringing to bear in future sessions, and if Q'uo ever shows a sense of jokiness you now know from which sector of the principle it arises! There's also one of the first mentions of the "light touch" and the relative unimportance of diet details, something Ra recapitulates less than five years later.
 

@@ -3,9 +3,7 @@ title: Hatonn on Love as Sacrifice (1976)
 layout: post
 date: 2025-05-21
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Not a lot for me to add here, except that there's some very interesting comments through a different instrument this session comparing the conditioning wave to the wave of love. Then they expand upon the nature of love as one of a perpetual giving, a constant releasing, a service that never ends but only reflects the temporary nature of separation and the timeless nature of unity.
 

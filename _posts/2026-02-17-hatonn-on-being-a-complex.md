@@ -2,9 +2,7 @@
 title: Hatonn on Being a Complex
 layout: post
 date: 2026-02-17
-categories:
-
----
+categories:---
 
 This was a hard one to excerpt because it's chock full of goodies. But I'm going to have to stop mentioning that because as we transition into the 1980s it's gonna be an embarrassment of riches. So let's stop letting Jeremy feel sorry for himself and move right along. I do really encourage reading this one in full though: there's thoughts on the nature of evil, on what families are like on planet Hatonn, what range of emotions fourth density individuals feel, and more. I must also mention there's a big hint about how Latuii's name is really vibrated (and part of the reason why I insist on alternative spelling).
 

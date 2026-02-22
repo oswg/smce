@@ -3,9 +3,7 @@ title: Hatonn on the Two Creations
 layout: post
 date: 2026-02-04
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 When I began reading the archive from the beginning a decade ago, I remember running into concepts of "the creation of the Father" and "the creation of man" frequently, and it definitely seeped into my suite of concepts. It had an archaic ring to it that reminded me of this lineage's heritage in the channeling of Edgar Cayce (who after all was the first to use the term "Law of One" as far as I'm aware). As I started studying becoming an instrument, these messages from the 70s and early 80s rode shotgun with my practice contacts, and I found Laitos referencing the two creations even in [messages I brought through](https://www.llresearch.org/channeling/2017/0429). This is all to say that the term and the idea to which it refers has a long history not only within the tradition but with me personally as well. 
 

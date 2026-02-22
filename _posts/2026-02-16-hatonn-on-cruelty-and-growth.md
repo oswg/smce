@@ -3,18 +3,20 @@ title: Hatonn on Cruelty and Growth
 layout: post
 date: 2026-02-16
 categories:
-
+    - Meta/Legacy
 ---
 
 Well, this is my first post about spirituality as a first-order concern on [my blog](https://socialmemorycomplex.earth/blog/), cross posted to Reddit. I hope you enjoy it, and please check out [r/lawofone_philosophy](https://www.reddit.com/r/lawofone_philosophy/) for more discussion and others' thoughts. If you're interested in contributing to this blog, that subreddit is the best place to reach out.
 
 Anyway, this passage from Hatonn has always stuck with me because it shows the unity between second density and third density service and growth. The challenge in our sector of awareness is to not get discouraged by adversity, but to find creative ways to respond to it as second density life does -- just with a little more perspicacity.
 
+<!-- more -->
+
 Spiritual evolution is a disturbing way to think about the progression of consciousness. Evolution is a cruel, heartless, eat-or-be-eaten world. How do we make sense of that in a philosophy in which love and light is supposed to be central? I imagine each of us has to reach out own balance on this, but I find Hatonn's touching words to be a helpful reminder that we are not alone in our struggle. 
 
 The item near the end about the Creator's pain in separation is particularly poignant because this conundrum of joy and suffering that we work with redounds to the root of beingness itself. We are catching up to [Jesus's casual mention](https://www.biblegateway.com/passage/?search=John+10%3A34&amp;version=KJV): "Know ye not that you are gods?" We are co-Creators in training, and this is part of the training -- not to escape suffering and pain forever, but to learn its fullness as part of our own nature.
 
-> I am known to you as Hatonn, and I greet you in the love and the light of the infinite Creator. I greet you especially on this day which is holy within your culture, and [we] are very, very pleased and privileged to be able to be a part of your celebration of that which lives which was thought to be dead.
+>I am known to you as Hatonn, and I greet you in the love and the light of the infinite Creator. I greet you especially on this day which is holy within your culture, and [we] are very, very pleased and privileged to be able to be a part of your celebration of that which lives which was thought to be dead.
 >
 > Within this channel's mind there is a quote from a poet. It goes like this: "April is the cruelest month, breeding lilacs out of the dead ground." We would like you at this time to ponder those words, for you must take all things personally if you would find their inner meaning. Rather than skimming the surface of the meaning, be shameless and make those things which are general specifically about yourself and see what applies.
 >

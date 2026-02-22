@@ -3,9 +3,7 @@ title: Hatonn on Mass Education
 layout: post
 date: 2026-01-12
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Don't let the policy wonkish title fool you. Hatonn in this excerpt addresses the conundrum of education at scale, where unique individuals are fed a one-size-fits-all curriculum but where individual instruction simply doesn't scale. The real solution is the dissolution of the veil and the ability to see the fullness of an other self, but that's of no help to our institutions presently! And I'd wager this question might be informed by the Louisville folks paying attention to the work of Richard T. Miller and the Solar Cross Foundation, who posed many questions to Monka about how things like this work in higher densities. I hope to share more excerpts from their work this year.
 

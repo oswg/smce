@@ -3,9 +3,7 @@ title: Hatonn on the Animal, the Societal, and the Spiritual
 layout: post
 date: 2025-07-14
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Everything seems to be falling apart, and it seems clear now that, regardless of what political or social outcomes obtain, we are in a moment of decline. As somebody who has spent (wasted) many brain cycles contemplating the state of politics, I cannot ignore the fear inherent in all of this. As things constantly escalate, as indignities and outrages pile one upon another, it strikes deep to my core and shakes up the sense of self I once had.
 

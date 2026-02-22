@@ -3,9 +3,7 @@ title: Hatonn on Bands of Energy (1974)
 layout: post
 date: 2025-03-02
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 As a chaser for that last session where Hatonn said "don't think about densities," Hatonn here essentially bring densities all up again, at least in the sense of those sub-densities Ra [mentioned](https://www.lawofone.info/s/17#39). It is, I suppose, a good way of roughly locating particular kinds of desire in the spectrum of humanity out there, as well as a means by which one can, perhaps in retrospect, see one's location oneself. It's interesting as well to see graduation through these subdensities as in part about exhausting the lower energy to make room for the higher.
 

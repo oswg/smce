@@ -3,9 +3,7 @@ title: The value of happiness
 layout: post
 date: 2024-12-16
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 I mentioned this session in passing in a thread, but it deserves top billing:
 
 The presumption of the seeker is that all parameters are to be understood and searched out and that there is trail of wisdom to the stars, a series of questions that will lead one to infinite wisdom. This is not so. Wisdom is born of suffering, dilemma, contradiction and pain. The so-called happy times that you experience within the illusion are useful as randomly as are the difficult times, and the intrinsic value of happiness is quite low.

@@ -3,9 +3,7 @@ title: Hatonn on Healing our Society
 layout: post
 date: 2025-12-05
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 These are the messages that really intrigue me because of how much of a political theory guy I am. It's what made me fall in love with the complex of Monka: the idea that our social problems are a result of very simple barriers in our hearts, not puzzles we've failed to solve with our brains. This analogy to the body, then, is incredibly instructive.
 

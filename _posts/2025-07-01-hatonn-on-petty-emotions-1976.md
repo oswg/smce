@@ -3,9 +3,7 @@ title: Hatonn on Petty Emotions (1976)
 layout: post
 date: 2025-07-01
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This one hits home, very similar to my all-time favorite Hatonn of May 1, 1983 where they speak of communication as only giving and not taking, how persuasion and making points is completely beside the point of the love that gives communication its import. I have a tendency to be stimulated by conflict; it fires off seratonin or something in my head. I have an intense sense of loyaty for my friends and love nothing more than going to battle for them. It is love, but it is mixed with something quite self-serving and reaffirming to my personality.
 

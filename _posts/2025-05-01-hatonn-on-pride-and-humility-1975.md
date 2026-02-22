@@ -3,9 +3,7 @@ title: Hatonn on Pride and Humility (1975)
 layout: post
 date: 2025-05-01
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 The last recorded session of 1975 is a real treat, one of those sessions where you find something right at the outset that's worth sharing here, and reading further only gives you better and better excerpts. I feel like the point of these little posts on reddit is to give as encapsulated a bite of inspiration and teaching as possible; I could post the whole thing, but you can already find that yourself!
 

@@ -3,9 +3,7 @@ title: Latuii on Time and Will in Learning
 layout: post
 date: 2026-02-06
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 As another example of fourth and fifth density contacts anticipating Ra's messages, consider this passage offered by Latuii. R, a frequent circle participant, is asking about something called "[neurogenetics](https://en.wikipedia.org/wiki/Neurogenetics)" which I know nothing about and I'm willing to bet my fortune that Carla didn't either. Like any good Confederation contact, Latuii penetrates the transient husk to get to the sublime core of the concern expressed by R. 
 

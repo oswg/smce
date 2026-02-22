@@ -3,9 +3,7 @@ title: Hatonn on Negotiating Truth Amongst Our Other Selves
 layout: post
 date: 2025-12-16
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 I've been meditating on this passage quite a bit because of personal distortions I have towards other seekers. They really are a reflection of my own embarrassment; others' shallow interpretations (in my view) force me to face my own past shallow interpretations and suggest I may not have the deepest approach now. This material is so meaningful to me that it bugs the hell out of me how flippant folks can be in reading the material (if they read it at all!).
 

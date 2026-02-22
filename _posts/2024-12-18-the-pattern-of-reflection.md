@@ -3,9 +3,7 @@ title: The Pattern of Reflection
 layout: post
 date: 2024-12-18
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 In session 22, those of Ra [state](https://www.lawofone.info/s/22#6) in response to a question about the shortening lifespans of humans as earth's third density continued into the second and third major cycles:
 

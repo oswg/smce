@@ -3,9 +3,7 @@ title: Hatonn on Service and Self-Knowledge
 layout: post
 date: 2025-10-18
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This was a difficult one to clip, because the point when on for a while. Notice however how Hatonn connects service with self-knowledge. There's a secret here about the purpose of incarnation: that it's not about simply doing good, STO-style service to each we encounter. It is *through service* that we discover ourselves, our true identity and nature. Because our nature is never totally understood, our service will never end. We simply offer the love we can, send it out into the world, and learn about the self "out there" that teaches us something about the self "in here."
 

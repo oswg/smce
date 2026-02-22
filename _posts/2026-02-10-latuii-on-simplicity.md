@@ -3,9 +3,7 @@ title: Latuii on Simplicity
 layout: post
 date: 2026-02-10
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This was a hard session to excerpt, because it hit interesting topics all over the map. They talk about the meaning of their name; they talk about disharmony in seeking groups ("Never be disheartened by apparent disharmony, for there must be friction before something can move"), they talk about discovering the unknown and its relationship to love, and more. They even have an instrument pronounce their name differently. The topic I want to single out is that of simplicity as recounted by a social memory complex in the density of light or wisdom.
 

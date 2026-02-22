@@ -3,9 +3,7 @@ title: Hatonn on Answering the Calling
 layout: post
 date: 2025-12-14
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This is a session that made a big impression on me as I was formulating my own personal style of applying Confederation information to my life. There's really a lot here, and for this post we're going to focus on Hatonn's opening points. I'll probably post other excerpts from this session as they're nice and self-contained.
 

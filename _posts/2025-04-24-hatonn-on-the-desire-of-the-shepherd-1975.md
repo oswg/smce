@@ -3,9 +3,7 @@ title: Hatonn on the Desire of the Shepherd (1975)
 layout: post
 date: 2025-04-24
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This is a great example of the tidbits of Carla's Christianity coming through in useful ways that augment the Confederation's philosophy and give the Christian spin on the "shepherd" archetype a twist. Where does the compassion to serve others come from? When is the "imperfection of ambition" warranted? When is too little seriousness bad -- and when is too much bad? All in the course of four short paragraphs, Hatonn via Carla gives us much to consider.
 

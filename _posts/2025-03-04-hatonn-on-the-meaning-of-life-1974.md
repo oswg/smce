@@ -3,9 +3,7 @@ title: Hatonn on the Meaning of Life (1974)
 layout: post
 date: 2025-03-04
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 What I find striking in this passage is Hatonn's careful description of what truth, once recognized and acknowledged, will _feel_ like -- not what it _is_. Words simply will not capture it. That's an important clue for those of us who overrely on the intellect; whenever we catch ourselves thinking about this stuff, we can safely be assured that we're not there yet. 
 

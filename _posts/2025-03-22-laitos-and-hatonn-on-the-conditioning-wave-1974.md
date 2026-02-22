@@ -3,9 +3,7 @@ title: Laitos and Hatonn on the Conditioning Wave (1974)
 layout: post
 date: 2025-03-22
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 There's something [mentioned](https://www.lawofone.info/results.php?q=conditioning&amp;st=phrase) during contact with Ra that isn't explained very well. It's a relatively important topic when considering the nuances and mechanics of the Confedeartion tradition of contact, however, and it links Ra with the fourth and fifth density contacts in the 70s: the concept of the _conditioning wave_. 
 

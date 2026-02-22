@@ -3,9 +3,7 @@ title: "Various thoughts on 1977's fallow season"
 layout: post
 date: 2025-11-21
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 To be honest, the last few days of reading in the 1977 archive haven't provided much in the way of interesting excerpts. Particularly in the last half of the year Louisville's recording game seems to have been downright awful, with much being lost and the old "(inaudible)" tag featuring heavily. On [this morning's session](https://www.llresearch.org/channeling/1977/1102), the editor even writes, "The transcription is only to give an idea of the contents and should not be considered accurate." 
 

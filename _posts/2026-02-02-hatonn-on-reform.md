@@ -3,9 +3,7 @@ title: Hatonn on reform
 layout: post
 date: 2026-02-02
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 I thought this was a good excerpt to pull for the conditions in which the world finds itself right now, where there is plenty of social and political turmoil. None of us can identify a concrete program to follow individually that can cut through the propaganda and agendas. It is easy to despair, and yet Hatonn poses the critical question: why *are* we here, in fact? This must be the guiding principle we follow as seekers; we cannot possibly know how to heal this intellectually or through some strategy. Only by learning how to be cleaner and cleaner windows for love to pass through and guide us can we hope to help, how to bring the Creator's cosmic love to bear.
 

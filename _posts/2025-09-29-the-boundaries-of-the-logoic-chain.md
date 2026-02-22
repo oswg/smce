@@ -3,9 +3,7 @@ title: The boundaries of the logoic chain
 layout: post
 date: 2025-09-29
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 "Logoic chain" is a term Auxhall [employed recently](https://har.center/2025-08-16/3/auxhall-on-thought-forms-and-service) to describe how the Logos fractally penetrates the illusion by stepping down in consciousness. While it is a novel term it's just putting a label on what Ra discussed in session 29; that we are sub-sub-Logos to the sun (sub-Logos) which is sub-Logos to the Logos of our sector. There seems to be a link between spiritual evolution of consciousness and this patrimony in the Logoic chain.
 

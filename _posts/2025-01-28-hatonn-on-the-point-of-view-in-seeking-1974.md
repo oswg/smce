@@ -3,9 +3,7 @@ title: Hatonn on the Point of View in Seeking (1974)
 layout: post
 date: 2025-01-28
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 I don't have a lot to say about this. I will say that this idea that "we don't live our own life" is very fruitful contemplation. It's very much in line with the other spiritual reading I've been doing, especially the work of Peter Kingsley and the profoundly, scarily transformative potentials involved in really paying attention.
 

@@ -3,9 +3,7 @@ title: Laitos on Polarization (2024)
 layout: post
 date: 2025-03-04
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Here's an excerpt from a Richmond Meditation Circle session with Laitos offering some details about the function of polarity in excess of "working with a certain intensity of light" as Ra puts it. Polarization works with our ability to wield the metaphysical power of beingness of which manifest action in the third density illusion is merely the trailing after-effects. However, because of the solid, undeniable, clear (relative to other illusions) feedback that such after-effects entail, it provides inflection points for the development and honing of this power.
 

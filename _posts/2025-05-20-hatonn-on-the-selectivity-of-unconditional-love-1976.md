@@ -3,9 +3,7 @@ title: Hatonn on the Selectivity of Unconditional Love (1976)
 layout: post
 date: 2025-05-20
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 What a curious, provocative title, huh? Well I'm nothing if not a hype man for the Confederation. I think it's accurate, because what Hatonn discusses here is what is actually capable of being loved in that cosmic, total, unconditional manner. It's not our personalities or the details of our lives. All that stuff is a wash, and it does not partake of the purity that calls back to the Creator at all. That is all illusion, and you cannot love something _fake_.
 

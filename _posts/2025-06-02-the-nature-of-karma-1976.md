@@ -3,9 +3,7 @@ title: The Nature of Karma (1976)
 layout: post
 date: 2025-06-02
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Welp, this is a rare one: an unidentified contact. Since Carla is channeling here, it's almost certainly Hatonn. This entire session is extremely packed with good information on channeling, but I wanted to call out this exchange on karma because it gets to a topic my circle has been thinking about.
 

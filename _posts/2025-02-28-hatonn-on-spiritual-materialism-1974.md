@@ -3,9 +3,7 @@ title: Hatonn on Spiritual Materialism (1974)
 layout: post
 date: 2025-02-28
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 I just ran into this session, and I think it has a fantastic counterpoint to much of the nature of the seeking we engage in. To the extent that such seeking draws us closer to the mystery of unity, it's all great, of course, but there is friction in the intellectual elements that we consider part of the philosophy. Because these details draw concentration and attention, they influence awareness, holding the danger of distraction and dogmatization. Remember [what Ra said](https://www.lawofone.info/s/52#11): "Always begin and end in the Creator, not in technique."
 

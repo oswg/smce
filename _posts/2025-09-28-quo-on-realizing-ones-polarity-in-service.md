@@ -3,9 +3,7 @@ title: Q’uo on realizing one’s polarity in service
 layout: post
 date: 2025-09-28
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 It’s often asked on the r/lawofone subreddit how one should go about serving, or how one can know one is polarizing service-to-others. In doing a massive review of the third intensive sessions in preparation for a presentation on thought forms I’m doing today, I found this passage which I think represents helpful sentiments to those asking such questions of themselves and their fellow seekers.
 

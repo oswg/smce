@@ -3,9 +3,7 @@ title: Latuii on Working Within for Peace in the World
 layout: post
 date: 2026-02-05
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 We've reached 1979, but it's difficult to remember encountering a more timely message for our current situation. Here those of Latuii speak of how the healing of our planet, our society, and our culture begins with healing ourselves. This message doesn't need much expansion, but I do think it's worth giving an explanation of their monitoring activities they lay out at the beginning.
 

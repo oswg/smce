@@ -3,9 +3,7 @@ title: "Hatonn's Meditation Technique (1974)"
 layout: post
 date: 2025-02-28
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 In [49.7](https://www.lawofone.info/s/49#7) Ra refuses to provide Don with a meditation technique. However, their student Hatonn did this a couple of years prior, and I find it very simple and streamlined. If meditation is something that has eluded you because it's simply so unstructured -- and let me be clear, there is great, great value in unstructured, "pure" meditation without object or goal -- this technique of Hatonn's may be something you can work with. I'm thinking I may do an _inaudible_ episode on this just because it's very clean while also offering opportunities for reflection on what meditation actually entails, its meaning in our lives and seeking. 
 

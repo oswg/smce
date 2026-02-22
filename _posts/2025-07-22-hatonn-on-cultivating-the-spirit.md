@@ -3,9 +3,7 @@ title: Hatonn on Cultivating the Spirit
 layout: post
 date: 2025-07-22
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This Hatonn really hit me because it came up naturally in my reading, and yet it seems to directly align with much of where my current thinking has centered: on the extra-intellectual philosophy of Peter Kingsley as well as the planetary inquiries my circle has made [two months back to Oorkas](https://har.center/2025-05-24/16/oorkas-on-the-path-to-fourth-density-earth) and this weekend to Monka (to be published shortly). It centers on the use of perception combined with meditation to see through the illusion to the reality behind it, and how one gets there through the use of attention. I'll let Hatonn speak for themselves:
 

@@ -3,9 +3,7 @@ title: Hatonn on the Bridge of Faith
 layout: post
 date: 2025-11-12
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Well, as we jump forward from April to August (I have no idea whether this gap represents missing material or a lack of channeling), here's another great example of a session that presages Ra's messages, for those of Hatonn discuss the higher self earlier in this session as well as the impending harvest. Time and time again one discovers the majority of concepts explicated by Ra plainly in material prior to their arrival. It seems clear to me that the flower of narrow band contact grew out of the well churned and fertilized soil that constitutes the earlier conscious work. I simply do not see how one can grasp the full message of the Confederation by concentrating solely on Ra's words, but that's for the reader to decide I suppose.
 

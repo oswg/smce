@@ -3,9 +3,7 @@ title: Hatonn on Thought Projections
 layout: post
 date: 2025-11-08
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Maybe it's just me and [my recent fixation on thought forms](https://www.youtube.com/watch?v=3_BOWeM_LUA), but I found this passage from Hatonn quite challenging because I've been proceeding on the theory that sub-sub-logoi are more than just thought forms. Hatonn here suggests that we, or at least our individuality, are projections of the Creator's thought. It's not a direct contradiction of [Auxhall's claims](https://har.center/2025-08-16/3/auxhall-on-thought-forms-and-service) a few months ago, but it does muddy the waters of what thought is and how we go about relating ourselves to the Original Thought and our own thoughts.
 

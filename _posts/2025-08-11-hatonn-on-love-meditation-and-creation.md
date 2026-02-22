@@ -3,9 +3,7 @@ title: Hatonn on Love, Meditation, and Creation
 layout: post
 date: 2025-08-11
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 OK, here you see me struggling with getting a concise excerpt from this session. The segment channeled by Carla was good, but I thought this one featuring "H" -- who I am pretty sure must be [Hal Price](https://www.llresearch.org/history) -- got into some more interesting territory. Hatonn discusses the nature of analysis both positively, as a way an individual subjectively wrestles with the information received, and negatively, as a impediment to the love for which the concepts and words are mere carrier waves. The process of working with this information is the same now as it was fifty years ago: one of employing _both_ the intuition and the intellect, taking personal responsibility for the insights each faculty conveys to the seeker while appreciating the tentative and incomplete nature of these analyses.
 

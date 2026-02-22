@@ -3,9 +3,7 @@ title: Remembering Carla on the tenth anniversary of her passing into larger lif
 layout: post
 date: 2025-04-01
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Ten years ago, I was in the midst of a tumultuous and life-changing transformation. In the middle of this storm of catalyst and galvanized seeking, I learned that the 20th century’s most talented and hardest working instrument for the Confederation, Carla Lisbeth Rueckert McCarty, had passed. The loss of Carla hit all of us in the larger L/L Research community hard; as much as we mourned her passing, little did we know how much her cheerful and wise counsel would be missed as we all attempted to navigate the 21st century’s chaos, both as a planet and as individual seekers.
 

@@ -3,9 +3,7 @@ title: Hatonn on Freedom and Limitation (1974)
 layout: post
 date: 2025-03-17
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This is a crucial nuance to the information coming through Carla and Don's circle in the early days. Notice how they say that they emphasize the real beauty of Creation to beginning seekers, but over time they seek to become an agitator, an annoyance that keeps us from being satisfied with the current limitations under which we labor. This is all in service to waking us up (something Ra has explained they cannot _make_ happen, but I suppose they can help happen if it's already desired sufficiently), but we are not waking up to a freedom of no responsibilities and no stakes. Instead we are waking up to a more demanding version of the same life we know, with an added level of responsibility concomitant with our status as the Creator.
 

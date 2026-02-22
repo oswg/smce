@@ -3,9 +3,7 @@ title: Hatonn on Finding the Simplicity of Seeking
 layout: post
 date: 2025-09-13
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Here you can see Hatonn articulating a crude but anticipatory concept of our different complexes comprising ourselves, especially the body complex and spirit complex relating through mind. There's almost a contrast of sorts between this kind of structured beingness and the "angels" they describe, and our experience is one of complexity that obscures the simplicity of love. And this complexity they locate, once again calling to Ra's message, in a choice.
 

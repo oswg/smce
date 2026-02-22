@@ -4,12 +4,13 @@ layout: post
 date: 2026-02-09
 categories:
   - Meta/Legacy
-
 ---
 
 I've gotten back into reading _Star Wards_, the book of Confederation channeling published by Richard T. Miller's Solar Cross Foundation. It's a more archaic form much closer to the UFO phenomenon than even the 70s channeling I've been surveying here. Like what Don and Carla did, it's a mix of philosophical concepts and space opera, and usually I have to do a lot more filtering with the Solar Cross stuff. This however is excellent; it's just weird to talk about "MAN" like this. In the book "MAN" is even put in a different font from the rest of the text.
 
 The key here is connecting the space opera with the means for seekers to achieve it: consciousness, awareness, philosophy. And their role? Fanning the flame of consciousness to induce the ennoblement of man (lowercase, notably) into "MAN". There are clear references to the fourth density destiny of Earth and folks who have insufficiently polarized repeating third density. I think it's important to dip into these earlier chapters in the lineage to see what has remained the same and what has evolved.
+
+<!-- more -->
 
 _(There may still be mistakes as this is from OCR, sorry)_
 

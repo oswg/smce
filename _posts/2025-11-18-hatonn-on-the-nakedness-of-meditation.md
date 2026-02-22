@@ -3,9 +3,7 @@ title: Hatonn on the Nakedness of Meditation
 layout: post
 date: 2025-11-18
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 A little bit of a longer one, but incredibly helpful to me so I thought I'd share. Hatonn encourages meditation not simply as a way to boost our spiritual evolution, but as a _refuge_ from our waking lives of acting, fronting, and lying to each other. It's not that it's bad that we do this necessarily --- we all have to be where we are in a society and culture in which we play roles and cannot express our truth perfectly --- but that it gets so exhausting to reconcile our spiritual beingness with what everybody expects of us. It makes us bitter, jaded, depressed. OK, it makes _me_ bitter, jaded, and depressed, and to the extent that you feel this too, know there's at least one other soul on this planet right there with you.
 

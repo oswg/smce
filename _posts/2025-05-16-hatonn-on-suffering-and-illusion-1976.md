@@ -3,9 +3,7 @@ title: Hatonn on Suffering and Illusion (1976)
 layout: post
 date: 2025-05-16
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 I thought this session was a decent shorter one, focusing on a topic that perplexes us all: the justice of suffering. We want justice within the illusion -- for suffering to be a thing that is never _undeserved_ -- but this undermines its very purpose of refining us as we truly exist in reality. For it to do so, it must _seem_ real but _be_ illusory.
 

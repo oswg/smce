@@ -3,9 +3,7 @@ title: Orkan on the Flame
 layout: post
 date: 2025-12-14
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This is the only appearance of Orkan in the archives. Since there's a superficial similarity between their appellation and Orcas's ("Oorkas" in our material) it's possible there's a connection, but I find it unwise to dwell on these things too much. The names are much much more important to us than they are to these contacts.
 

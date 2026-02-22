@@ -3,9 +3,7 @@ title: Hatonn on Perceiving Love
 layout: post
 date: 2025-07-31
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Hatonn was fond of telling stories through Carla's instrument, and this was one of the first. It seems like these stories were ways of illustrating the concepts Confederation entities wished to impart without overly abstracting things. One can see why that might be necessary given the message later in the channeling about the proper role of the intellect in these matters.
 

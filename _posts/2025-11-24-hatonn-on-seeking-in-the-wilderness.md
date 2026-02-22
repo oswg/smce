@@ -3,9 +3,7 @@ title: Hatonn on Seeking in the Wilderness
 layout: post
 date: 2025-11-24
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 We're kicking off [1978](https://www.llresearch.org/channeling/1978/), another year of sparse records of channeling. I rather think this indicates a lack of recording rather than a lack of channeling, because it's hard for me to see sporadic practice leading to narrow band contact in less than three years, but who knows. I really doubt anybody with first hand knowledge of this is still alive, and in any case Ra showed up when they showed up.
 

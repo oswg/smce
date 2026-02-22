@@ -3,9 +3,7 @@ title: Hatonn on Power
 layout: post
 date: 2025-09-05
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Just realized this excerpt is from exactly 49 years ago today! Pretty cool it was my reading this morning.
 

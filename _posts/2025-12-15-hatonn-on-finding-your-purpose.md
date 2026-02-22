@@ -4,7 +4,6 @@ layout: post
 date: 2025-12-15
 categories:
   - Meta/Legacy
-
 ---
 
 Here's another gem that hits several different interesting points, and if I mentioned them all this wouldn't be the bite-size excerpt survey kind of post that I like to do. I encourage you to read the whole thing, for it features early evidence of the planet's role in social memory as well as some good advice for those of us who sometimes roll our eyes at how other's interpret spiritual material.\

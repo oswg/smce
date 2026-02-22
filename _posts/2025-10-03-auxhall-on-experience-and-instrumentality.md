@@ -3,9 +3,7 @@ title: Auxhall on Experience and Instrumentality
 layout: post
 date: 2025-10-03
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Here's another excerpt from the same transcript I shared from yesterday, building upon Auxhall's ideas about brotherhood. Carla's part focused on how to serve our other selves, but H's (likely Hal Price, but I can't be certain) section delves more into serving the Creator, the nature of instrumentality, and how individual experience and service are aggregated into the Creator's learning. And it is through the very limitations we press against that we offer this learning to the Creator. If we can trust in the Creator and realizing It's will, the architecture of transmission of this light and experience can benefit us, no matter which level of "us" we're thinking of.
 

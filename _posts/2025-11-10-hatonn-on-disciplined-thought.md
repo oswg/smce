@@ -3,9 +3,7 @@ title: Hatonn on Disciplined Thought
 layout: post
 date: 2025-11-10
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 A short one here, as Don asks a bunch of transient questions in this last documented session from 1976. Continuing on the frequent Confederation subject of the great power and radical responsibility of one's choice of thoughts, Hatonn affirms our status as co-Creators of this illusion we shape and are shaped by.
 

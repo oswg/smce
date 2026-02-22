@@ -3,9 +3,7 @@ title: Hatonn on Effort and Responsibility in Seeking
 layout: post
 date: 2025-09-09
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This entire session is fantastic, including H's opening (likely Hal Price through whom Hatonn is talking about harvest in 1976) as well as B's closing. I'm also omitting Carla picking up on an unanswered question which I considered making the focus instead of this excerpt, but I think this is more valuable to the seeker if I have to choose. You don't have to choose -- go read it!
 

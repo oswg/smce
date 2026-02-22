@@ -10,7 +10,7 @@ categories:
 We've reached the last documented session of this amazing year, 1974. Hatonn takes a moment before answering the groups admittedly transient questions to distinguish the meditative approach to oneness with the intellectual acceptance of it. Meditation, in part, is a way in which this oneness becomes a reality instead of just a theory we "believe in."
 
 However, this oneness is not just a feeling that precipitates into the meditator over time. Crucially, this unity of all consciousness is precisely at the heart of the channeling phenomenon to begin with. We are channeling _now_, and when we channel Hatonn or other Confederation entities, they are giving us words that they _themselves_ are channeling from higher up. Channeling, in summation, seems to be just the way information circulates through the densities and sub-densities.
-
+<!-- more -->
 This insight has been indispensible in my work on a general theory of channeling, where I'm hypothizing that channeling is inherent in all thought and that it's simply a matter of which densities or sub-densities are being bridged at a given moment, not a question of whether it's occurring or not. So we're all channeling all the time anytime there's "motion of thought;" it's just a matter of which density boundaries we're moving between. Most of the time we stay in a tight band of sub-sub-sub-sub-densities; with work and concentration, we can dilate that band and cross major densities. 
 
 Remember: [infinity has a center](https://www.lawofone.info/s/82#7); though we can get lost in the sheer endlessness of it, there's a return point always available when we dilate our focus and [expand into oneness](https://www.reddit.com/r/lawofone_philosophy/comments/1j08oew/hatonns_meditation_technique_1974/).

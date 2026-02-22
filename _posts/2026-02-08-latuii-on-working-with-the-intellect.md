@@ -3,9 +3,7 @@ title: Latuii on Working With the Intellect
 layout: post
 date: 2026-02-08
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This is a good, longer session covering many different points. Today I'm focusing on Latuii's ideas about the intellect and going beyond it. The questioner asks about an article he read and asks for Latuii to comment on its accuracy. Latuii challenges the entire concept that words are very effective at getting at the deeper questions intellect seeks to make plain and bare. It's about finding a balance between one's intuitive apprehension of an aspect and the focus that an intellectual penetration of an aspect brings to bear.
 

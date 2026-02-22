@@ -3,9 +3,7 @@ title: Hatonn on Love as Sacrifice (1976)
 layout: post
 date: 2025-06-30
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 When I dig into the L/L Research Conscious Channeling Archives, I'm not just trying to find diamonds in the rough. What I find particularly interesting are the thru lines between this earlier work and what Ra ends up articulating. That's helping me construct a kind of genealogy of contact where I can make sense of work that follows and precedes Ra, understanding the concepts as evolved by increasingly tuned contact as the principles of stable practice are better understood over the course of the 20th century.
 

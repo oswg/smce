@@ -3,9 +3,7 @@ title: Group work
 layout: post
 date: 2023-08-22
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 In [69.17](https://www.lawofone.info/s/69#17), those of Ra are answering Don's questions about the danger of misplacing a mind/body/spirit complex into a time/space oppositely polarized to the complex's native polarization. After discussing the nature of free will and why confusion can contribute to such a tragic outcome, they continue (emphasis mine):
 

@@ -3,9 +3,7 @@ title: Names are hard! (First Telonn, 1974)
 layout: post
 date: 2025-01-17
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 I encourage dedicated scholars of this material to take a moment to review the first appearance of each contact in the archive. There's often some interesting notes about how the name is prounounced. In this session, we see Carla struggling a bit with this name -- in the archive it's considered contact with "Telonn" but only in retrospect. Look at the first Q'uo in 1986, too -- there's direction on how it is _truly_ pronounced and also intimations that, at least at that time, Q'uo's composite nature was not really perceived.
 

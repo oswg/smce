@@ -3,9 +3,7 @@ title: Makai says hi
 layout: post
 date: 2026-02-11
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Throughout the LLR channeling archives that are a handful of contacts who make a very small number of appearances. Telonn comes to mind, as does Oorkas (Orcas) and Orkan. Makai makes one single appearance at the end of a '79 session. The content is not interesting; I'm just sharing a novel appearance.
 

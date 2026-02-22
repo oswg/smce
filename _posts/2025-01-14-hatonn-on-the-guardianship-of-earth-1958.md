@@ -3,8 +3,8 @@ title: Hatonn on the Guardianship of Earth (1958)
 layout: post
 date: 2025-01-14
 categories:
-  - Meta/Legacy
-
+    - Circles/Solar Cross Foundation
+    - Instrument/Richard
 ---
 
 This is interesting, and I don't have any comments.
@@ -48,6 +48,8 @@ This is interesting, and I don't have any comments.
 > This ends my little talk at this time. Perhaps, my brothers, we will find even more to talk about as I know that the time again draws near. We have long waited the opportunity to speak with and greet the people of Earth.
 > 
 > Adonai. May the Love and the "Light" of The Infinite One be with you. May all peace be yours. I am Hatonn. Adonai. ☥
+
+<!-- more -->
 
 \- Hatonn via Miller: April 23, 1958 (_Star Wards_, 1979)
 

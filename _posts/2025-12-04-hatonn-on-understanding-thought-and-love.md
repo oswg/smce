@@ -3,9 +3,7 @@ title: Hatonn on Understanding, Thought, and Love
 layout: post
 date: 2025-12-04
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 We come once again to one of these elusive terms in the philosophy of the Confederation: _understanding_, that state which those of Ra [claim](https://www.lawofone.info/s/16#39) is not part of our third density experience. And yet they also [say](https://www.lawofone.info/s/40#3) a density involves "primarily its [corresponding color] ray plus the attractions of the following ray pulling it forward in evolution and to some extent coloring or shading the chief color of that density." So while understanding in total is not our lot in this incarnation, we are attracted to it, pulled towards it, and therefore perhaps it is reasonable to say that understanding is the draw of the next density on our third density experience.
 

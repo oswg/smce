@@ -3,9 +3,7 @@ title: Hatonn on the Body
 layout: post
 date: 2025-11-11
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 We've entered 1977, and it will be a very brief visit as there are [only six or so documented contacts in the archive](https://www.llresearch.org/channeling/1977/1). I would love to know the reason, but I'm not sure there's anybody still around who could explain it -- remember that Jim McCarty doesn't join LLR until 1980ish.
 

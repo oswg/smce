@@ -3,9 +3,7 @@ title: "Q'uo on Will and Desire"
 layout: post
 date: 2024-09-21
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 > Selfhood now is to be understood as consciousness which knows itself to be such and seeks for—well, let us ask: for what does it seek? As it experiences itself in its first-found form, this seeking is only in the interrogative, “for what do I seek?” We find that it is the third density, the density of self-consciousness, where this question must not only be asked, but answered. When we say it must be answered, perhaps we overstate the matter, for surely there is much seeking that goes on beyond the third density. And yet, there is something decisive that happens in third density, and that is what we are referring to now in announcing the necessity of the answer. You will know this decisive moment as what we have called the choice. 
 >

@@ -3,9 +3,7 @@ title: Hatonn on Service and Polarity (1974)
 layout: post
 date: 2025-01-22
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 The title should give away the reason this is interesting to me: this is Hatonn in 1974 talking about "polarization", "service to others" and "service to oneself." The point being that these ideas were being worked out in conscious channeling already over five years before contact with those of Ra occurred. These are actually in my view some pretty sophisticated and novel concepts being articulated before Ra gave these terms their precision and full scope of meaning. We take this stuff as granted now; it was still being worked out in the 70s.
 

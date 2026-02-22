@@ -3,9 +3,7 @@ title: Martin Buber on Individuals vs. Persons
 layout: post
 date: 2024-02-27
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 >Individuality makes its appearance by being differentiated from other individualities.  
 >  

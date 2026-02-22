@@ -3,9 +3,7 @@ title: Soliciting thoughts
 layout: post
 date: 2025-12-06
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 We don't have a lot of conversation here, so running a subreddit starts to feel indulgent. I'm considering moving my posts to substack; how would folks feel about that?
 

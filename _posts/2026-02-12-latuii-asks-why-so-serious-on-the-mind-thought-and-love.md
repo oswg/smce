@@ -3,9 +3,7 @@ title: "Latuii asks: why so serious? On the mind, thought, and love."
 layout: post
 date: 2026-02-12
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Another Latuii banger drops some 47 years ago, this one focusing on thought and intellect and its proper use. We already know we need them to be in balance with the heart and intuition; now we need to also calm the F down and stop being so serious and solemn. There's a place for that, but not when it arises from a fear -- least of all of God!
 
@@ -17,9 +15,7 @@ Second, something contacts in 2025 stressed to me: the words will be imperfect. 
 
 > I am Oorkas. I am grateful that you have had patience with this instrument and with our planet’s message, for it has not arrived without distortion, we must confess. Look to the center of the message, not the words. Connect with the center of yourselves and then connect with the message, and you will be able to separate the wheat from the chaff and take the true hope that we convey as we convey it and as we mean it. And this is, again, a skill you are learning with great advantage to all who cross your paths.
 
-This seems similar to what Latuii describes when they say "We offer these foolish sentences in the hope that you will see what is behind them…" With all my love: please take that to heart as we all learn how to relate to these friends.
-
----
+This seems similar to what Latuii describes when they say "We offer these foolish sentences in the hope that you will see what is behind them…" With all my love: please take that to heart as we all learn how to relate to these friends.---
 
 > My friends, this instrument has been deep in prayer in the last two minutes, for she fears, as always, that she will not speak the words that we give her. We think that this is a perfect example of what makes us laugh at the people of your planet. You are so serious, my friend; you are so sure that you will be able to tell the truth by the use of your intellect.
 >

@@ -3,9 +3,7 @@ title: Monka on the Halls of Grandeur (Solar Cross Foundation, 1969)
 layout: post
 date: 2025-07-25
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Normally I excerpt channeled sessions because I'm well aware of the attention span of Reddit, and I can link to this session elsewhere. However, in this case there is nowhere to point you except to a book that is hard to find: _Star Wards (1979, Solar Cross Foundation)_ which catalogs the Confederation channeling of Richard Miller, originally part of the Detroit group who moved to California and started his own group which became the Solar Cross Foundation. I'm hoping over the long run to get more of this material available online, but for now the best available are recordings of the original sessions from [this archive](https://innersites.com/issa/) as well as my friend Eric's [YouTube channel](https://www.youtube.com/@ixcalix148) (not sure if he wants me to reference him more specifically, but I owe him a debt for introducing me to this chapter of the Confederation's contact with us).
 

@@ -3,9 +3,7 @@ title: Oorkas on the Light Touch
 layout: post
 date: 2024-01-30
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 > Such tragedy we feel along with you. And yet, does it not call to your heart? And does it not ask for your best as a response to it? This instrument understands how deep this despair can go down, how low it can feel when one is disrespected or discarded, how incommensurable an expression of love can feel with the depth of suffering on this planet. And yet, as one learns to balance those tragedies’ reflections within the self, one learns that service is a flow, and it is called out of oneself by outer events.
 > 

@@ -2,9 +2,7 @@
 title: "The Life Instrumental: A new blog on Confederation philosophy"
 layout: post
 date: 2026-02-15
-categories:
-
----
+categories:---
 
 I'm gonna be cross-posting my stuff there and here, no worries. But there's some interesting announcements on there. You should keep an eye on that space. 
 

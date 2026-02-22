@@ -3,9 +3,7 @@ title: Laitos on Desire and the Process of Manifestation
 layout: post
 date: 2025-07-26
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 A short one from Laitos, with whom the Richmond circle just made contact yesterday training up a new instrument. Laitos is talking about patience and becoming in the context of channeling, but this excerpt strikes me as applicable to all seeking:
 

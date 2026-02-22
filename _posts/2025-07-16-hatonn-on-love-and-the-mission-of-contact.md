@@ -3,9 +3,7 @@ title: Hatonn on Love and the Mission of Contact
 layout: post
 date: 2025-07-16
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Once again, I think this 1976 session is pretty self-explanatory. Only one thing I'd comment on: their juxtaposition of this UFO mission of awakening interest in infinity with the central role of love. 
 

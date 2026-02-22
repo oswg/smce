@@ -3,9 +3,7 @@ title: Hatonn on Chosen Challenges in Life
 layout: post
 date: 2025-10-04
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Once again I'm forced to choose between Carla's portion and H's portion in a 1976 session. Carla's instrument is just so much more lyrical and inspiring! This is good advice for those who rightly and rationally look at the suffering and hardship in their lives and question a beneficent Creator. Not only is it beyond our ability to emotionally ground the authorship and purpose of these experiences, but it would undermine the very purpose of the testing this catalyst effects to know that! This is why meditation, patience, and love are keys not simply to happiness and equanimity, but to _penetrating the illusion_. 
 

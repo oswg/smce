@@ -3,9 +3,7 @@ title: Hatonn on the Reaction Test (1974)
 layout: post
 date: 2025-03-06
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 In this session Hatonn addresses the purpose of the illusion: to test our reactions to each aspect of the Creator streaming through It's many guises. Rather than life being a process of avoiding that which knocks us off our center, life is _catalyzed_ by this refusal to avoid, to simply locate the Creator/self in what we experience and greet it with love. As this reaction becomes more automatic, we free ourselves to be more genuinely creative in the moment, identify opportunities that did not previously disclose themselves, and serve more fully.
 

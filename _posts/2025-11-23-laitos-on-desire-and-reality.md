@@ -3,9 +3,7 @@ title: Laitos on Desire and Reality
 layout: post
 date: 2025-11-23
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 In this last documented session of 1977, Hatonn gives a great sermonette with a surprisingly naturalistic view of how inner and outer realities connect. Not only do our manifest lives reveal in previously unrecognized ways our thoughts, we tap into this hidden wealth of our lived experiences _through_ our quest to know ourselves:
 

@@ -3,9 +3,7 @@ title: Hatonn on Planetary Happiness and Desire
 layout: post
 date: 2026-01-10
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 Happy 2026 other selves! Trying to get back in the rhythm of posting here. 
 

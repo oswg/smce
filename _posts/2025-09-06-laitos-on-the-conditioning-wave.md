@@ -3,9 +3,7 @@ title: Laitos on the Conditioning Wave
 layout: post
 date: 2025-09-06
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 The conditioning wave was previously discussed in [this 1974 session](https://www.llresearch.org/channeling/1974/1110) which we [addressed](https://www.reddit.com/r/lawofone_philosophy/comments/1jh77rs/laitos_and_hatonn_on_the_conditioning_wave_1974/) about six months ago. This wave is typically dealt with in our philosophy as a subjective signal of contact to an instrument. However, it's worth mentioning that those of Laitos see it as a much broader transmission of helpful love that can occur completely outside the channeling context. 
 

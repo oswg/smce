@@ -3,9 +3,7 @@ title: Hatonn on the Ideal, the Manifest, and Love
 layout: post
 date: 2025-08-07
 categories:
-  - Meta/Legacy
-
----
+  - Meta/Legacy---
 
 This message from Hatonn seems ordinary and mundane: once again prattling on about love. However, pay close attention to what they are saying about ideals and how manifestation instantiates them without the need for perfect conformity to their template. This is just Platonism in a way, sure, but the kicker is how to take this same thinking and apply it to the power of love underlying all qualities. And then, how does this application realize the harmony we seek, the vibrancy that draws us forward in our seeking?
 
