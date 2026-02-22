@@ -9,6 +9,8 @@ categories:
     - Topic/Meditation
     - Topic/Discipline of the Personality
     - Topic/Mated Relationships
+    - Topic/Responsibility
+    - Topic/Spiritual Evolution
 ---
 
 Here's another excerpt from the same session featuring a follow up question to Hatonn's thoughts on mated relationships: _what do those of Hatonn mean by being yourself exactly?_ There are two mentions of "being yourself;" the first deals with the mirroring nature of any experience of other self by self and vice versa.
