@@ -36,8 +36,7 @@ permalink: /blog/:year/:month/:day/:title/
 
 # Navigation (pages to show in header; order is respected)
 header_pages:
-  - blog.md
-  - about.md
+  - blog.md - about.md
   - contact.html
 
 # Build settings
