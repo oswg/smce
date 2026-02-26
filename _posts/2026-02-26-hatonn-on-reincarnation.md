@@ -7,7 +7,7 @@ categories:
   - Topic/Reincarnation
 ---
 
-There's a really good excerpt from this session I'm leaving, possibly to deal with in a more comprehensive way tomorrow. However, this is a good and rather concise explanation of reincarnation by those of Hatonn which I think bears reading. It really gets into the affective dimension of what kind of self we must be to contain this kaleidoscopic capacity for expression of our essence.
+There's a really good excerpt from the beginning of this session I'm skipping, possibly to deal with in a more comprehensive way tomorrow. However, this is a good and rather concise explanation of reincarnation by those of Hatonn which I think bears reading. It really gets into the affective dimension of what kind of self we must be to contain this kaleidoscopic capacity for expression of our essence.
 
 The challenges with which we are dealing _right now_ are the stuff of the incarnative/discarnative sine wave our consciousness traces in its undulations through time and space. We have accrued biases that give us things to work on in order for our consciousness to expand and our ability to love be less and less inhibited. The details of personality are but a kind of avatar or container we've selected for understanding our full 360 degrees of self in _this_ context at _this_ time. Karma, far from being some debt we learn to refinance cleverly, is instead our best friend in ensuring this learning. Consider applying that rubric to all of the elements of incarnative life that we attempt as best we can veiled from our total selves.
 
