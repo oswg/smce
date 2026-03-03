@@ -27,4 +27,4 @@ The point I'm trying to make---the point I see those of Hatonn making---is that 
 > 
 > Past lifetimes? They are a kaleidoscope; they are you. But so are your future lifetimes. Imagine yourself as part of a great circle where consciousness dwells within this part of it at this time. But all that you must do at this time is meditate and seek the love of the Creator. And then, when you have it, send it forth. As we have said, this is not an easy concept.
 
-\- [Hatonn via Rueckert: June 17, 1979](https://www.llresearch.org/channeling/1979/0617)
+\- [Hatonn via Unknown: June 17, 1979](https://www.llresearch.org/channeling/1979/0617)

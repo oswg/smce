@@ -4,7 +4,8 @@ author: jeremy
 layout: post
 date: 2026-02-28
 categories:
-  - Topic/Service	
+  - Topic/Service
+  - Topic/Original Thought
 ---
 
 In some of my research for an essay I'm writing on one of Hatonn's sessions, I came across some early explications of the concept of service. What is novel is not the emphasis the early contacts place on it so much as the way Hatonn grounds the phenomenon in an evolutionary telos and what we would normally call "natural processes." The same way Dr. Tyman coined the term "ontological love" to distinguish what we call "love" as humans from the cosmic forces of creation and destruction, I'd like to suggest "evolutionary service" as the underlying philosophical concept that informs what we crudely attempt in the illusion through our activities and intentions. It is the common root of the different manifestations of desire and response throughout the many mansions of our Father. Service is bound up in desire and therefore the calling, all of these dynamics weaving to hold the creation together as an image of unity careening through the evolution of consciousness.
