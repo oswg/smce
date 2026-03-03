@@ -4,6 +4,8 @@ layout: post
 date: 2025-05-16
 categories:
   - Meta/Legacy
+  - Topic/Justice
+  - Topic/Suffering and Pain
 
 ---
 
