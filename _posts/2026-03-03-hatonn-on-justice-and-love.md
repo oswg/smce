@@ -9,7 +9,7 @@ categories:
   - Topic/Service
 ---
 
-The subject of justice in the context of spiritual evolution and seeking has long boggled my mind (last menmtioned here). I've come to accept that at the level of my ego personality, I will never be able to shed an attachment to fairness and equity. These are pillars of yellow-ray stability and order; you cannot have a social self as we know it without building upon a foundation of a system rational and orderly in _some_ way. So for Hatonn to speak of worldly liberation, demands, and obedience in the way they do is refreshing.
+The subject of justice in the context of spiritual evolution and seeking has long boggled my mind (last mentioned [here](/blog/2025/05/16/hatonn-on-suffering-and-illusion-1976/)). I've come to accept that at the level of my ego personality, I will never be able to shed an attachment to fairness and equity. These are pillars of yellow-ray stability and order; you cannot have a social self as we know it without building upon a foundation of a system rational and orderly in _some_ way. So for Hatonn to speak of worldly liberation, demands, and obedience in the way they do is refreshing.
 
 The key as I see it is in the striving, orienting the conscious self to love on a daily basis. As waking personalities, we will always want to be treated fairly, and we will seek to treat people fairly. The latter is something we can effect, but not as a means to the former. I do think the howling and grotesque injustices of civilizations across Earth history attest to the fact that as catalyst, submission under duress must teach a powerful and vital lesson
 
