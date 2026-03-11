@@ -23,4 +23,4 @@ Just a funny side note: my wife has done a past life regression before with a gr
 > 
 > Unfortunately, this type of information has often been misused, due to the rule we were explaining earlier that knowledge implies responsibility. Thus, if you know what your lesson is and still refrain from learning it, your lesson becomes harder and harder until, as a matter of survival, you must learn it. To make it easy upon yourself, explore the possibilities of love in this incarnation, in this moment, at this time, with these people, in this environment, in this illusion, before you begin working with previous lifetimes. For it is in this life that you have the opportunity, at this moment, to take conscious control of your destiny and to speed yourself on your journey toward the light which you now invoke in this meeting.
 
-\- [Latuii via Rueckert: March 11, 2026](https://www.llresearch.org/channeling/1979/0719)
+\- [Latuii via Rueckert: July 19, 1979](https://www.llresearch.org/channeling/1979/0719)
