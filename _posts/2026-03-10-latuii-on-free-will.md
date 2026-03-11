@@ -16,7 +16,7 @@ This excerpt serves as a fine example: do we consent to being created and thrown
 
 <!-- more -->
 
-To sober up a bit, logically predestination/choicelessness makes far more sense in a Creation in which nothing can really "happen," let alone be "chosen," at all. It is often in simply returning concepts to the stark simplicity of oneness that we are able to properly consider them, and in that light there is no such thing as "the created." Indeed, this links up [information our circle receveived from those of Auxhall this summer](https://har.center/2025-08-16/richmond/2025-invitational/003/auxhall-on-thought-forms-and-service/), and I'm glad for the confirmation as it seemed a bit unmoored at the time. 
+To sober up a bit, logically predestination/choicelessness makes far more sense in a Creation in which nothing can really "happen," let alone be "chosen," at all. It is often in simply returning concepts to the stark simplicity of oneness that we are able to properly consider them, and in that light there is no such thing as "the created." Indeed, this links up [information our circle received from those of Auxhall this summer](https://har.center/2025-08-16/richmond/2025-invitational/003/auxhall-on-thought-forms-and-service/), and I'm glad for the confirmation as it seemed a bit unmoored at the time. 
 
 We are not created or generated; we are a focus of the Creator, transmitted down through the logoic chain to the level/density of awareness we happen to occupy. And yet, since we're the Creator, it is impossible to expunge all sense of subjective title to the object of our reality. So I feel like choice in the illusion is like this distortion of our absolute agency as the Creator. 
 
