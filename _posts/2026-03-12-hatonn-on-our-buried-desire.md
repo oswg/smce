@@ -6,7 +6,7 @@ categories:
 ---
 The final excerpt from the July 19, 1979 session takes us back to the very first passages in the session. Here we revisit the subject of desire in a very direct and helpful form: the layers of distortion that "bury" our true desire. It is not simply for us to discover in meditation; we discover it in the daily events of our lives.
 
-If we ask ourselves honestly what we have desired today, then we must reckon with the answer, and often I think it's that which we fear most. The magic occurs in that very response of the self, one that we are often shocked by, even though it's our _own_ response. In doing so, we let our natural, honest response to that reflection---be it one of shock and disapproval or one of attraction and wonder---impel us further down through these layers in an attempt to know ourselves. The alternative is to look away and distract ourselves, which is always a minor stalling tactic in a cosmic telos. 
+If we ask ourselves honestly what we have desired today, the    n we must reckon with the answer, and often I think it's that which we fear most. The magic occurs in that very response of the self, one that we are often shocked by, even though it's our _own_ response. In doing so, we let our natural, honest response to that reflection---be it one of shock and disapproval or one of attraction and wonder---impel us further down through these layers in an attempt to know ourselves. The alternative is to look away and distract ourselves, which is always a minor stalling tactic in a cosmic telos. 
 
 <!-- more -->
 
