@@ -5,8 +5,8 @@ date: 2026-03-18
 categories:
   - Author/Jeremy
   - Topics/Service
-  - Topics/Law of Confusion
-  - Topics/Nature of Creation
+  - Topics/Inspiration
+  - Topics/Planting a seed
   - Topics/Desire
 ---
 
