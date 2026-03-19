@@ -10,7 +10,7 @@ categories:
   - Topics/Desire
 ---
 
-Here those of Hatonn a fantastic monologue, but I'm going to excerpt only the most important section, at least as I deem it. I do encourage you to read the entire session. For me, this is just as much about documenting my own findings in my study of the archive as it is bringing these messages to you, and it's in the balance between those two desires that I write these pieces.
+Here those of Hatonn offer a fantastic monologue, but I'm going to excerpt only the most important section, at least as I deem it. I do encourage you to read the entire session. For me, this is just as much about documenting my own findings in my study of the archive as it is bringing these messages to you, and it's in the balance between those two desires that I write these pieces.
 
 Near the beginning of the session, those of Hatonn proclaim the divine heritage of each mind/body/spirit complex that hides behind the Law of Confusion. And then they hit the nail on the head when addressing what each of us really want to know, each of us who walk this path: _how do we make use of this heritage?_
 
