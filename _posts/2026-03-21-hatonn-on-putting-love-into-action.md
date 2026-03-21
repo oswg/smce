@@ -13,6 +13,8 @@ Hatonn starts this session off with a beautiful story about two sisters and how 
 
 So if we're ready and prepared, then it's just a matter of paying attention and letting the Creator's love flow _through_ us. In the proper mindset, as I read this, it's not really _our_ love at all anyway. We don't have the resources to love adqueate to the need; we are simply asked to step out of the way. Once we are sharing that love, we can apply our talents and unique gifts to the situation through that connection to heart. 
 
+<!-- more -->
+
 We can be personalities and serve reliably, but _only_ by staying in contact with the Creator. Otherwise we're taking our chances! So meditate and get yourself into the best frame of mind for a wild world of service waiting for you.
 
 > We ask you, my friends, to be so seated in your hearts that you can do those things which become before you to do in the name of the Creator and in the voice of love. In this vibration were you all made; and this you share, not only with those of your planet but with all sentient beings throughout the universe, in all galaxies of your universe, and in the many universes that fill the dimensions of the great creation. We are all one, my brothers and sisters.
