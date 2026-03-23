@@ -15,7 +15,7 @@ So if we're ready and prepared, then it's just a matter of paying attention and 
 
 <!-- more -->
 
-We can be personalities and serve reliably, but _only_ by staying in contact with the Creator. Otherwise we're taking our chances! So meditate and get yourself into the best frame of mind for a wild world of service waiting for you.
+Think long and hard, however, about Hatonn's claim that "you cannot be a loving person by yourself." We can be personalities and serve reliably, but _only_ by staying in contact with the Creator. Otherwise we're taking our chances! So meditate and get yourself into the best frame of mind for a wild world of service waiting for you. 
 
 > We ask you, my friends, to be so seated in your hearts that you can do those things which become before you to do in the name of the Creator and in the voice of love. In this vibration were you all made; and this you share, not only with those of your planet but with all sentient beings throughout the universe, in all galaxies of your universe, and in the many universes that fill the dimensions of the great creation. We are all one, my brothers and sisters.
 > 
