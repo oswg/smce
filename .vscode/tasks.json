@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "New blog post",
+      "type": "shell",
+      "command": "${workspaceFolder}/bin/new-post",
+      "args": ["${input:postTitle}"],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "clear": true
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "id": "postTitle",
+      "type": "promptString",
+      "description": "Blog post title (used in front matter and filename slug)"
+    }
+  ]
+}

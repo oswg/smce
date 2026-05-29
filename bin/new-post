@@ -1,0 +1,109 @@
+#!/usr/bin/env bash
+# Create a Jekyll post in _posts/ for today (or a given date).
+#
+# Usage:
+#   bin/new-post "Hatonn on Something"
+#   bin/new-post -d 2026-05-01 "Title with optional date"
+#
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+POSTS_DIR="$ROOT/_posts"
+
+usage() {
+  cat <<'EOF'
+Usage: bin/new-post [OPTIONS] "Post Title"
+
+Options:
+  -d, --date DATE   Post date (YYYY-MM-DD). Default: today (local).
+  -h, --help        Show this help.
+
+Examples:
+  bin/new-post "Hatonn on the Ongoing Legacy of Planetary Work"
+  bin/new-post -d 2026-05-01 "A post backdated to May 1"
+EOF
+}
+
+slugify() {
+  # Lowercase, replace non-alphanumerics with hyphens, trim/collapse hyphens.
+  echo "$1" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g; s/^-+|-+$//g; s/-+/-/g'
+}
+
+yaml_quote() {
+  printf '"%s"' "$(printf '%s' "$1" | sed 's/\\/\\\\/g; s/"/\\"/g')"
+}
+
+DATE="$(date +%Y-%m-%d)"
+TITLE=""
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    -d|--date)
+      [[ $# -ge 2 ]] || { echo "error: --date requires YYYY-MM-DD" >&2; exit 1; }
+      DATE="$2"
+      shift 2
+      ;;
+    -h|--help)
+      usage
+      exit 0
+      ;;
+    -*)
+      echo "error: unknown option: $1" >&2
+      usage >&2
+      exit 1
+      ;;
+    *)
+      if [[ -n "$TITLE" ]]; then
+        echo "error: unexpected extra argument: $1" >&2
+        usage >&2
+        exit 1
+      fi
+      TITLE="$1"
+      shift
+      ;;
+  esac
+done
+
+if [[ -z "$TITLE" ]]; then
+  echo "error: post title is required" >&2
+  usage >&2
+  exit 1
+fi
+
+if ! [[ "$DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+  echo "error: date must be YYYY-MM-DD (got: $DATE)" >&2
+  exit 1
+fi
+
+SLUG="$(slugify "$TITLE")"
+if [[ -z "$SLUG" ]]; then
+  echo "error: title slugified to empty string" >&2
+  exit 1
+fi
+
+FILENAME="${DATE}-${SLUG}.md"
+PATHNAME="$POSTS_DIR/$FILENAME"
+
+if [[ -e "$PATHNAME" ]]; then
+  echo "error: post already exists: $PATHNAME" >&2
+  exit 1
+fi
+
+mkdir -p "$POSTS_DIR"
+
+YAML_TITLE="$(yaml_quote "$TITLE")"
+
+cat >"$PATHNAME" <<EOF
+---
+title: $YAML_TITLE
+layout: post
+date: $DATE
+categories:
+  - Author/Jeremy
+---
+
+<!-- more -->
+
+EOF
+
+echo "$PATHNAME"
