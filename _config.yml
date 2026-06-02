@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   on Earth.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://socialmemorycomplex.earth" # the base hostname & protocol for your site, e.g. http://example.com
-youtube_username: "@oswg"
+youtube_username: "@smc-earth"
 github_username: "oswg"
 tiktok_username: "otherselvesworkinggroup"
 excerpt_separator: <!-- more -->
