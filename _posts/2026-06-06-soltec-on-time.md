@@ -34,4 +34,4 @@ I'm hoping that as we move forward with Miller's group, we'll get more insights 
 > 
 > I will close for now. I am Soltec. Adonai.
 
-\- [Soltec via Miller: ]
+\- [Soltec via Miller: August 21, 1974](https://github.com/oswg/akasha/blob/main/scf/misc/1974-08-21_scf_misc_003.md)
