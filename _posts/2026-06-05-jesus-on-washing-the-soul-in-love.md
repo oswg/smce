@@ -35,7 +35,3 @@ I'm truncating it quite a bit, but Hatonn talks about self-knowledge leading to 
 > And seek always that holy ground which lies beneath your feet wherever you stand. I am with you in prayer. I am by your side in meditation. My love goes with you, my peace I give to you. I am known to you as Jesus. My peace to you, my friends.
 
 \- [Jesus via Rueckert: November 3, 1979](https://www.llresearch.org/channeling/1979/1103)
-
-
-
-
