@@ -36,4 +36,4 @@ Everywhere always, we humans operate under the earnest but sad assumption that w
 > 
 > Your people are so unaware that all of these things are not only possible but there is a statistical probability that is growing, that one of your leaders upon your planetary sphere will attempt to use nuclear force to gain an advantage. This, my friends, is the deepest trouble of this cycle upon your planet. You must understand it in terms of what we began with. The spent energy, the unavailability of creative energy of a planet itself being reflected in the habits of the peoples and in the thoughts of your leaders. It is not creative to consider the destruction of a planet as a diplomatic tool; it is indeed suicidal. But your leaders have become numbed to that fact, because they have played the game too long, and because the culture around them is so consistent in its deep sleep of attempting to grab more and more of what is left of the energy of the planet, instead of attempting to restore more and more energy to the planet.
 
-\- [Hatonn via Rueckert: September 18, 1979]()
+\- [Hatonn via Rueckert: September 18, 1979](https://www.llresearch.org/channeling/1979/0918)
