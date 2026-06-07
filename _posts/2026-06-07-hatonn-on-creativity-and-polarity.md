@@ -1,0 +1,39 @@
+---
+title: "Hatonn on Creativity and Polarity"
+layout: post
+date: 2026-06-07
+categories:
+  - Author/Jeremy
+---
+
+I've got things to do this morning, so I was listening to the Living Love and Light episode covering September 18, 1979 --- which was a mistake, as I meant to listen to _November 18, 1979_. Nevertheless, I realize I didn't mention this session on here and I kind of see why. Hatonn goes geopolitical again talking about the danger of nuclear weapons at this time, singling out China and Israel as particularly threatening. 
+
+This is a very curious time to read these late 70s sessions because there's such a similarity of situation. Russia and Israel creating trouble; Iran and the U.S. in conflict; labor unrest and a general hollowing out of many countries' capacities to operate. However, I've spent a long, long, looooooong time blogging about politics in my life, and I'd like to think I'm past that. If you really want Law of One oriented commentary on the political, read [my essay](https://socialmemorycomplex.net/features/the-political-implications-of-the-law-of-one/) on the matter or, even better, listen to [the Cushvlog podcast](https://www.youtube.com/playlist?list=PLhxUDrMFUqyMQSozC1ES-Q4BkT8MJbY_1).
+
+<!-- more -->
+
+What I'm interested in in this session is the link between creativity and polarities of service. It reminds me of [my favorite session of the Richmond group ever](https://har.center/2023-01-15/richmond/ccp/004/monka-on-power-and-community/), where Monka is (to my mind) chastising me for some of the excuses I've given myself for my behavior towards L/L Research administration a few years back:
+
+> …every moment you spend in meditation is a moment building a greater self to explore. Every moment you balance a hard feeling within, you heal something holding everyone back. It is so difficult, we understand, to take this responsibility seriously, and it is for that reason that we encourage you to faithfully, lovingly but honestly, reflect to each other. Everyone is capable of hearing an idea. It is the creative nature of love within you that gives you the imagination, the ingenuity to express that love in the moment, in that relating, so that it is heard. It is up to the other to hear it, but you have many resources within. You are not limited to only certain ways of relating. This is what lies before you, each of you: the vast plethora of tools, energies, modalities of thought that make every relationship workable on some level. So if a relationship fails on one level, you have no reason to despair but, to be frank, your own laziness.
+
+\- [Monka via Weiland: January 15, 2023](https://har.center/2023-01-15/richmond/ccp/004/monka-on-power-and-community/)
+
+Monka has my number: I am lazy, and like many people when I get frustrated by misunderstanding I too often resort to outrage to marshall angry energy to the conflict instead of looking at it as a puzzle to solve creatively in a mutually beneficial manner. What's interesting to me is to look at this metaphysically, energetically, recognizing the role meditation plays that my personality cannot replace. 
+
+Everywhere always, we humans operate under the earnest but sad assumption that we must fight for what we want. To be instruments of a divine agenda, that is one big item to sell off, donating the proceeds to the poor, so that we can follow our messiah who speaks to us within our hearts. We need to shed ourselves of these ideaas that stunt our imagination, for serivce-to-others is an art, and we must be light and sensitive to tune into it.
+
+> I am again with this instrument. We must use this instrument, and so we will attempt to speak as clearly as possible, using her vocabulary and understanding. You are aware, of course, of a situation of your outer illusion, and perhaps you are also aware that—almost unnoticed by the great majorities of your peoples—your entire planet is hurtling headlong into the greatest crisis possible.
+> 
+> The consumption of creative energy has increased the entropy of your planet and its resources and decreased the available creativity and regenerative abilities of the planet itself. Meanwhile, your peoples ignore those forces of nature which cannot be depleted. My friends, your peoples do not deserve the beautiful creation of the Father which constitutes the surface of the sphere on which you dwell.
+> 
+> But this is not the important point, my friends, for with the increased entropy of your physical material there is a corresponding entropy of mental and spiritual creativity; and those who dwell within your culture have more and more become creatures lacking in creativity and imagination, due to the fact that they are one with your planet as they must be, one with the machines that they have created, with the governments that they have created and with the polarities that they have created. Because of their paucity of understanding, you stand at this point at the brink of many disasters.
+> 
+> It is only due to the meditation of those sending love and light to the planetary consciousness, that the many, many natural disasters of recent years have not taken an even greater toll in lives. This will continue to increase as the polarity of your peoples becomes more and more evident. Polarity or separation is indicative, my friends, of one thing—a lack of creativity. For what is creativity, my friends, but an understanding of creation. And what is the creation—but love! And what is love—but unity!
+> 
+> Thus, it is absolutely inevitable that where your peoples have accepted the fundamental dicta of government, society and culture, regarding differences in ideology, religion, social behavior and other artificial walls, you will have endless and proliferating polarities. Thus, we move from natural disaster to manmade disaster. You know already of the small disasters that are taking place gradually. So gradually that people become numbed and do not react to them. The disasters of what you call your inflation and all the many ills of a society, where work is thought of as the lowest form of making a living; and your so called wheeling and dealing where no work is done but only the manipulation of people and money, is thought of as the highest form of work, this disaster and all of its accompanying and corollary problems is breaking your society apart.
+> 
+> For those who actually work are very angry, and they band together and demand more and more and they are locked into a self-defeating and endless struggle for survival. And the same thing, my friends, happens with your governments. Except that with your governments there are many leaders, not a few, but many, who would consider the possibility of planetary annihilation rather than relinquish an ideology, a piece of land, or power whether it be economic or political.
+> 
+> Your people are so unaware that all of these things are not only possible but there is a statistical probability that is growing, that one of your leaders upon your planetary sphere will attempt to use nuclear force to gain an advantage. This, my friends, is the deepest trouble of this cycle upon your planet. You must understand it in terms of what we began with. The spent energy, the unavailability of creative energy of a planet itself being reflected in the habits of the peoples and in the thoughts of your leaders. It is not creative to consider the destruction of a planet as a diplomatic tool; it is indeed suicidal. But your leaders have become numbed to that fact, because they have played the game too long, and because the culture around them is so consistent in its deep sleep of attempting to grab more and more of what is left of the energy of the planet, instead of attempting to restore more and more energy to the planet.
+
+\- [Hatonn via Rueckert: September 18, 1979]()
