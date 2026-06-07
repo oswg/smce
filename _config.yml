@@ -40,10 +40,16 @@ paginate_path: "/blog/page:num/"
 header_pages:
   - blog.md
   - about.md
-  - contact.md
+  - contact.html
 
 # Build settings
 theme: minima
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

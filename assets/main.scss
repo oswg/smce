@@ -28,7 +28,6 @@ $grey-color-dark: #3d4d3d !default;    // darker accent
   display: block;
   max-width: 100%;
   height: auto;
-  vertical-align: middle;
 }
 .site-title:visited {
   color: transparent;
@@ -75,4 +74,52 @@ $grey-color-dark: #3d4d3d !default;    // darker accent
   font-size: 0.85em;
   margin-left: 0.2em;
   vertical-align: text-bottom;
+}
+
+// Contact page
+.page-content .post-header {
+  text-align: center;
+}
+
+.contact-page {
+  text-align: center;
+}
+
+.contact-form {
+  display: block;
+  text-align: left;
+  width: 100%;
+  margin: 1em auto 0;
+
+  label {
+    display: block;
+    margin-top: 0.5em;
+    font-weight: 600;
+  }
+
+  input,
+  textarea {
+    width: 100%;
+    padding: 0.4em 0.5em;
+    font: inherit;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+
+  textarea {
+    resize: vertical;
+    min-height: 6em;
+  }
+
+  button {
+    margin-top: 0.5em;
+    padding: 0.5em 1.2em;
+    font: inherit;
+    cursor: pointer;
+    background-color: $brand-color;
+    color: $background-color;
+    border: 1px solid $brand-color;
+    border-radius: 3px;
+  }
 }
