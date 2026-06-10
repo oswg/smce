@@ -1,0 +1,42 @@
+---
+title: "Hatonn on Natural and Unnatural Negativity"
+layout: post
+date: 2026-06-10
+categories:
+  - Author/Jeremy
+---
+This session deals with the darker tones of consciousness from the outset. Beginning with an unknown instrument, Hatonn discusses the role change plays in spiritual evolution with an emphasis on fear's role in seeking the Creator. Through Carla, Hatonn expands on this to address what seems obviously the service-to-self polarity, another notable precursor to the model of consciousness Ra will deliver less than two years later. They do an excellent job, I think, of distinguishing the polarities that arise in manifestation _naturally_ --- hot and cold, light and dark, near and far --- from the polarity of consciousness that governs evolution beyond third density, which they call "unnatural negativity" or "positive negativity" (that is positively chosen negativity as opposed to passively experienced negativity).
+
+Speaking in terms of what is "natural" is curious to me, as in the Richmond circle we've had some sessions discussing the distinct qualities of nature vs. man-made civilization. In piecing together Oorkas's and Monka's points, I'm starting to see that it has to do with the thought forms involved and whether they arise from a consciousness closer to the Logos/sub-Logos or from a consciousness closer to the sub-sub-Logos (us). Our creations could be closer to those of nature if we were more in tune with the Creator; it's our very rebellion that causes us to think thoughts and create forms that defy the rhythms of the planet and cosmos. 
+
+<!-- more -->
+
+In that distinction, you may notice a way to think about service-to-self: a counter-logoic desire to elevate and exalt the sub-sub-Logos, to make it the center of gravity around which the Creation orbits rather than centering our Creator. It is a choice of perspective to which the mind complex responds by offering thought forms, avenues for channeling the spectrum of consciousness to the will. As we experience the contradictions of third density life, we reconcile ourselves to different points on the positive/negative continuum in all things, discovering our biases that express our Creator's infatuation with knowing Itself.
+
+I should also mention that in addition to the remarks on polarity, Hatonn also comments on the "knot of fear" in a later passage that presages Ra's remarks on Maldek. They also wrap up by revisiting Jesus's unique role in our evolution, putting some focus on the role our thought plays in dietary matters. It's also worth noting, just as an aside, that this is the second session on this day, November 18. Looks like Don took a break and in doing so cleared the way for more Ra-like information to come through the other instruments. 
+
+However, I think this discussion of natural and unnatural polarities is the most interesting. What does this dyadic conception of consciousness imply about our nature that we haven't figured out yet --- that maybe those of the Confederation do not yet see? Don't let my commentary instruct you; let it inspire you to unfetter your mind complex and let it teach you in ways no words can about the nature of your own consciousness.
+
+> When you consider, my friends, what it is that you are, you may then see that there is nothing to fear either outside or within yourself. For you are a being of infinite life, and whatever occurs to your physical envelope which you call your body is but a transitory alteration in your condition of consciousness. However, we realize that at this time, although you have some knowledge of yourself as one with the Creator, although you have a good grasp of the ideals of the ethics of love, but you are at this time enduring difficulties associated with living within the gross or coarse reality which is your Earth plane.
+> 
+> Therefore, we would like to make a distinction for you in order to enhance your understanding of that which you see about you. There are two types of that which you would call negativity.
+> 
+> The first type is extremely beneficial. Night, for example, is the negative of day. Night is very beneficial, giving us rest from our labors and a happy end to the troubles of the day. Cool is the negative of warm and when you have experienced your planet’s sunlight for too long a period of time, there is nothing as refreshing to you as the coolness of water as you bathe in it and enjoy its beauty.
+> 
+> You will find these same negatives in people. You will find temper which is the negative of patience, and yet, you will find that temper brings honesty, and honesty brings understanding. You will find illness as the negative of health, and yet, with illness comes the only chance for healing and thus understanding the power of that which you call the holy spirit.
+> 
+> All of these so called negatives are a valuable and gentle necessity of existence. And when they are part of your life, it would be well for you to analyze them and understand the balance that they make for you. For beauty and joy are not one-sided, but occur only because there are gradations of beauty and gradations of joy which extend into their negatives, a lack of beauty and a lack of joy.
+> 
+> When you are sad, realize that you are natural; that you are part of a balancing force. Just as a pendulum will move, so will your spirit seek its balance. Not by standing still, but by rocking. Joy, sadness! Joy, sadness! This is the earthly way.
+> 
+> There is another way, my friends, and that is available to you only through meditation. And when you enter into this [supernal] joy of infinite life and are one with angels and spirits of high divinity, praising the Creator, then there is no balancing necessary. For this is a joy without what you call emotion. It is so wholehearted, as you would call it, that there is no balancing necessary in order to sustain the energy of the feeling. In fact, joy is not a feeling but a creative force. And another word for that is love. And that is what we greet you with, and that is what we always leave you with.
+> 
+> We previously mentioned that there was another kind of negativity, one which you need not fear, but which you might need to understand. And that is an unnatural negativity. One which is not balanced, but is chosen, purposely and perversely by those who would separate themselves from ongoing unity with the Creator. It is a choice of separation, and it is what we would call positive negativity, in that it is positively sought and encouraged.
+> 
+> Yes, my friends, there are those among you who are quite simply unnaturally negative. This is their path and they have chosen it. We do not wish to ask you to have any particular feeling about these people, one of whom is certainly in your mind at this time, for he is in the minds of all those whom we scan in your culture. We refer to the one known as Khomeini. We do not ask you to love, forgive or condone, for these are choices which you must make for yourself. We cannot help you choose your own spiritual reality. But we can hope to enhance your understanding of the fact that although even such a one as he is somewhat negative at this time, by his own choice, you must understand that the path of evolution is ultimately spiritual and is ultimately inevitable.
+> 
+> A negative person may choose at this time to make no progress. He will, however, at a later time have as many choices and opportunities as he needs to choose again. In your holy works there is something called, “The Day of Judgment,” and those who are evil, as we have spoken, are to be condemned forever. And yet, it is also written in your holy works, “Yea, though you go to the very doors of hell, I shall be with you.”
+> 
+> My friends, you may believe the teacher and not the judgmental statements that follow the teacher. Your heaven and your hell exist within you at this moment. And when you leave your physical body, your existence in the heaven worlds will depend completely upon your vibration in this incarnation. Thus, we ask that you use that balancing act of positive and negative, so that you are constantly learning, constantly moving in an evolutionary spiral that will lead you to a place where in your infinite existence, after this brief life experience in this density, you will be comfortable, comforted and able to give comfort to others.
+
+\- [Hatonn via Rueckert: November 18, 1979](https://www.llresearch.org/channeling/1979/1118_02)
