@@ -8,7 +8,7 @@ categories:
 
 Here's an excerpt that means a lot to me. To other readers it likely appears to be a case of Carla's Christian passion reaching through the contact again, and that's certainly going on. But what I want to put a fine point on is the emotion conveyed here, one of utter hopelessness and appeal to the Creator for salvation. 
 
-What is the transformation we seek? It is in some ways the annihilation of the personality, that token of our existence we cling to in terror. What will release of from the prison walls will at first seem like an attack on us. To be lost and confused is to be much, much closer to the truth of the illusion than to be well adjusted to this mad culture and even madder compulsion we have to affect this personality we call the self, this imposter we offer as an agent for the world.
+What is the transformation we seek? It is in some ways the annihilation of the personality, that token of our existence we cling to in terror. What will release us from the prison walls will at first seem like an attack on us. To be lost and confused is to be much, much closer to the truth of the illusion than to be well adjusted to this mad culture and even madder compulsion we have to affect this personality we call the self, this imposter we offer as an agent for the world.
 
 <!-- more -->
 
