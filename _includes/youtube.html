@@ -1,0 +1,14 @@
+{%- comment -%}
+  Embed a YouTube video. Usage in posts/pages:
+    {% include youtube.html id="lCN-UKCBY3M" title="Organizing Seekers" %}
+  Optional: start=90 (seconds)
+{%- endcomment -%}
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube.com/embed/{{ include.id }}{% if include.start %}?start={{ include.start }}{% endif %}"
+    title="{{ include.title | default: 'YouTube video' | escape }}"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
