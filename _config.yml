@@ -36,6 +36,9 @@ permalink: /blog/:year/:month/:day/:title/
 paginate: 25
 paginate_path: "/blog/page:num/"
 
+twitter:
+  card: summary
+
 # Navigation (pages to show in header; order is respected)
 header_pages:
   - blog.md
@@ -56,6 +59,12 @@ plugins:
   - jekyll-paginate
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/jer_tli_white.png
+        alt: The Life Instrumental
   - scope:
       type: "posts"
     values:
