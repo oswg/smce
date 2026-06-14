@@ -20,4 +20,4 @@ That's why I joined the Association for Spiritual Integrity. I expand on this re
 > 
 > That is why Jeremy joined the nearly one thousand other spiritual guides, teachers, and organizers who are members of the Association for Spiritual Integrity. ASI provides resources and training for spiritual leaders to ethically minister to often vulnerable seekers. They provide a concrete and robust [honor code](https://www.spiritual-integrity.org/honor-code-for-spiritual-leaders) to help seekers recognize boundary-crossing behavior, offering not only avenues for seekers to report misconduct and receive support but also for mediating conflicts in groups. We encourage you to examine their honor code and consider joining them in creating a more ethical and accountable community.
 
-I hope you will consider joining and donating, building capcity for social memory where it is safe for us to become vulnerable and trust.
+I hope you will consider joining and donating, building capcity for social memory where it is safe for us to become vulnerable and extend love and trust. The spiritual path is not safe, but our groups should be.
