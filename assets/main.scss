@@ -93,6 +93,23 @@ $grey-color-dark: #3d4d3d !default;    // darker accent
   }
 }
 
+.asi-member-seal {
+  float: right;
+  width: 180px;
+  max-width: 45%;
+  height: auto;
+  margin: 0 0 1em 1.5em;
+}
+
+@media screen and (max-width: 600px) {
+  .asi-member-seal {
+    float: none;
+    display: block;
+    margin: 0 auto 1em;
+    max-width: 200px;
+  }
+}
+
 // Contact page
 .page-content .post-header {
   text-align: center;
