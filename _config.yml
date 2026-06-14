@@ -63,8 +63,8 @@ defaults:
       path: ""
     values:
       image:
-        path: /assets/jer_tli_white.png
-        alt: The Life Instrumental
+        path: /assets/smce_social.png
+        alt: socialmemorycomplex.earth
   - scope:
       type: "posts"
     values:
