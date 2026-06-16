@@ -8,7 +8,7 @@ categories:
 
 One more SCF session from _Star Wards_ before we return to your regular programming. This is a little bit silly, but this Korton fella strikes me a little bit as a call screener for the Confederation; he typically introduces and plays off contacts, but doesn't share much himself. So this is a rare question-and-answer time with him where he addresses several concern of the Solar Cross group. 
 
-And one more random and idle thought: because Korton functions so often in this material as a kind of pass-through entity, starting and ending communications but handing off to another complex like Monka or Voltra or Soltec, part of me wonders whether there isn't some connection between Korton and Q'uo somehow. Q'uo also functions as a proxy for several complexes, although more as a synthesizer than as a talk show host. I fully acknowledge this is stupid and insane, but when reading this material for thru lines it is helpfuly to keep your mind _just open enough_ that only a small amount of brain falls out.
+And one more random and idle thought: because Korton functions so often in this material as a kind of pass-through entity, starting and ending communications but handing off to another complex like Monka or Voltra or Soltec, part of me wonders whether there isn't some connection between Korton and Q'uo somehow. Q'uo also functions as a proxy for several complexes, although more as a synthesizer than as a talk show host. I fully acknowledge this is stupid and insane, but when reading this material for thru lines it is helpful to keep your mind _just open enough_ that only a small amount of brain falls out.
 
 <!-- more -->
 
