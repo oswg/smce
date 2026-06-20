@@ -13,6 +13,7 @@ layout: home
 - **[_(inaudible)_ podcast](https://inaudible.show)**: A podcast about the applying the Law of One to our lives
 - **[Orbiter](https://orbiter.socialmemorycomplex.earth)**: a video chat app for timed group meditations online, following the way Carla Rueckert ran meditations at L/L Research headquarters (in alpha testing currently)
 - **[Organizing Seekers](https://www.youtube.com/watch?v=lCN-UKCBY3M)**: a presentation on building spiritual community at multiple levels
+- **[Working Notes](https://oswg.substack.com)**: Our newsletter for updates on Working Group and SMCE activities, announcements, etc.
 - **One-on-one chats with seekers**: studying this philosophy can feel isolating at first. If you need a fellow seeker to talk to, we're here.
 
 ## Support our Work
