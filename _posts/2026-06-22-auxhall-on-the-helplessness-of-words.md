@@ -12,6 +12,8 @@ This is a question I'm tackling partially in my analysis of Hatonn's May 1, 1983
 
 <!-- more -->
 
+I'm also struck by Auxhall's admission of helplessness, a word that Peter Kingsley's work has invoked heavily to impress upon seekers the abject limitations involved in seeking. We are trapped in an illusion that focuses us without when we need to go within. It is not always intuitive walking this path, and it seems like being trapped in third density ennui is a common experience of evolving planets. After all, those of Ra had a pretty chill third density and even they had wanderers visit.
+
 > Your minds are full of many things, my friends. As we were saying, your world is full of words, full of guns, full of negativity at this moment in your space/time continuum in your illusion. All of you are at this time obeying the only wisdom known to man. And that is you are silent and [in search] of the single Thought that created all of you, to which all of you belong, your original Thought, the Creator, my friends, which is love.
 > 
 > We will tell you a small story to see if we can inspire you with a greater respect for meditation and the art of silence.
