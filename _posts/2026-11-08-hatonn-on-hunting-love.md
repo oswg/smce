@@ -8,7 +8,7 @@ categories:
 
 This may be one of the more slightly controversial messages from our friends in the Confederation, and yet I think it deserves more reflection before one lets discomfort become dismissal. In my view it is quite well that those of Hatonn dive directly into the language that strikes us as so "unspiritual" -- hunting, prey, _aggressiveness_ -- in order to disabuse the listener of the normal paens to peace and passivity that accompany these little sermonettes. Of course, I don't think the message is one against peace or pacivism; it only throws into stark relief the dynamics of seeking, recognizing the spiritual work involved in preparing oneself for the encounter with the love sought.
 
-And yet, is there _not_ an element of passivity involved with the entire concept of patiently stalked one's prey? Yes and no, right? Is there not an active, striving element involved in the training of one's mind towards that single-minded focus to which to exhort us to turn? So I advise the reader to attempt not to simply push away the violent rhetoric.
+And yet, is there _not_ an element of passivity involved with the entire concept of patiently stalking one's prey? Yes and no, right? Is there not an active, striving element involved in the training of one's mind towards that single-minded focus to which to exhort us to turn? So I advise the reader to attempt not to simply push away the violent rhetoric.
 
 <!-- more -->
 
