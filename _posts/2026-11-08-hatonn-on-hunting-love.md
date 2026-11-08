@@ -18,7 +18,7 @@ It is paradoxical beyond most paradox because it impinges directly upon the qual
 
 This is where I think one can usefully apply the language of cunning, of aggression, of pursuit: to exert one's consciousness towards occupying a point of view in which the unity of these things can at least be thought at all. We are training ourselves to be co-Creators in third density, to reckon directly with the enormity of infinity and free ourselves from the illusion of finity. We need all of our hunter's tools just to make the occupation of that perspective thinkable at all, that greater self Hatonn speaks of imaginable in the first place, so that we understand our faith is both passive and active, and we can take more charge of it as we refine our will.
 
-Please note all speakers in this excerpt are unknown, though it's obvious to me that Carla is at least one of them. I've also gotten rid of instrument transfers to make the central point
+Please note all speakers in this excerpt are unknown, though it's obvious to me that Carla is at least one of them. I've also gotten rid of instrument transfers to make the central point clearer and smoother, and removed extraneous commentary about instruments.
 
 > The hunter goes forth, my friends, and knows the manner of his prey. His weapons he has carefully provided for himself and fastidiously placed in the prime condition, that they may do their work. The hunter has a single mind and knows his prey. Is it the dark of the moon? Even so, the hunter stalks. Is it damp and cold in the dawning hours? Even so, the hunter waits watchfully, for the hunter knows his prey.
 > 
