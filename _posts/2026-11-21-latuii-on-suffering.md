@@ -8,7 +8,7 @@ categories:
 
 The needfulness of suffering is likely one of the biggest spiritual mysteries for me. From the unified perspective, I can see how it operates, and here those of Latuii acquit themselves well in emphasizing this. Yet it cannot be denied by those who read these words that they at least _seem_ not to occupy this vantage point. The bargain of incarnation traps us within our subjectivity, and it rather seems to me to demand a narcissism that militates against its balancing. 
 
-After all, it is the loneliness that suffering entails that constitutes its most painful aspects, as Latuii [shared with us](https://har.center/2025-08-16/richmond/2025-invitational/002/latuii-on-working-with-pain/) some decades later. There is a sense in which I find the self-centeredness of experiencing pain as the flip side of loneliness. Nobody else seems to suffer, just me; my suffering isolates me from others who do not feel it, drawing my attention over and over to the self. It strikes me as an utterly barbarian condition for spiritual progress!
+After all, it is the loneliness that suffering entails that exacerbates the mere bodily sensation, as Latuii [shared with us](https://har.center/2025-08-16/richmond/2025-invitational/002/latuii-on-working-with-pain/) some decades later. There is a sense in which I find the self-centeredness of experiencing pain as the flip side of loneliness. Nobody else seems to suffer, just me; my suffering isolates me from others who do not feel it, drawing my attention over and over to the self. It strikes me as an utterly barbarian condition for spiritual progress!
 
 <!-- more -->
 
