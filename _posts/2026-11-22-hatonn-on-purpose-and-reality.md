@@ -28,4 +28,4 @@ All of these extremes of the many polarities are distortions of a single princip
 > 
 > We say these words to you, hoping that you will find the devotion within yourself to make this journey, this spiritual journey, and make it your everyday life. For soon, it shall be so.
 
-\- [Hatonn via Unknown](https://www.llresearch.org/channeling/1980/0824)
+\- [Hatonn via Unknown: August 24, 1980](https://www.llresearch.org/channeling/1980/0824)
