@@ -1,5 +1,5 @@
 ---
-title: "Hatonn on Purpose"
+title: "Hatonn on Purpose and Reality"
 layout: post
 date: 2026-11-22
 categories:
