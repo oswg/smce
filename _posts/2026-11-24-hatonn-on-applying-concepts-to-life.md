@@ -1,0 +1,39 @@
+---
+title: "Hatonn on Applying Concepts to Life"
+layout: post
+date: 2026-11-24
+categories:
+  - Author/Jeremy
+---
+
+In this excerpt we come face to face with one of the seeker's biggest pitfalls: intellectual understanding of spirituality. Hatonn goes to great lengths to emphasize the sublimity of oneness, how its simplicity actually makes it _more difficult_ for us to understand. What yields results in our seeking, however, is not simply holding this abstract concept of unity in our minds; **we must apply these concepts to our lives to see their truth**.
+
+I don't do a lot of bold face on this blog, but it's such an important point. The vast majority of us discovered this philosophy online, and it makes sense that we digest it largely though discussing it with our online peers. This is wonderful in the sense that people who might otherwise feel incredibly isolated parsing these concepts can have some company and people off of whom to ideas. But because so much of our conversation is reduced to text, it tends to head in the direction of technical comprehension and intellectual reasoning. The concepts become subjects of theorization and debate rather than prompts to inquire into the nature of our lives and consciousness, an area that demands a bit more vulnerability, honesty, and agility. 
+
+<!-- more -->
+
+I'm comfortable admitting that there were years of my interest in the Law of One where it was more of an online discussion topic than a serious discipline of self-inquiry and balancing. The key for me was discovering the feedback mechanism of emotions. Once I opened to their undeniable power and the dimensions of information and veracity they convey, it became clear that much of what is mystical and magical in life stems from the heart and our ability not to understand things so much as to deeply immerse ourselves in them. We learn not just by mentally modelling a subject but also by blending into it, letting it touch us deeply, and allowing it to transform us in whatever small way it can. Q'uo mentioned this idea to the HARC circle [a few years back](https://har.center/2024-11-01/harc/ci6/001/quo-on-intellect-and-intuition-in-archetypal-study/).
+
+This is Hatonn's message: to let the concept of unity pierce us, not by keeping it in the intellect, where it cannot touch us, but by applying the concept creatively to the lives we already live. Yes, the intellect is irreplaceably important, but it cannot get us home on its own. We must open space in our thinking for thoughts that cannot be written down or cleanly defined, those mysteries that fill in the gaps between the comfortable pillars of the illusion.
+
+> It is a very great privilege to be with you at all times, for you see, my friends, we are inseparable, for we are one. Yes, we are one, just as you are one with all. Everything, as we have said many times, is but one thing: the Creation, or the Creator. Either is correct, for one is the other. This concept is the concept which the people of your planet must understand if they are to progress. It is unfortunate that this concept has not been communicated, in general, to most of the peoples of your planet. It is the lack of this concept that creates what they see as their present problems. A full understanding and application of this concept immediately eradicates all problems. This probably seems much too simple, but in truth, this is all that is necessary to be known. If you can greet each entity with whom you come in contact as you would greet yourself, if you could greet yourself, and love that person as you should love yourself, then, my friends, all of what you call your problems would be nonexistent.
+> 
+> We of the Confederation of Planets in the Service of our Infinite Creator have said this many times, through channels such as this one, and through other mechanisms. It has been put in writing many, many ways, and been communicated in many forms, through classifications of philosophy that you term “religion.” Unfortunately, but few of the population of your planet have been able to understand this simple teaching. Some have understood it intellectually, and yet, they have not understood, for they have been unable to apply this simple concept.
+> 
+> The reason for the lack of ability to apply this simple concept, my friends, is primarily due to a lack of meditation. We have also, many, many times talked to you of the necessity for meditation. To sum it up, my friends, the concept of unity brought to your total awareness through the process of meditation is all that is necessary for the growth of the peoples of your planet at this time. If you find yourself straying from this awareness, remind yourself to relax and seek the truth that we bring you through the process of meditation. Reestablish, shall we say, your point of view, and then look at your environment and your fellow beings in a different light—in the true light. The light that simply states that everything that exists is one thing. Understand that that which is annoying or foreign to you is caused only by a lack of understanding of this simple, simple truth.
+> 
+> Many of your peoples will not be able to make the transition which is so close upon them that, as it has been said, they could reach out and touch it. They will require a longer period of learning. This is unfortunate, and yet, it is not as unfortunate as you might think, for it is their choice to experience the set of conditions that they will experience.
+> 
+> My friends, you have a terrific opportunity. If you are able at this time to fully understand and then apply this simple truth of unity, if you are in every action, every word, every deed, able to reflect this understanding, then, my friends, you will have achieved what you set out to achieve. Consider this point well, my friends, for all that you experience in the physical will fade away and no longer be with you. All that you will transport through time and space to eternity is your thinking. Develop that, my friends, for that is the only thing you have of any value at all.
+
+\- [Hatonn via Unknown: August 27, 1980](https://www.llresearch.org/channeling/1980/0827)
+
+And just a bit of further reinforcement towards the end of this session. Notice that it's not just applying the concepts to life, but being open to their spontaneous realization in ways that will surprise you!
+
+> We give to this instrument a concept of a very deep and very vast sky. It is not the sky that is seen from the surface of the planet, it is that which is seen from deep space, in those magic spaces between the galaxies where the dimensions merge. We wish the asker of the question to place himself in that area, and to feel the ecstasy of touching the infinity of dimensions and creations that spread out like a rainbow from that point.
+> 
+> The Creator’s universe is a beautiful thing. In your microcosmic, planetary world, you see a tiny part of it, and much of what you see has been mishandled by your peoples. This does not mean, my friends, that the Creator has in some way become tarnished. There are those things which endure, and it is those things in which you may rest as a bird floating upon the wind, or a sea creature resting at the ocean’s bottom, touching an infinity of beauty that is all one tapestry of light. Please know, my friends, that this being of infinite light connects you with all that there is—not upon this plane, but upon a finer one. The knowledge of this oneness cannot get you through the illusion if you attempt to apply it consciously. The magic of creation can only be expressed spontaneously. Therefore, we ask you to lift your consciousness to deep space, and look back on the microscopic dot in a minor galaxy which is called Earth.
+
+\- [Hatonn via Rueckert: August 27, 1980](https://www.llresearch.org/channeling/1980/0827)
+
+I'll be back next time with more observations about this session.
