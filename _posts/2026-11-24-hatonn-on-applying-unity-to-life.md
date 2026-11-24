@@ -1,5 +1,5 @@
 ---
-title: "Hatonn on Applying Concepts to Life"
+title: "Hatonn on Applying Unity to Life"
 layout: post
 date: 2026-11-24
 categories:
